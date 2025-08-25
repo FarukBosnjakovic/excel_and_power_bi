@@ -1,0 +1,4922 @@
+POS Hour,Item Name,Category,Group,Units Sold
+8,$12 Express Lunch,Entrees,Food,15
+8,* Course Break,Entrees,Food,10
+8,* Don't Make,Appetizers,Food,32
+8,* Fire Order,Food Modifiers,Food,10
+8,1/2 Sandwich,Sandwiches,Food,48
+8,2 Breakfast Sannys,Breakfast,Food,25
+8,2 eggs and toast,Breakfast,Food,4
+8,2 pc Snapper & Chips,Entrees,Food,6
+8,3 Course Dinner Appy,Appetizers,Food,1
+8,3 Course Dinner Dessert,Desserts,Food,1
+8,3 Course Dinner Entree,Entrees,Food,2
+8,4 Choice Tapas,Appetizers,Food,3
+8,50% off muffin,Appetizers,Food,25
+8,50% off Sandwich,Sandwiches,Food,13
+8,Add Chicken,Entrees,Food,2
+8,Add Chicken,Soups/Salads,Food,3
+8,Add Prawns,Entrees,Food,5
+8,Add Prawns,Soups/Salads,Food,1
+8,Appy Platter,Appetizers,Food,3
+8,Artisan Greens Starter,Soups/Salads,Food,1
+8,Bag - Peanuts,Appetizers,Food,10
+8,Bag of Chips,Appetizers,Food,32
+8,Barbeque Chicken Pizza,Entrees,Food,6
+8,Basket Fries,Appetizers,Food,8
+8,BBQ Burger,Burgers,Food,2
+8,Bocconcini Salad,Burgers,Food,23
+8,Bottle of Pop,Non Alc Beverage,Food,119
+8,Bowl Chowder,Soups/Salads,Food,58
+8,Bowl Soup,Soups/Salads,Food,82
+8,Breakfast Sandw ONLY,Breakfast,Food,29
+8,Breakfast Sandwich,Breakfast,Food,19
+8,Brunch Eggs Benny,Breakfast,Food,13
+8,Brunch Golfers,Breakfast,Food,40
+8,Brunch Omelette,Breakfast,Food,16
+8,Brunch Waffles,Breakfast,Food,1
+8,Butter Chicken,Entrees,Food,8
+8,Cajun Chicken Spinach Salad,Soups/Salads,Food,3
+8,Cajun Halibut Burger,Burgers,Food,13
+8,Chili Lime Hummus,Appetizers,Food,2
+8,Chipotle Fish Pocket,Entrees,Food,3
+8,Chix Cranberry Salad,Soups/Salads,Food,40
+8,Chocolate Bar,Appetizers,Food,62
+8,Cilantro Chix Quessadilla,Entrees,Food,3
+8,Clam & Chorizo Hot Pot,Appetizers,Food,4
+8,Classic Caesar,Soups/Salads,Food,12
+8,Coffee,Non Alc Beverage,Food,940
+8,Coffee and Doughnuts,Desserts,Food,5
+8,Coffee muffin,Breakfast,Food,37
+8,Cookies,Sandwiches,Food,4
+8,Dessert $5,Desserts,Food,5
+8,Dessert $6,Desserts,Food,4
+8,Express Sandwich,Sandwiches,Food,56
+8,Fruit Juices,Non Alc Beverage,Food,22
+8,G2,Non Alc Beverage,Food,59
+8,Garlic Bread,Soups/Salads,Food,7
+8,Garlic Herb Ribs,Appetizers,Food,9
+8,GlaWater,Non Alc Beverage,Food,19
+8,Greek Pizza,Entrees,Food,5
+8,Grilled Chicken Clubhouse,Sandwiches,Food,106
+8,Half Pound Wings,Appetizers,Food,11
+8,Half Sandwich,Sandwiches,Food,31
+8,Halibut & Chips,Entrees,Food,13
+8,Hot Chocolate,Non Alc Beverage,Food,8
+8,Hot Dog,Sandwiches,Food,194
+8,Hummus & Flat Bread,Appetizers,Food,1
+8,Ice Tea,Non Alc Beverage,Food,39
+8,Jambalaya,Entrees,Food,5
+8,Juice,Non Alc Beverage,Food,76
+8,"Kids 2 Eggs,Bacon & Tst",Breakfast,Food,2
+8,Kids Chicken Fingers,Entrees,Food,3
+8,Kids Pasta,Entrees,Food,2
+8,Korean Beef Stirfry,Entrees,Food,7
+8,Lamb Souvlaki,Entrees,Food,20
+8,Large Pop,Non Alc Beverage,Food,714
+8,Lemonade,Non Alc Beverage,Food,13
+8,Meal Size Garden Greens,Soups/Salads,Food,21
+8,Meal Size Soup,Soups/Salads,Food,13
+8,Mediterranean Chix Wrap,Burgers,Food,49
+8,Mediterranean Pizza,Entrees,Food,5
+8,Milk,Non Alc Beverage,Food,6
+8,Milkshake,Desserts,Food,9
+8,Mocha,Non Alc Beverage,Food,2
+8,Mon California Roll,Entrees,Food,1
+8,Mother's Day Brunch,Entrees,Food,2
+8,Muffin,Appetizers,Food,94
+8,Non-Alcoholic Beer,Non Alc Beverage,Food,5
+8,NY Steak & Frites,Entrees,Food,3
+8,One Piece Halibut & Chips,Entrees,Food,4
+8,Pasta Night $21.95,Entrees,Food,8
+8,Phat Italian,Burgers,Food,25
+8,Pizza Margarita,Burgers,Food,35
+8,PizzaThe Italian,Entrees,Food,23
+8,Pound Wings,Appetizers,Food,17
+8,Power Bar,Sandwiches,Food,3
+8,Prime Rib Burger,Burgers,Food,83
+8,Pulled Pork Sandwich,Burgers,Food,18
+8,Salmon Benedict,Breakfast,Food,2
+8,San Pellegrino,Non Alc Beverage,Food,7
+8,Sandwich,Sandwiches,Food,133
+8,Sandwich ONLY,Sandwiches,Food,11
+8,Sandwich to go,Sandwiches,Food,22
+8,Sat Fish & Chip,Entrees,Food,1
+8,Seafood Pappardelle,Entrees,Food,9
+8,Side Fruit,Breakfast,Food,2
+8,Side Maple Sausage,Breakfast,Food,2
+8,Side of Fries,Appetizers,Food,9
+8,Smokie,Sandwiches,Food,18
+8,Special $9,Entrees,Food,1
+8,Special 10.00,Entrees,Food,12
+8,Special 11.00,Entrees,Food,5
+8,Special 13.00,Entrees,Food,2
+8,Special 18.00,Entrees,Food,3
+8,Special 19.00,Entrees,Food,9
+8,Special 22.00,Entrees,Food,4
+8,Special 8.00,Entrees,Food,4
+8,Spiced Apple Crumble,Burgers,Food,5
+8,Spicy Chicken Soba,Burgers,Food,31
+8,Spicy Meat Pizza,Entrees,Food,2
+8,Starter Classic Caesar,Soups/Salads,Food,3
+8,Sundried Tomato Ravioli,Entrees,Food,6
+8,Tapas Beef,Appetizers,Food,4
+8,Tapas Chef Choice,Appetizers,Food,4
+8,Tapas Seafood,Appetizers,Food,2
+8,Tapas Vegetarian,Appetizers,Food,2
+8,Tea,Non Alc Beverage,Food,75
+8,Three Cheese Flatbread,Appetizers,Food,7
+8,Thur Dry Rib,Appetizers,Food,2
+8,Tue Fish Taco,Entrees,Food,2
+8,Ultimate Steak Sandwich,Sandwiches,Food,18
+8,Vegetable Spinach Ciabatta,Burgers,Food,29
+8,Virgin Caesar,Non Alc Beverage,Food,4
+8,Water-Bottle,Non Alc Beverage,Food,81
+8,Wednesday Appy,Appetizers,Food,8
+8,West Coast Seafood Salad,Soups/Salads,Food,12
+8,Yam Fries,Appetizers,Food,32
+9,$12 Express Lunch,Entrees,Food,6
+9,* Course Break,Entrees,Food,11
+9,* Don't Make,Appetizers,Food,56
+9,* Fire Order,Food Modifiers,Food,9
+9,1 pc Snapper & Chips,Entrees,Food,1
+9,1/2 Sandwich,Sandwiches,Food,40
+9,2 Breakfast Sannys,Breakfast,Food,19
+9,2 eggs and toast,Breakfast,Food,14
+9,2 pc Snapper & Chips,Entrees,Food,3
+9,50% off muffin,Appetizers,Food,21
+9,50% off Sandwich,Sandwiches,Food,27
+9,Add Chicken,Entrees,Food,4
+9,Add Chicken,Soups/Salads,Food,6
+9,Add One Egg,Breakfast,Food,5
+9,Add Prawns,Entrees,Food,3
+9,Appy Platter,Appetizers,Food,11
+9,Artisan Greens Starter,Soups/Salads,Food,3
+9,Bag - Peanuts,Appetizers,Food,17
+9,Bag of Chips,Appetizers,Food,33
+9,Barbeque Chicken Pizza,Entrees,Food,4
+9,Basket Fries,Appetizers,Food,9
+9,Bayou Bourban Choc Torte,Desserts,Food,1
+9,Bocconcini Salad,Burgers,Food,23
+9,Bottle of Pop,Non Alc Beverage,Food,153
+9,Bowl Chowder,Soups/Salads,Food,75
+9,Bowl Soup,Soups/Salads,Food,89
+9,Breakfast Sandw ONLY,Breakfast,Food,35
+9,Breakfast Sandwich,Breakfast,Food,37
+9,Brunch Eggs Benny,Breakfast,Food,8
+9,Brunch Golfers,Breakfast,Food,36
+9,Brunch Omelette,Breakfast,Food,17
+9,Brunch Waffles,Breakfast,Food,4
+9,Butter Chicken,Entrees,Food,6
+9,Cajun Chicken Spinach Salad,Soups/Salads,Food,3
+9,Cajun Halibut Burger,Burgers,Food,17
+9,Child's Brunch/year,Entrees,Food,10
+9,Chili Lime Hummus,Appetizers,Food,4
+9,Chipotle Fish Pocket,Entrees,Food,4
+9,Chix Cranberry Salad,Soups/Salads,Food,49
+9,Chocolate Bar,Appetizers,Food,57
+9,Cilantro Chix Quessadilla,Entrees,Food,7
+9,Clam & Chorizo Hot Pot,Appetizers,Food,2
+9,Classic Caesar,Soups/Salads,Food,2
+9,Coffee,Non Alc Beverage,Food,1153
+9,Coffee muffin,Breakfast,Food,31
+9,Cookies,Sandwiches,Food,5
+9,Dessert $5,Desserts,Food,8
+9,Express Sandwich,Sandwiches,Food,82
+9,Fruit Juices,Non Alc Beverage,Food,24
+9,G2,Non Alc Beverage,Food,77
+9,Garlic Bread,Soups/Salads,Food,12
+9,Garlic Herb Ribs,Appetizers,Food,8
+9,GlaWater,Non Alc Beverage,Food,11
+9,Greek Chicken Salad,Soups/Salads,Food,2
+9,Greek Pizza,Entrees,Food,5
+9,Grilled Chicken Clubhouse,Sandwiches,Food,90
+9,Half Pound Wings,Appetizers,Food,6
+9,Half Sandwich,Sandwiches,Food,25
+9,Halibut & Chips,Entrees,Food,18
+9,Hot Chocolate,Non Alc Beverage,Food,24
+9,Hot Dog,Sandwiches,Food,165
+9,Hummus & Flat Bread,Appetizers,Food,1
+9,Ice Tea,Non Alc Beverage,Food,22
+9,Jambalaya,Entrees,Food,5
+9,Juice,Non Alc Beverage,Food,109
+9,"Kids 2 Eggs,Bacon & Tst",Breakfast,Food,2
+9,Kids Chicken Fingers,Entrees,Food,2
+9,Kids Grilled Cheese,Entrees,Food,1
+9,Kids Trio Burger / Fries,Entrees,Food,2
+9,Korean Beef Stirfry,Entrees,Food,4
+9,Lamb Souvlaki,Entrees,Food,13
+9,Large Pop,Non Alc Beverage,Food,1142
+9,Lemonade,Non Alc Beverage,Food,15
+9,Mario's Vanilla Gelato,Desserts,Food,2
+9,Meal Size Garden Greens,Soups/Salads,Food,12
+9,Meal Size Soup,Soups/Salads,Food,14
+9,Mediterranean Chix Wrap,Burgers,Food,49
+9,Mediterranean Pizza,Entrees,Food,13
+9,Milk,Non Alc Beverage,Food,3
+9,Milkshake,Desserts,Food,2
+9,Mon California Roll,Entrees,Food,2
+9,Mother's Day Brunch,Entrees,Food,7
+9,Muffin,Appetizers,Food,91
+9,Non-Alcoholic Beer,Non Alc Beverage,Food,2
+9,NY Steak & Frites,Entrees,Food,1
+9,One Piece Halibut & Chips,Entrees,Food,8
+9,Pasta Night $21.95,Entrees,Food,7
+9,Phat Italian,Burgers,Food,19
+9,Pizza Margarita,Burgers,Food,18
+9,PizzaThe Italian,Entrees,Food,17
+9,Pound Wings,Appetizers,Food,23
+9,Power Bar,Sandwiches,Food,6
+9,Prime Rib Burger,Burgers,Food,66
+9,Pulled Pork Sandwich,Burgers,Food,11
+9,Salmon Benedict,Breakfast,Food,2
+9,San Pellegrino,Non Alc Beverage,Food,5
+9,Sandwich,Sandwiches,Food,150
+9,Sandwich ONLY,Sandwiches,Food,9
+9,Sandwich to go,Sandwiches,Food,10
+9,Sat Fish & Chip,Entrees,Food,3
+9,Seafood Pappardelle,Entrees,Food,9
+9,Side Bacon,Breakfast,Food,2
+9,Side of Fries,Appetizers,Food,6
+9,Side Toast,Breakfast,Food,7
+9,Smokie,Sandwiches,Food,27
+9,Sorbet,Desserts,Food,1
+9,Special 10.00,Entrees,Food,20
+9,Special 13.00,Entrees,Food,2
+9,Special 17.00,Entrees,Food,1
+9,Special 19.00,Entrees,Food,2
+9,Special 22.00,Entrees,Food,19
+9,Special 8.00,Entrees,Food,2
+9,Spiced Apple Crumble,Burgers,Food,4
+9,Spicy Chicken Soba,Burgers,Food,17
+9,Spicy Meat Pizza,Entrees,Food,5
+9,Starter Classic Caesar,Soups/Salads,Food,7
+9,Sundried Tomato Ravioli,Entrees,Food,2
+9,Tapas Beef,Appetizers,Food,2
+9,Tapas Chef Choice,Appetizers,Food,3
+9,Tea,Non Alc Beverage,Food,81
+9,Three Cheese Flatbread,Appetizers,Food,11
+9,Thur Dry Rib,Appetizers,Food,7
+9,Tue Fish Taco,Entrees,Food,1
+9,Ultimate Steak Sandwich,Sandwiches,Food,33
+9,Valentines Dinner,Entrees,Food,2
+9,Vegetable Spinach Ciabatta,Burgers,Food,27
+9,Virgin Caesar,Non Alc Beverage,Food,3
+9,Water-Bottle,Non Alc Beverage,Food,68
+9,Wednesday Appy,Appetizers,Food,9
+9,West Coast Seafood Salad,Soups/Salads,Food,6
+9,Yam Fries,Appetizers,Food,16
+10,$12 Express Lunch,Entrees,Food,13
+10,* Course Break,Entrees,Food,13
+10,* Don't Make,Appetizers,Food,46
+10,* Fire Order,Food Modifiers,Food,7
+10,1/2 Sandwich,Sandwiches,Food,42
+10,2 Breakfast Sannys,Breakfast,Food,19
+10,2 eggs and toast,Breakfast,Food,6
+10,2 pc Snapper & Chips,Entrees,Food,8
+10,3 Course Dinner Entree,Entrees,Food,1
+10,50% off muffin,Appetizers,Food,18
+10,50% off Sandwich,Sandwiches,Food,9
+10,Add Cheese,Appetizers,Food,1
+10,Add Chicken,Entrees,Food,7
+10,Add Chicken,Soups/Salads,Food,6
+10,Add Prawns,Entrees,Food,8
+10,Appy Platter,Appetizers,Food,10
+10,Artisan Greens Starter,Soups/Salads,Food,11
+10,Bag - Peanuts,Appetizers,Food,13
+10,Bag of Chips,Appetizers,Food,53
+10,Barbeque Chicken Pizza,Entrees,Food,4
+10,Basket Fries,Appetizers,Food,15
+10,Bayou Bourban Choc Torte,Desserts,Food,2
+10,BBQ Burger,Burgers,Food,2
+10,Bocconcini Salad,Burgers,Food,22
+10,Bottle of Pop,Non Alc Beverage,Food,115
+10,Bowl Chowder,Soups/Salads,Food,102
+10,Bowl Soup,Soups/Salads,Food,79
+10,Breakfast Sandw ONLY,Breakfast,Food,18
+10,Breakfast Sandwich,Breakfast,Food,30
+10,Brunch Eggs Benny,Breakfast,Food,14
+10,Brunch Golfers,Breakfast,Food,41
+10,Brunch Omelette,Breakfast,Food,16
+10,Brunch Waffles,Breakfast,Food,3
+10,Butter Chicken,Entrees,Food,3
+10,Cajun Chicken Spinach Salad,Soups/Salads,Food,23
+10,Cajun Halibut Burger,Burgers,Food,23
+10,Cappuccino,Non Alc Beverage,Food,3
+10,Chili Lime Hummus,Appetizers,Food,4
+10,Chipotle Fish Pocket,Entrees,Food,2
+10,Chix Cranberry Salad,Soups/Salads,Food,73
+10,Chocolate Bar,Appetizers,Food,67
+10,Cilantro Chix Quessadilla,Entrees,Food,6
+10,Clam & Chorizo Hot Pot,Appetizers,Food,9
+10,Classic Caesar,Soups/Salads,Food,18
+10,Coffee,Non Alc Beverage,Food,661
+10,Coffee muffin,Breakfast,Food,26
+10,Cookies,Sandwiches,Food,4
+10,Dessert $5,Desserts,Food,6
+10,Dessert $6,Desserts,Food,5
+10,Express Sandwich,Sandwiches,Food,73
+10,Fruit Juices,Non Alc Beverage,Food,38
+10,G2,Non Alc Beverage,Food,54
+10,Garlic Bread,Soups/Salads,Food,8
+10,Garlic Herb Ribs,Appetizers,Food,6
+10,GlaWater,Non Alc Beverage,Food,14
+10,Greek Chicken Salad,Soups/Salads,Food,2
+10,Greek Pizza,Entrees,Food,9
+10,Grilled Chicken Clubhouse,Sandwiches,Food,80
+10,Half Pound Wings,Appetizers,Food,7
+10,Half Sandwich,Sandwiches,Food,22
+10,Halibut & Chips,Entrees,Food,12
+10,Hot Chocolate,Non Alc Beverage,Food,14
+10,Hot Dog,Sandwiches,Food,170
+10,Hummus & Flat Bread,Appetizers,Food,5
+10,Ice Tea,Non Alc Beverage,Food,29
+10,Jambalaya,Entrees,Food,3
+10,Juice,Non Alc Beverage,Food,52
+10,Kids Chicken Fingers,Entrees,Food,2
+10,Kids Grilled Cheese,Entrees,Food,3
+10,Kids Trio Burger / Fries,Entrees,Food,2
+10,Korean Beef Satays,Appetizers,Food,3
+10,Korean Beef Stirfry,Entrees,Food,4
+10,Lamb Souvlaki,Entrees,Food,7
+10,Large Pop,Non Alc Beverage,Food,301
+10,Lemonade,Non Alc Beverage,Food,11
+10,Mario's Vanilla Gelato,Desserts,Food,1
+10,Meal Size Garden Greens,Soups/Salads,Food,7
+10,Meal Size Soup,Soups/Salads,Food,18
+10,Mediterranean Chix Wrap,Burgers,Food,49
+10,Mediterranean Pizza,Entrees,Food,8
+10,Milk,Non Alc Beverage,Food,6
+10,Milkshake,Desserts,Food,2
+10,Mocha,Non Alc Beverage,Food,8
+10,Mon California Roll,Entrees,Food,2
+10,Mother's Day Brunch,Entrees,Food,12
+10,Muffin,Appetizers,Food,84
+10,Non-Alcoholic Beer,Non Alc Beverage,Food,10
+10,NY Steak & Frites,Entrees,Food,6
+10,One Piece Halibut & Chips,Entrees,Food,7
+10,Pasta Night $21.95,Entrees,Food,7
+10,Phat Italian,Burgers,Food,21
+10,Pizza Margarita,Burgers,Food,25
+10,PizzaThe Italian,Entrees,Food,29
+10,Pound Wings,Appetizers,Food,14
+10,Power Bar,Sandwiches,Food,2
+10,Prime Rib Burger,Burgers,Food,88
+10,Pulled Pork Sandwich,Burgers,Food,15
+10,Salmon Benedict,Breakfast,Food,8
+10,San Pellegrino,Non Alc Beverage,Food,2
+10,Sandwich,Sandwiches,Food,145
+10,Sandwich ONLY,Sandwiches,Food,14
+10,Sandwich to go,Sandwiches,Food,9
+10,Seafood Pappardelle,Entrees,Food,1
+10,Side Fruit,Breakfast,Food,2
+10,Side Hashbrowns,Breakfast,Food,3
+10,Side Maple Sausage,Breakfast,Food,4
+10,Side of Fries,Appetizers,Food,8
+10,Side of Gravy,Appetizers,Food,1
+10,Side Toast,Breakfast,Food,2
+10,Smokie,Sandwiches,Food,23
+10,Special $25,Entrees,Food,2
+10,Special $9,Entrees,Food,4
+10,Special 10.00,Entrees,Food,16
+10,Special 11.00,Entrees,Food,3
+10,Special 17.00,Entrees,Food,1
+10,Special 22.00,Entrees,Food,5
+10,Special 8.00,Entrees,Food,1
+10,Spiced Apple Crumble,Burgers,Food,7
+10,Spicy Chicken Soba,Burgers,Food,14
+10,Spicy Meat Pizza,Entrees,Food,8
+10,Starter Classic Caesar,Soups/Salads,Food,4
+10,Tapas Beef,Appetizers,Food,2
+10,Tapas Chef Choice,Appetizers,Food,4
+10,Tapas Seafood,Appetizers,Food,1
+10,Tapas Vegetarian,Appetizers,Food,1
+10,Tea,Non Alc Beverage,Food,91
+10,Three Cheese Flatbread,Appetizers,Food,7
+10,Thur Dry Rib,Appetizers,Food,2
+10,Ultimate Steak Sandwich,Sandwiches,Food,26
+10,Vegetable Spinach Ciabatta,Burgers,Food,36
+10,Virgin Caesar,Non Alc Beverage,Food,7
+10,Water-Bottle,Non Alc Beverage,Food,75
+10,Wednesday Appy,Appetizers,Food,11
+10,West Coast Seafood Salad,Soups/Salads,Food,14
+10,Yam Fries,Appetizers,Food,23
+11,$12 Express Lunch,Entrees,Food,33
+11,$7 Martini Special,Liquor,Alcohol,14
+11,* Course Break,Entrees,Food,64
+11,* Don't Make,Appetizers,Food,43
+11,* Fire Order,Food Modifiers,Food,57
+11,1/2 Lindemans Bin 45 Cabernet,Wine,Alcohol,11
+11,1/2 Lindemans Bin 65 Chard,Wine,Alcohol,6
+11,1/2 Sandwich,Sandwiches,Food,72
+11,1/2L Beringer Zinfandel,Wine,Alcohol,2
+11,1/2L Eaglehawk Shiraz,Wine,Alcohol,3
+11,1/2L Linden Bay Merlot,Wine,Alcohol,24
+11,1/2L Mezzamondo Negroamaro,Wine,Alcohol,7
+11,1/2L Naked Grape Pinot Grigio,Wine,Alcohol,56
+11,1/2L Rosemnt Road R,Wine,Alcohol,12
+11,1/2L Rosemnt Road W,Wine,Alcohol,3
+11,2 Breakfast Sannys,Breakfast,Food,21
+11,2 eggs and toast,Breakfast,Food,7
+11,2 pc Snapper & Chips,Entrees,Food,3
+11,3 Course Dinner Appy,Appetizers,Food,16
+11,3 Course Dinner Dessert,Desserts,Food,14
+11,3 Course Dinner Entree,Entrees,Food,14
+11,4 Choice Tapas,Appetizers,Food,47
+11,4 Pack Premium,Canned Beer,Alcohol,19
+11,4oz  2 GlaWine,Wine,Alcohol,34
+11,4oz Wine Glass,Wine,Alcohol,10
+11,4pk Domestic Cans,Canned Beer,Alcohol,33
+11,5 Pack Domestic,Canned Beer,Alcohol,14
+11,5 Pack Premium,Canned Beer,Alcohol,21
+11,50% off muffin,Appetizers,Food,27
+11,50% off Sandwich,Sandwiches,Food,14
+11,Add Chicken,Entrees,Food,14
+11,Add Chicken,Soups/Salads,Food,11
+11,Add Prawns,Entrees,Food,10
+11,Add Prawns,Soups/Salads,Food,4
+11,Add Sauteed Mushrooms,Entrees,Food,2
+11,Amaretto,Liquor,Alcohol,3
+11,Appy Platter,Appetizers,Food,33
+11,Artisan Greens Starter,Soups/Salads,Food,15
+11,Bac. Orange,Coolers/Ciders,Alcohol,3
+11,Bac. Pineapple,Coolers/Ciders,Alcohol,1
+11,Bacardi,Liquor,Alcohol,1
+11,Bag - Peanuts,Appetizers,Food,41
+11,Bag of Chips,Appetizers,Food,147
+11,Baileys Irish Cream,Liquor,Alcohol,14
+11,Banrock Station Shiraz Mataro,Wine,Alcohol,1
+11,Barbeque Chicken Pizza,Entrees,Food,15
+11,Basket Fries,Appetizers,Food,6
+11,Bayou Bourban Choc Torte,Desserts,Food,16
+11,Beringer Small Wine,Wine,Alcohol,41
+11,Beringer White Zinfandel,Wine,Alcohol,3
+11,Big Easy,Liquor,Alcohol,3
+11,Bin End $ 19.00,Wine,Alcohol,0
+11,Bin end $17.95,Wine,Alcohol,5
+11,Bin end $19.95,Wine,Alcohol,1
+11,Bin end $21,Wine,Alcohol,7
+11,Bin end $26,Wine,Alcohol,3
+11,Bin end $27,Wine,Alcohol,1
+11,Bin end $35,Wine,Alcohol,2
+11,Bin end $36,Wine,Alcohol,3
+11,Bin end $65.95,Wine,Alcohol,2
+11,Bin end $70,Wine,Alcohol,1
+11,Black Lager Glass,Draft Beer,Alcohol,13
+11,Black Russian,Liquor,Alcohol,3
+11,Blueberry Tea,Liquor,Alcohol,1
+11,Bocconcini Salad,Burgers,Food,39
+11,Bombay Sapphire,Liquor,Alcohol,12
+11,Bottle La Veille Ferme,Wine,Alcohol,4
+11,Bottle of Pop,Non Alc Beverage,Food,235
+11,Bottle Rosemount Road Red,Wine,Alcohol,12
+11,Bowl Chowder,Soups/Salads,Food,125
+11,Bowl Soup,Soups/Salads,Food,173
+11,Bowmore,Liquor,Alcohol,7
+11,Breakfast Sandw ONLY,Breakfast,Food,27
+11,Breakfast Sandwich,Breakfast,Food,26
+11,Brunch Eggs Benny,Breakfast,Food,12
+11,Brunch Golfers,Breakfast,Food,55
+11,Brunch Omelette,Breakfast,Food,24
+11,Brunch Waffles,Breakfast,Food,5
+11,Btl Banrock Station Unwood Chard,Wine,Alcohol,2
+11,Btl Beringer Zinfan,Wine,Alcohol,2
+11,BTL Inniskillan Cab Sav,Wine,Alcohol,3
+11,BTL Mezzamondo Negroamaro,Wine,Alcohol,10
+11,Btl Perrin Reserve,Wine,Alcohol,2
+11,BTL Toasted Head Merlot,Wine,Alcohol,5
+11,Btl Wolf BlaChard,Wine,Alcohol,13
+11,Bucket of Sol,Bottled Beer,Alcohol,9
+11,Budweiser,Bottled Beer,Alcohol,133
+11,Butter Chicken,Entrees,Food,8
+11,Caesar,Liquor,Alcohol,125
+11,Cajun Chicken Spinach Salad,Soups/Salads,Food,11
+11,Cajun Halibut Burger,Burgers,Food,56
+11,Canadian,Bottled Beer,Alcohol,42
+11,Cappuccino,Non Alc Beverage,Food,13
+11,Captain Morgan Spice,Liquor,Alcohol,1
+11,Cash Bar - Coolers,Coolers/Ciders,Alcohol,9
+11,Cash Bar - Highball,Liquor,Alcohol,83
+11,Cash Bar - Juice,Non Alc Beverage,Food,3
+11,Cash Bar - Martini,Liquor,Alcohol,19
+11,Cash Bar - Pop,Non Alc Beverage,Food,17
+11,Cash Bar - Wine Gl,Wine,Alcohol,120
+11,CASH Dom Beer,Bottled Beer,Alcohol,77
+11,CASH Premium,Bottled Beer,Alcohol,37
+11,Champagne & OJ,Liquor,Alcohol,14
+11,Chateau La Couranconne,Wine,Alcohol,2
+11,Chateaux Pesquie,Wine,Alcohol,1
+11,Chi Chi,Liquor,Alcohol,1
+11,Child's Brunch/year,Entrees,Food,9
+11,Chili Lime Hummus,Appetizers,Food,8
+11,Chipotle Fish Pocket,Entrees,Food,4
+11,Chix Cranberry Salad,Soups/Salads,Food,112
+11,Chocolate Bar,Appetizers,Food,134
+11,Cilantro Chix Quessadilla,Entrees,Food,11
+11,Cinzano Red,Liquor,Alcohol,1
+11,Clam & Chorizo Hot Pot,Appetizers,Food,10
+11,Classic Caesar,Soups/Salads,Food,39
+11,Classic Martini Gin,Liquor,Alcohol,6
+11,Classic Martini Vodka,Liquor,Alcohol,2
+11,Coffee,Non Alc Beverage,Food,1121
+11,Coffee and Doughnuts,Desserts,Food,3
+11,Coffee muffin,Breakfast,Food,42
+11,Continental Brunch,Breakfast,Food,2
+11,Coolers,Coolers/Ciders,Alcohol,111
+11,Coors Light,Bottled Beer,Alcohol,67
+11,Corona,Bottled Beer,Alcohol,8
+11,Cosmopolitan,Liquor,Alcohol,4
+11,Crab & Artichoke,Appetizers,Food,1
+11,Cracked Frank's Member Sleeve,Draft Beer,Alcohol,180
+11,Crantini,Liquor,Alcohol,1
+11,Crown Royal,Liquor,Alcohol,4
+11,Cuervo,Liquor,Alcohol,5
+11,Daquiri,Liquor,Alcohol,2
+11,Dark Rum,Liquor,Alcohol,23
+11,DB  Gin,Liquor,Alcohol,2
+11,DB Bacardi,Liquor,Alcohol,4
+11,DB Bowmore,Liquor,Alcohol,1
+11,DB Caesar,Liquor,Alcohol,8
+11,DB Captain Morgan Spice,Liquor,Alcohol,6
+11,DB Chivas Regal,Liquor,Alcohol,4
+11,DB Cinzano Red,Liquor,Alcohol,2
+11,DB Crown Royal,Liquor,Alcohol,10
+11,DB Dark Rum,Liquor,Alcohol,1
+11,DB Glenlivet,Liquor,Alcohol,5
+11,DB Grey Goose,Liquor,Alcohol,2
+11,DB Oban,Liquor,Alcohol,1
+11,DB Rye,Liquor,Alcohol,8
+11,DB Stoli,Liquor,Alcohol,6
+11,DB Vodka,Liquor,Alcohol,10
+11,DB White Russian,Liquor,Alcohol,2
+11,DB WhiteRum,Liquor,Alcohol,2
+11,Dbl Highballs,Liquor,Alcohol,13
+11,D'Eaubonne,Liquor,Alcohol,0
+11,Dessert $5,Desserts,Food,14
+11,Dessert $6,Desserts,Food,38
+11,Dewars,Liquor,Alcohol,1
+11,Domestic Beer,Canned Beer,Alcohol,391
+11,Drambuie,Liquor,Alcohol,4
+11,Eaglehawk Shiraz,Wine,Alcohol,37
+11,Espresso,Non Alc Beverage,Food,4
+11,Event Buffet,Entrees,Food,17
+11,Express Sandwich,Sandwiches,Food,133
+11,Feature Pitcher,Draft Beer,Alcohol,2
+11,Fri Cheese Plate,Entrees,Food,2
+11,Fruit Juices,Non Alc Beverage,Food,39
+11,G2,Non Alc Beverage,Food,76
+11,Gabbiano Chianti,Wine,Alcohol,4
+11,Gabbiano Pinot Grigio,Wine,Alcohol,1
+11,Garlic Bread,Soups/Salads,Food,34
+11,Garlic Herb Ribs,Appetizers,Food,61
+11,Gatorade,Non Alc Beverage,Food,13
+11,Gin,Liquor,Alcohol,28
+11,GL Banrock Station Unwood Chard,Wine,Alcohol,2
+11,Gl Beringer Zinfandel,Wine,Alcohol,1
+11,GL Cherry Point Blackberry Port,Wine,Alcohol,3
+11,Gl Guinness,Draft Beer,Alcohol,2
+11,Gl Lindemans Bin 45 Cabernet,Wine,Alcohol,56
+11,Gl Lindemans Bin 65 Chard,Wine,Alcohol,34
+11,Gl Linden Bay Merlot,Wine,Alcohol,107
+11,GL Marcus James Malbec,Wine,Alcohol,1
+11,GL Mezzamondo Negroamaro,Wine,Alcohol,6
+11,Gl Naked Grape Pinot Grigio,Wine,Alcohol,181
+11,GL Rosemnt Road R,Wine,Alcohol,43
+11,Gl Rosemnt Road W,Wine,Alcohol,35
+11,Gl Shandy,Draft Beer,Alcohol,63
+11,Gl Taylors Port,Liquor,Alcohol,1
+11,GlaBeringer White Zinfandel,Wine,Alcohol,11
+11,GlaEaglehawk Shiraz,Wine,Alcohol,43
+11,GlaLa Veille Ferme,Wine,Alcohol,2
+11,GlaLager,Draft Beer,Alcohol,119
+11,GlaRed Label Unwooded Chardonnay,Wine,Alcohol,4
+11,GlaSumac Ridge Gewurztraminer,Wine,Alcohol,4
+11,GlaWater,Non Alc Beverage,Food,16
+11,Glawine,Wine,Alcohol,11
+11,GlaWinter Ale,Draft Beer,Alcohol,46
+11,GlaWolfblaRed Label CabMerlot,Wine,Alcohol,27
+11,Glenfiddich,Liquor,Alcohol,5
+11,Glenlivet,Liquor,Alcohol,2
+11,Gls. Eaglehawk Chardonay,Wine,Alcohol,25
+11,Greek Chicken Salad,Soups/Salads,Food,2
+11,Greek Pizza,Entrees,Food,11
+11,Greg Norman,Wine,Alcohol,3
+11,Grey Goose,Liquor,Alcohol,3
+11,Grilled Chicken Clubhouse,Sandwiches,Food,179
+11,Growers Apple,Coolers/Ciders,Alcohol,29
+11,Growers Pear,Coolers/Ciders,Alcohol,26
+11,Growers Pomegranate,Coolers/Ciders,Alcohol,12
+11,GuinneSpecial,Draft Beer,Alcohol,5
+11,Guinness,Draft Beer,Alcohol,33
+11,Half Pound Wings,Appetizers,Food,12
+11,Half Sandwich,Sandwiches,Food,44
+11,Halibut & Chips,Entrees,Food,74
+11,Hardy's Oomo Shiraz,Wine,Alcohol,1
+11,Heineken,Bottled Beer,Alcohol,54
+11,Herman's Dark Lager,Bottled Beer,Alcohol,7
+11,Host Beer,Bottled Beer,Alcohol,2
+11,Host Cooler/Cider,Coolers/Ciders,Alcohol,1
+11,Host Domestic Btl,Wine,Alcohol,-9
+11,Host Hiball,Bottled Beer,Alcohol,3
+11,Host Import Btl,Wine,Alcohol,23
+11,Host Juice,Non Alc Beverage,Food,0
+11,Host Pop,Non Alc Beverage,Food,-4
+11,Host Premium,Bottled Beer,Alcohol,1
+11,Host Premium Liq,Liquor,Alcohol,-2
+11,Hot Chocolate,Non Alc Beverage,Food,35
+11,Hot Dog,Sandwiches,Food,399
+11,Hummus & Flat Bread,Appetizers,Food,20
+11,Ice Tea,Non Alc Beverage,Food,72
+11,Inniskillan Pinot Noir,Wine,Alcohol,7
+11,J.W. Red,Liquor,Alcohol,5
+11,Jack Daniels,Liquor,Alcohol,5
+11,Jackson Triggs Esprit Cab Sauv,Wine,Alcohol,2
+11,Jackson Triggs Esprit Chard,Wine,Alcohol,2
+11,Jambalaya,Entrees,Food,34
+11,Jameson,Liquor,Alcohol,2
+11,Jug Black Lager,Canned Beer,Alcohol,2
+11,Jug Lager,Draft Beer,Alcohol,51
+11,Jug Winter Ale,Draft Beer,Alcohol,22
+11,Juice,Non Alc Beverage,Food,99
+11,Kahlua,Liquor,Alcohol,4
+11,Kids Chicken Fingers,Entrees,Food,5
+11,Kids Grilled Cheese,Entrees,Food,6
+11,Kids Pasta,Entrees,Food,4
+11,Kids Trio Burger / Fries,Entrees,Food,2
+11,Kim Crawford Sauvignon Blanc,Wine,Alcohol,-28
+11,Kokanee,Bottled Beer,Alcohol,85
+11,Korean Beef Stirfry,Entrees,Food,14
+11,Lamb Souvlaki,Entrees,Food,61
+11,Large Pop,Non Alc Beverage,Food,707
+11,Latour Bourgogne P Noir,Wine,Alcohol,3
+11,Latte,Non Alc Beverage,Food,7
+11,Lemonade,Non Alc Beverage,Food,17
+11,Litre Lindemans Bin 45 Cab Sauv,Wine,Alcohol,23
+11,Long Island,Liquor,Alcohol,5
+11,Louis Latour LArdeche,Wine,Alcohol,5
+11,Ltr Lindemans Bin 65 Chard,Wine,Alcohol,3
+11,Ltr Linden Bay Merlot,Wine,Alcohol,13
+11,Ltr Naked Grape Pinot Grigio,Wine,Alcohol,23
+11,Margarita,Liquor,Alcohol,19
+11,Margarita Night Sol,Bottled Beer,Alcohol,7
+11,Margarita Special,Liquor,Alcohol,25
+11,Mario's Vanilla Gelato,Desserts,Food,3
+11,Matua Sav Blanc,Wine,Alcohol,2
+11,Meal Size Garden Greens,Soups/Salads,Food,19
+11,Meal Size Soup,Soups/Salads,Food,19
+11,Med Coffee Thermos,Non Alc Beverage,Food,13
+11,Mediterranean Chix Wrap,Burgers,Food,92
+11,Mediterranean Pizza,Entrees,Food,27
+11,Member House Wine,Wine,Alcohol,11
+11,Member Jug,Draft Beer,Alcohol,14
+11,Member Sleeve,Draft Beer,Alcohol,157
+11,Milk,Non Alc Beverage,Food,4
+11,Milkshake,Desserts,Food,1
+11,Miller Genuine Draft,Canned Beer,Alcohol,13
+11,Mini Liquor,Liquor,Alcohol,58
+11,Mocha,Non Alc Beverage,Food,2
+11,Mocktails,Non Alc Beverage,Food,8
+11,Monte Cristo,Liquor,Alcohol,3
+11,Mother's Day Brunch,Entrees,Food,30
+11,Motts Caesar,Coolers/Ciders,Alcohol,72
+11,Muffin,Appetizers,Food,108
+11,Mug Shandy,Draft Beer,Alcohol,26
+11,Naked Grape Spritzer,Coolers/Ciders,Alcohol,10
+11,Non-Alcoholic Beer,Non Alc Beverage,Food,13
+11,NY Steak & Frites,Entrees,Food,40
+11,Oban,Liquor,Alcohol,2
+11,One Piece Halibut & Chips,Entrees,Food,19
+11,Paralyzer Vodka,Liquor,Alcohol,8
+11,Pasta Night $21.95,Entrees,Food,202
+11,Peach Schnapps,Liquor,Alcohol,7
+11,Penfolds Koonunga Hill Shrz Cab,Wine,Alcohol,19
+11,Peppermint Schnapps,Liquor,Alcohol,2
+11,Petalus Dosoyoos Larose,Wine,Alcohol,3
+11,Phat Italian,Burgers,Food,60
+11,Pint 1516 Lager,Draft Beer,Alcohol,437
+11,Pint Black Lager,Draft Beer,Alcohol,83
+11,Pint Race Rocks,Draft Beer,Alcohol,23
+11,Pint Sleeman Honey,Draft Beer,Alcohol,226
+11,Pint Winter Ale,Draft Beer,Alcohol,462
+11,Pizza Margarita,Burgers,Food,69
+11,PizzaThe Italian,Entrees,Food,66
+11,Pound Wings,Appetizers,Food,53
+11,Power Bar,Sandwiches,Food,8
+11,Premium Beer,Canned Beer,Alcohol,294
+11,Premium Highball,Liquor,Alcohol,53
+11,Premium Vodka Martini,Liquor,Alcohol,2
+11,Prime Rib Burger,Burgers,Food,199
+11,Pulled Pork Sandwich,Burgers,Food,58
+11,Quails Gate Pinot Blanc,Wine,Alcohol,1
+11,Ravenswood Zinfandel,Wine,Alcohol,2
+11,Red Label Unwooded Chardonnay,Wine,Alcohol,5
+11,Regular Shooter,Liquor,Alcohol,6
+11,Remy Martin VSOP,Liquor,Alcohol,1
+11,Robert Mondavi Merlot,Wine,Alcohol,5
+11,Rosemount Road White,Wine,Alcohol,26
+11,Rusty Nail,Liquor,Alcohol,2
+11,Rye,Liquor,Alcohol,23
+11,Salmon Benedict,Breakfast,Food,10
+11,San Pellegrino,Non Alc Beverage,Food,17
+11,Sandwich,Sandwiches,Food,238
+11,Sandwich ONLY,Sandwiches,Food,16
+11,Sandwich to go,Sandwiches,Food,32
+11,Sat Feature Wine,Wine,Alcohol,2
+11,Sat Fish & Chip,Entrees,Food,15
+11,Schooner Lager,Draft Beer,Alcohol,4
+11,Schooner Pale,Draft Beer,Alcohol,8
+11,Schooner Shaft Cream Ale,Draft Beer,Alcohol,2
+11,ScrewDriver,Liquor,Alcohol,1
+11,Seafood Pappardelle,Entrees,Food,46
+11,Seaview Brut Champagne,Wine,Alcohol,2
+11,Shirley Temple,Non Alc Beverage,Food,10
+11,Shooters,Liquor,Alcohol,17
+11,Shot in the Dark,Wine,Alcohol,4
+11,Side Bacon,Breakfast,Food,3
+11,Side Fruit,Breakfast,Food,4
+11,Side Hashbrowns,Breakfast,Food,2
+11,Side Maple Sausage,Breakfast,Food,2
+11,Side of Fries,Appetizers,Food,18
+11,Side Toast,Breakfast,Food,3
+11,Sleeman HB Glass,Draft Beer,Alcohol,39
+11,Sleeman Jugs,Draft Beer,Alcohol,15
+11,Smirnoff Ice,Coolers/Ciders,Alcohol,23
+11,Smokie,Sandwiches,Food,38
+11,Sol,Bottled Beer,Alcohol,98
+11,Sorbet,Desserts,Food,1
+11,Spanish Coffee,Liquor,Alcohol,6
+11,Sparkling Juice @ $ 12.00,Non Alc Beverage,Food,8
+11,Special $21,Entrees,Food,11
+11,Special $25,Entrees,Food,2
+11,Special $9,Entrees,Food,10
+11,Special 10.00,Entrees,Food,33
+11,Special 11.00,Entrees,Food,8
+11,Special 12.00,Entrees,Food,2
+11,Special 13.00,Entrees,Food,2
+11,Special 14.00,Entrees,Food,7
+11,Special 17.00,Entrees,Food,3
+11,Special 18.00,Entrees,Food,11
+11,Special 19.00,Entrees,Food,24
+11,Special 22.00,Entrees,Food,27
+11,Special 8.00,Entrees,Food,10
+11,Spiced Apple Crumble,Burgers,Food,17
+11,Spicy Chicken Soba,Burgers,Food,48
+11,Spicy Meat Pizza,Entrees,Food,7
+11,Starter Classic Caesar,Soups/Salads,Food,32
+11,Stella Artois,Bottled Beer,Alcohol,24
+11,Stolichnaya,Liquor,Alcohol,1
+11,Sumac  Ridge Gewurztraminer,Wine,Alcohol,7
+11,Sumac Ridge Sauvignon Blanc,Wine,Alcohol,2
+11,Sunday Caesar Feature,Liquor,Alcohol,4
+11,Sundried Tomato Ravioli,Entrees,Food,7
+11,Tapas Beef,Appetizers,Food,7
+11,Tapas Chef Choice,Appetizers,Food,7
+11,Tapas Chicken,Appetizers,Food,2
+11,Tapas Seafood,Appetizers,Food,1
+11,Tapas Vegetarian,Appetizers,Food,10
+11,Taylors Port Btl,Liquor,Alcohol,2
+11,Tea,Non Alc Beverage,Food,116
+11,Three Cheese Flatbread,Appetizers,Food,16
+11,Thur Dry Rib,Appetizers,Food,11
+11,Thur Import Beer,Bottled Beer,Alcohol,7
+11,Touraine Sauvignon,Wine,Alcohol,2
+11,Triple Sec,Liquor,Alcohol,2
+11,Ultimate Steak Sandwich,Sandwiches,Food,95
+11,Valentines Dinner,Entrees,Food,3
+11,Vegetable Spinach Ciabatta,Burgers,Food,87
+11,Virgin Caesar,Non Alc Beverage,Food,21
+11,Vodka,Liquor,Alcohol,86
+11,Water-Bottle,Non Alc Beverage,Food,136
+11,Wednesday 1/2L Wine,Wine,Alcohol,1
+11,Wednesday Appy,Appetizers,Food,48
+11,Wednesday Gl Wine,Wine,Alcohol,77
+11,Wednesday Sleeve,Draft Beer,Alcohol,197
+11,West Coast Seafood Salad,Soups/Salads,Food,55
+11,White Rum,Liquor,Alcohol,72
+11,White Russian,Liquor,Alcohol,3
+11,Wine Spritzer,Wine,Alcohol,4
+11,Wolf Bla40 Cab/Shrz/Mer,Wine,Alcohol,9
+11,Wolf BlaDinner,Entrees,Food,2
+11,Wolf BlaWine,Wine,Alcohol,2
+11,WolfblaRed Label Cab Merlot,Wine,Alcohol,24
+11,Woody's Cooler,Coolers/Ciders,Alcohol,3
+11,Wynns Cab Shrz Merlot,Wine,Alcohol,6
+11,Yam Fries,Appetizers,Food,87
+11,Yellowglen Pink for 2,Wine,Alcohol,3
+11,Zed Sauvignon Blanc,Wine,Alcohol,5
+12,$12 Express Lunch,Entrees,Food,24
+12,$7 Martini Special,Liquor,Alcohol,4
+12,* Course Break,Entrees,Food,79
+12,* Don't Make,Appetizers,Food,36
+12,* Fire Order,Food Modifiers,Food,46
+12,1/2 Lindemans Bin 45 Cabernet,Wine,Alcohol,13
+12,1/2 Lindemans Bin 65 Chard,Wine,Alcohol,10
+12,1/2 Sandwich,Sandwiches,Food,91
+12,1/2L Beringer Zinfandel,Wine,Alcohol,2
+12,1/2L Eaglehawk Chard,Wine,Alcohol,2
+12,1/2L Eaglehawk Shiraz,Wine,Alcohol,4
+12,1/2L Linden Bay Merlot,Wine,Alcohol,28
+12,1/2L Naked Grape Pinot Grigio,Wine,Alcohol,35
+12,1/2L Red Label Unwooded Chardonnay,Wine,Alcohol,2
+12,1/2L Rosemnt Road R,Wine,Alcohol,7
+12,1/2L Rosemnt Road W,Wine,Alcohol,7
+12,1/2L WolfblaCab Merlot,Wine,Alcohol,5
+12,2 Breakfast Sannys,Breakfast,Food,19
+12,2 eggs and toast,Breakfast,Food,4
+12,2 pc Snapper & Chips,Entrees,Food,12
+12,3 Course Dinner Appy,Appetizers,Food,15
+12,3 Course Dinner Dessert,Desserts,Food,10
+12,3 Course Dinner Entree,Entrees,Food,16
+12,4 Choice Tapas,Appetizers,Food,28
+12,4 Pack Premium,Canned Beer,Alcohol,43
+12,4oz  2 GlaWine,Wine,Alcohol,9
+12,4oz Wine Glass,Wine,Alcohol,25
+12,4pk Domestic Cans,Canned Beer,Alcohol,49
+12,5 Pack Domestic,Canned Beer,Alcohol,24
+12,5 Pack Premium,Canned Beer,Alcohol,28
+12,50% off muffin,Appetizers,Food,14
+12,50% off Sandwich,Sandwiches,Food,14
+12,Add Chicken,Entrees,Food,9
+12,Add Chicken,Soups/Salads,Food,7
+12,Add One Egg,Breakfast,Food,3
+12,Add Prawns,Entrees,Food,10
+12,Add Prawns,Soups/Salads,Food,5
+12,Appy Platter,Appetizers,Food,42
+12,Artisan Greens Starter,Soups/Salads,Food,8
+12,Bac. Pineapple,Coolers/Ciders,Alcohol,2
+12,Bacardi,Liquor,Alcohol,5
+12,Bag - Peanuts,Appetizers,Food,45
+12,Bag of Chips,Appetizers,Food,182
+12,Baileys Coffee,Liquor,Alcohol,2
+12,Baileys Irish Cream,Liquor,Alcohol,6
+12,Banrock Station Shiraz Mataro,Wine,Alcohol,1
+12,Barbeque Chicken Pizza,Entrees,Food,12
+12,Basket Fries,Appetizers,Food,10
+12,Bayou Bourban Choc Torte,Desserts,Food,7
+12,BBQ Burger,Burgers,Food,1
+12,Beringer Small Wine,Wine,Alcohol,30
+12,Beringer White Zinfandel,Wine,Alcohol,2
+12,Big Easy,Liquor,Alcohol,5
+12,Bin End $ 19.00,Wine,Alcohol,2
+12,Bin end $17.95,Wine,Alcohol,2
+12,Bin end $19.95,Wine,Alcohol,1
+12,Bin end $21,Wine,Alcohol,5
+12,Bin end $26,Wine,Alcohol,3
+12,Bin end $35,Wine,Alcohol,3
+12,Bin end $36,Wine,Alcohol,3
+12,Bin end $70,Wine,Alcohol,5
+12,Black Door Sp,Draft Beer,Alcohol,11
+12,Black Lager Glass,Draft Beer,Alcohol,8
+12,Bloody Mary,Liquor,Alcohol,5
+12,Blueberry Tea,Liquor,Alcohol,2
+12,Bocconcini Salad,Burgers,Food,42
+12,Bottle La Veille Ferme,Wine,Alcohol,5
+12,Bottle of Pop,Non Alc Beverage,Food,263
+12,Bottle Rosemount Road Red,Wine,Alcohol,22
+12,Bowl Chowder,Soups/Salads,Food,148
+12,Bowl Soup,Soups/Salads,Food,145
+12,Breakfast Sandw ONLY,Breakfast,Food,28
+12,Breakfast Sandwich,Breakfast,Food,22
+12,Brunch Eggs Benny,Breakfast,Food,5
+12,Brunch Golfers,Breakfast,Food,37
+12,Brunch Omelette,Breakfast,Food,29
+12,Brunch Waffles,Breakfast,Food,8
+12,Btl Banrock Station Unwood Chard,Wine,Alcohol,5
+12,Btl Beringer Zinfan,Wine,Alcohol,2
+12,BTL Mezzamondo Negroamaro,Wine,Alcohol,8
+12,Btl Perrin Reserve,Wine,Alcohol,3
+12,BTL Toasted Head Merlot,Wine,Alcohol,2
+12,Btl Wolf BlaChard,Wine,Alcohol,10
+12,Bucket of Sol,Bottled Beer,Alcohol,13
+12,Budweiser,Bottled Beer,Alcohol,158
+12,Butter Chicken,Entrees,Food,7
+12,Caesar,Liquor,Alcohol,138
+12,Cajun Chicken Spinach Salad,Soups/Salads,Food,21
+12,Cajun Halibut Burger,Burgers,Food,59
+12,Canadian,Bottled Beer,Alcohol,48
+12,Canned Beer $4,Canned Beer,Alcohol,4
+12,Cappuccino,Non Alc Beverage,Food,8
+12,Captain Morgan Spice,Liquor,Alcohol,4
+12,Cash Bar - Coolers,Coolers/Ciders,Alcohol,10
+12,Cash Bar - Highball,Liquor,Alcohol,115
+12,Cash Bar - Juice,Non Alc Beverage,Food,10
+12,Cash Bar - Martini,Liquor,Alcohol,12
+12,Cash Bar - Pop,Non Alc Beverage,Food,24
+12,Cash Bar - Wine Gl,Wine,Alcohol,151
+12,CASH Dom Beer,Bottled Beer,Alcohol,57
+12,CASH Premium,Bottled Beer,Alcohol,36
+12,Champagne & OJ,Liquor,Alcohol,4
+12,Chateauneuf de pape,Wine,Alcohol,2
+12,Cherry Point Blackberry Port,Wine,Alcohol,2
+12,Cherry Point Forte Blanc,Wine,Alcohol,2
+12,Cherry Point Pinot Noir,Wine,Alcohol,2
+12,Chi Chi,Liquor,Alcohol,3
+12,Child's Brunch/year,Entrees,Food,4
+12,Chili Lime Hummus,Appetizers,Food,8
+12,Chipotle Fish Pocket,Entrees,Food,10
+12,Chix Cranberry Salad,Soups/Salads,Food,118
+12,Chocolate Bar,Appetizers,Food,109
+12,Chocolate Martini,Liquor,Alcohol,1
+12,Cilantro Chix Quessadilla,Entrees,Food,10
+12,Clam & Chorizo Hot Pot,Appetizers,Food,9
+12,Classic Caesar,Soups/Salads,Food,37
+12,Classic Martini Gin,Liquor,Alcohol,4
+12,Classic Martini Vodka,Liquor,Alcohol,7
+12,Clos du Val Cabernet Sauvignon,Wine,Alcohol,3
+12,Coffee,Non Alc Beverage,Food,1787
+12,Coffee and Doughnuts,Desserts,Food,3
+12,Coffee muffin,Breakfast,Food,35
+12,Collins Gin,Liquor,Alcohol,2
+12,Continental Brunch,Breakfast,Food,5
+12,Cookies,Sandwiches,Food,4
+12,Coolers,Coolers/Ciders,Alcohol,170
+12,Coors Light,Bottled Beer,Alcohol,82
+12,Corona,Bottled Beer,Alcohol,8
+12,Cosmopolitan,Liquor,Alcohol,5
+12,Cracked Frank's Member Sleeve,Draft Beer,Alcohol,118
+12,Crantini,Liquor,Alcohol,2
+12,Crown Royal,Liquor,Alcohol,6
+12,Cuervo,Liquor,Alcohol,9
+12,Dark Rum,Liquor,Alcohol,14
+12,DB  Gin,Liquor,Alcohol,7
+12,DB Caesar,Liquor,Alcohol,8
+12,DB Captain Morgan Spice,Liquor,Alcohol,2
+12,DB Chivas Regal,Liquor,Alcohol,4
+12,DB Crown Royal,Liquor,Alcohol,13
+12,DB Dark Rum,Liquor,Alcohol,5
+12,DB Grey Goose,Liquor,Alcohol,2
+12,DB Oban,Liquor,Alcohol,3
+12,DB Rye,Liquor,Alcohol,2
+12,DB Springbank,Liquor,Alcohol,2
+12,DB Stoli,Liquor,Alcohol,3
+12,DB Vodka,Liquor,Alcohol,14
+12,DB WhiteRum,Liquor,Alcohol,5
+12,Dbl Highballs,Liquor,Alcohol,14
+12,Dbl Premium Highballs,Liquor,Alcohol,4
+12,D'Eaubonne,Liquor,Alcohol,4
+12,Dessert $5,Desserts,Food,10
+12,Dessert $6,Desserts,Food,24
+12,Domestic Beer,Canned Beer,Alcohol,407
+12,Drambuie,Liquor,Alcohol,1
+12,Eaglehawk Shiraz,Wine,Alcohol,37
+12,Event Buffet,Entrees,Food,13
+12,Express Sandwich,Sandwiches,Food,116
+12,Feature Pitcher,Draft Beer,Alcohol,4
+12,Fruit Juices,Non Alc Beverage,Food,33
+12,G2,Non Alc Beverage,Food,85
+12,Gabbiano Chianti,Wine,Alcohol,2
+12,Gabbiano Pinot Grigio,Wine,Alcohol,1
+12,Garlic Bread,Soups/Salads,Food,18
+12,Garlic Herb Ribs,Appetizers,Food,66
+12,Gatorade,Non Alc Beverage,Food,61
+12,Gin,Liquor,Alcohol,50
+12,Gl Beringer Zinfandel,Wine,Alcohol,6
+12,Gl Guinness,Draft Beer,Alcohol,2
+12,Gl Lindemans Bin 45 Cabernet,Wine,Alcohol,64
+12,Gl Lindemans Bin 65 Chard,Wine,Alcohol,48
+12,Gl Linden Bay Merlot,Wine,Alcohol,115
+12,GL Mezzamondo Negroamaro,Wine,Alcohol,11
+12,Gl Naked Grape Pinot Grigio,Wine,Alcohol,120
+12,GL Rosemnt Road R,Wine,Alcohol,66
+12,Gl Rosemnt Road W,Wine,Alcohol,38
+12,Gl Shandy,Draft Beer,Alcohol,12
+12,GlaBeringer White Zinfandel,Wine,Alcohol,3
+12,GlaEaglehawk Shiraz,Wine,Alcohol,40
+12,GlaLager,Draft Beer,Alcohol,145
+12,GlaPerrin Reserve,Wine,Alcohol,2
+12,GlaRed Label Unwooded Chardonnay,Wine,Alcohol,12
+12,GlaSumac Ridge Gewurztraminer,Wine,Alcohol,7
+12,GlaWater,Non Alc Beverage,Food,21
+12,Glawine,Wine,Alcohol,9
+12,GlaWinter Ale,Draft Beer,Alcohol,50
+12,GlaWolfblaRed Label CabMerlot,Wine,Alcohol,14
+12,Glenfiddich,Liquor,Alcohol,1
+12,Gls. Eaglehawk Chardonay,Wine,Alcohol,36
+12,Grand Marnier,Liquor,Alcohol,2
+12,Greek Chicken Salad,Soups/Salads,Food,2
+12,Greek Pizza,Entrees,Food,12
+12,Greg Norman,Wine,Alcohol,2
+12,Grey Goose,Liquor,Alcohol,4
+12,Grilled Chicken Clubhouse,Sandwiches,Food,151
+12,Growers Apple,Coolers/Ciders,Alcohol,26
+12,Growers Pear,Coolers/Ciders,Alcohol,23
+12,Growers Pomegranate,Coolers/Ciders,Alcohol,18
+12,Guinness,Draft Beer,Alcohol,39
+12,Half Pound Wings,Appetizers,Food,28
+12,Half Sandwich,Sandwiches,Food,28
+12,Halibut & Chips,Entrees,Food,84
+12,Hardy's Oomo Shiraz,Wine,Alcohol,5
+12,Heineken,Bottled Beer,Alcohol,61
+12,Herman's Dark Lager,Bottled Beer,Alcohol,10
+12,Host Beer,Bottled Beer,Alcohol,1
+12,Host Domestic Btl,Wine,Alcohol,9
+12,Host draft Beer,Draft Beer,Alcohol,1
+12,Host Hiball,Bottled Beer,Alcohol,9
+12,Host Import Btl,Wine,Alcohol,7
+12,Host Juice,Non Alc Beverage,Food,1
+12,Host Pop,Non Alc Beverage,Food,10
+12,Host Premium Liq,Liquor,Alcohol,38
+12,Hot Chocolate,Non Alc Beverage,Food,14
+12,Hot Dog,Sandwiches,Food,314
+12,Hummus & Flat Bread,Appetizers,Food,26
+12,Ice Tea,Non Alc Beverage,Food,72
+12,Inniskillan Pinot Noir,Wine,Alcohol,2
+12,J.W. Red,Liquor,Alcohol,5
+12,Jack Daniels,Liquor,Alcohol,2
+12,Jackson Triggs Esprit Cab Sauv,Wine,Alcohol,2
+12,Jackson Triggs Esprit Chard,Wine,Alcohol,3
+12,Jambalaya,Entrees,Food,34
+12,Jug Lager,Draft Beer,Alcohol,44
+12,Jug Winter Ale,Draft Beer,Alcohol,21
+12,Juice,Non Alc Beverage,Food,198
+12,"Kids 2 Eggs,Bacon & Tst",Breakfast,Food,1
+12,Kids Chicken Fingers,Entrees,Food,9
+12,Kids Grilled Cheese,Entrees,Food,1
+12,Kids Pasta,Entrees,Food,2
+12,Kids Trio Burger / Fries,Entrees,Food,6
+12,Kim Crawford Sauvignon Blanc,Wine,Alcohol,35
+12,Kokanee,Bottled Beer,Alcohol,54
+12,Korean Beef Stirfry,Entrees,Food,6
+12,Lamb Souvlaki,Entrees,Food,58
+12,Large Pop,Non Alc Beverage,Food,1704
+12,Lemonade,Non Alc Beverage,Food,27
+12,Litre Lindemans Bin 45 Cab Sauv,Wine,Alcohol,10
+12,Louis Latour LArdeche,Wine,Alcohol,9
+12,Ltr Lindemans Bin 65 Chard,Wine,Alcohol,1
+12,Ltr Linden Bay Merlot,Wine,Alcohol,29
+12,Ltr Naked Grape Pinot Grigio,Wine,Alcohol,15
+12,Manhattan,Liquor,Alcohol,2
+12,Margarita,Liquor,Alcohol,26
+12,Margarita Special,Liquor,Alcohol,19
+12,Mario's Vanilla Gelato,Desserts,Food,16
+12,Matua Sav Blanc,Wine,Alcohol,4
+12,Meal Size Garden Greens,Soups/Salads,Food,14
+12,Meal Size Soup,Soups/Salads,Food,44
+12,Mediterranean Chix Wrap,Burgers,Food,105
+12,Mediterranean Pizza,Entrees,Food,16
+12,Member 1/2 Litre,Wine,Alcohol,3
+12,Member House Wine,Wine,Alcohol,18
+12,Member Jug,Draft Beer,Alcohol,15
+12,Member Sleeve,Draft Beer,Alcohol,160
+12,Menu Count,Soups/Salads,Food,1
+12,Milk,Non Alc Beverage,Food,9
+12,Milkshake,Desserts,Food,10
+12,Miller Genuine Draft,Canned Beer,Alcohol,22
+12,Mini Liquor,Liquor,Alcohol,39
+12,Mocha,Non Alc Beverage,Food,6
+12,Mocktails,Non Alc Beverage,Food,5
+12,Mon California Roll,Entrees,Food,2
+12,Monster,Non Alc Beverage,Food,5
+12,Monte Cristo,Liquor,Alcohol,1
+12,Mother's Day Brunch,Entrees,Food,14
+12,Motts Caesar,Coolers/Ciders,Alcohol,90
+12,Muffin,Appetizers,Food,113
+12,Mug Shandy,Draft Beer,Alcohol,11
+12,Naked Grape Spritzer,Coolers/Ciders,Alcohol,8
+12,Non-Alcoholic Beer,Non Alc Beverage,Food,24
+12,NY Steak & Frites,Entrees,Food,28
+12,One Piece Halibut & Chips,Entrees,Food,13
+12,Osoyoos LaRose Grand Vin,Wine,Alcohol,1
+12,Paralyzer Vodka,Liquor,Alcohol,12
+12,Pasta Night $21.95,Entrees,Food,251
+12,Penfolds Bin 2 Shiraz Mourvedre,Wine,Alcohol,1
+12,Penfolds Koonunga Hill Shrz Cab,Wine,Alcohol,11
+12,Peppermint Schnapps,Liquor,Alcohol,2
+12,Phat Italian,Burgers,Food,49
+12,Pint 1516 Lager,Draft Beer,Alcohol,502
+12,Pint Black Lager,Draft Beer,Alcohol,98
+12,Pint Race Rocks,Draft Beer,Alcohol,21
+12,Pint Sleeman Honey,Draft Beer,Alcohol,255
+12,Pint Winter Ale,Draft Beer,Alcohol,457
+12,Pizza Margarita,Burgers,Food,62
+12,PizzaThe Italian,Entrees,Food,74
+12,Pound Wings,Appetizers,Food,41
+12,Power Bar,Sandwiches,Food,11
+12,Premium Beer,Canned Beer,Alcohol,320
+12,Premium Highball,Liquor,Alcohol,58
+12,Premium Vodka Martini,Liquor,Alcohol,6
+12,Prime Rib Burger,Burgers,Food,204
+12,Pulled Pork Sandwich,Burgers,Food,46
+12,Quails Gate Pinot Blanc,Wine,Alcohol,5
+12,Ravenswood Zinfandel,Wine,Alcohol,3
+12,Regular Shooter,Liquor,Alcohol,2
+12,Robert Mondavi Merlot,Wine,Alcohol,3
+12,Rosemount Road White,Wine,Alcohol,15
+12,Rusty Nail,Liquor,Alcohol,4
+12,Rye,Liquor,Alcohol,21
+12,Salmon Benedict,Breakfast,Food,4
+12,San Pellegrino,Non Alc Beverage,Food,22
+12,Sandwich,Sandwiches,Food,210
+12,Sandwich ONLY,Sandwiches,Food,10
+12,Sandwich to go,Sandwiches,Food,19
+12,Sat Feature Wine,Wine,Alcohol,144
+12,Sat Fish & Chip,Entrees,Food,13
+12,Schooner Lager,Draft Beer,Alcohol,13
+12,Schooner Shaft Cream Ale,Draft Beer,Alcohol,2
+12,ScrewDriver,Liquor,Alcohol,1
+12,Seafood Pappardelle,Entrees,Food,35
+12,Seaview Brut Champagne,Wine,Alcohol,2
+12,Shirley Temple,Non Alc Beverage,Food,7
+12,Shooters,Liquor,Alcohol,53
+12,Shot in the Dark,Wine,Alcohol,3
+12,Side Fruit,Breakfast,Food,7
+12,Side of Fries,Appetizers,Food,10
+12,Side Toast,Breakfast,Food,3
+12,Sleeman HB Glass,Draft Beer,Alcohol,47
+12,Sleeman Jugs,Draft Beer,Alcohol,18
+12,Sleeman Schooner,Draft Beer,Alcohol,5
+12,Smirnoff Ice,Coolers/Ciders,Alcohol,37
+12,Smokie,Sandwiches,Food,37
+12,Sol,Bottled Beer,Alcohol,90
+12,Sorbet,Desserts,Food,4
+12,Spanish Coffee,Liquor,Alcohol,2
+12,Special $21,Entrees,Food,3
+12,Special $22,Entrees,Food,3
+12,Special $9,Entrees,Food,8
+12,Special 10.00,Entrees,Food,47
+12,Special 11.00,Entrees,Food,6
+12,Special 13.00,Entrees,Food,1
+12,Special 14.00,Entrees,Food,3
+12,Special 16.00,Entrees,Food,1
+12,Special 17.00,Entrees,Food,9
+12,Special 18.00,Entrees,Food,10
+12,Special 19.00,Entrees,Food,6
+12,Special 22.00,Entrees,Food,15
+12,Special 8.00,Entrees,Food,8
+12,Spiced Apple Crumble,Burgers,Food,7
+12,Spicy Chicken Soba,Burgers,Food,35
+12,Spicy Meat Pizza,Entrees,Food,10
+12,Starter Classic Caesar,Soups/Salads,Food,25
+12,Stella Artois,Bottled Beer,Alcohol,19
+12,Stolichnaya,Liquor,Alcohol,1
+12,Sumac  Ridge Gewurztraminer,Wine,Alcohol,4
+12,Sumac Ridge Sauvignon Blanc,Wine,Alcohol,1
+12,Sunday Caesar Feature,Liquor,Alcohol,8
+12,Sundried Tomato Ravioli,Entrees,Food,8
+12,Tanqueray,Liquor,Alcohol,7
+12,Tapas Beef,Appetizers,Food,3
+12,Tapas Chef Choice,Appetizers,Food,2
+12,Tapas Chicken,Appetizers,Food,4
+12,Tapas Vegetarian,Appetizers,Food,8
+12,Tea,Non Alc Beverage,Food,128
+12,Tequila Sunrise,Liquor,Alcohol,2
+12,Three Cheese Flatbread,Appetizers,Food,31
+12,Thur Dry Rib,Appetizers,Food,14
+12,Thur Import Beer,Bottled Beer,Alcohol,15
+12,Tue Fish Taco,Entrees,Food,5
+12,Twist Cranberry,Liquor,Alcohol,1
+12,Ultimate Steak Sandwich,Sandwiches,Food,98
+12,Valentines Dinner,Entrees,Food,8
+12,Vegetable Spinach Ciabatta,Burgers,Food,74
+12,Virgin Caesar,Non Alc Beverage,Food,22
+12,Vodka,Liquor,Alcohol,81
+12,Water-Bottle,Non Alc Beverage,Food,203
+12,Wednesday Appy,Appetizers,Food,31
+12,Wednesday Gl Wine,Wine,Alcohol,127
+12,Wednesday Sleeve,Draft Beer,Alcohol,198
+12,West Coast Seafood Salad,Soups/Salads,Food,41
+12,White Rum,Liquor,Alcohol,66
+12,Wine Spritzer,Wine,Alcohol,9
+12,Wolf Bla40 Cab/Shrz/Mer,Wine,Alcohol,3
+12,Wolf BlaDinner,Entrees,Food,2
+12,Wolf BlaGold Cab Franc,Wine,Alcohol,2
+12,Wolf BlaWine,Wine,Alcohol,2
+12,WolfblaRed Label Cab Merlot,Wine,Alcohol,29
+12,Woody's Cooler,Coolers/Ciders,Alcohol,10
+12,Wynns Cab Shrz Merlot,Wine,Alcohol,4
+12,Yam Fries,Appetizers,Food,71
+12,Yellowglen Pink for 2,Wine,Alcohol,3
+13,$12 Express Lunch,Entrees,Food,51
+13,$7 Martini Special,Liquor,Alcohol,4
+13,* Course Break,Entrees,Food,62
+13,* Don't Make,Appetizers,Food,45
+13,* Fire Order,Food Modifiers,Food,47
+13,1/2 Lindemans Bin 45 Cabernet,Wine,Alcohol,7
+13,1/2 Sandwich,Sandwiches,Food,89
+13,1/2L Beringer Zinfandel,Wine,Alcohol,1
+13,1/2L Eaglehawk Chard,Wine,Alcohol,4
+13,1/2L Linden Bay Merlot,Wine,Alcohol,15
+13,1/2L Naked Grape Pinot Grigio,Wine,Alcohol,43
+13,1/2L Rosemnt Road R,Wine,Alcohol,13
+13,1/2L Rosemnt Road W,Wine,Alcohol,5
+13,1/2L Sumac Ridge Gewurztraminer,Wine,Alcohol,5
+13,1/2L WolfblaCab Merlot,Wine,Alcohol,4
+13,2 Breakfast Sannys,Breakfast,Food,32
+13,2 eggs and toast,Breakfast,Food,7
+13,2 pc Snapper & Chips,Entrees,Food,6
+13,3 Course Dinner Appy,Appetizers,Food,16
+13,3 Course Dinner Dessert,Desserts,Food,20
+13,3 Course Dinner Entree,Entrees,Food,26
+13,4 Choice Tapas,Appetizers,Food,50
+13,4 Pack Premium,Canned Beer,Alcohol,30
+13,4oz  2 GlaWine,Wine,Alcohol,24
+13,4oz Wine Glass,Wine,Alcohol,4
+13,4pk Domestic Cans,Canned Beer,Alcohol,55
+13,5 Pack Domestic,Canned Beer,Alcohol,32
+13,5 Pack Premium,Canned Beer,Alcohol,23
+13,50% off muffin,Appetizers,Food,8
+13,50% off Sandwich,Sandwiches,Food,16
+13,Add Bacon,Entrees,Food,2
+13,Add Cheese,Appetizers,Food,1
+13,Add Chicken,Entrees,Food,10
+13,Add Chicken,Soups/Salads,Food,1
+13,Add One Egg,Breakfast,Food,1
+13,Add Prawns,Entrees,Food,13
+13,Add Prawns,Soups/Salads,Food,5
+13,Add Steak,Soups/Salads,Food,1
+13,Amaretto,Liquor,Alcohol,4
+13,Appy Platter,Appetizers,Food,39
+13,Artisan Greens Starter,Soups/Salads,Food,7
+13,Bac. Orange,Coolers/Ciders,Alcohol,4
+13,Bac. Pineapple,Coolers/Ciders,Alcohol,3
+13,Bacardi,Liquor,Alcohol,6
+13,Bag - Peanuts,Appetizers,Food,29
+13,Bag of Chips,Appetizers,Food,170
+13,Baileys Coffee,Liquor,Alcohol,1
+13,Baileys Irish Cream,Liquor,Alcohol,11
+13,Banrock Station Shiraz Mataro,Wine,Alcohol,2
+13,Barbeque Chicken Pizza,Entrees,Food,19
+13,Basket Fries,Appetizers,Food,22
+13,Bayou Bourban Choc Torte,Desserts,Food,19
+13,BBQ Burger,Burgers,Food,1
+13,Bin end $17.95,Wine,Alcohol,8
+13,Bin end $21,Wine,Alcohol,10
+13,Bin end $26,Wine,Alcohol,6
+13,Bin end $35,Wine,Alcohol,2
+13,Bin end $36,Wine,Alcohol,2
+13,Bin end $70,Wine,Alcohol,4
+13,Black Door Sp,Draft Beer,Alcohol,82
+13,Black Lager Glass,Draft Beer,Alcohol,17
+13,Blueberry Tea,Liquor,Alcohol,4
+13,Bocconcini Salad,Burgers,Food,36
+13,Bombay Sapphire,Liquor,Alcohol,2
+13,Bottle La Veille Ferme,Wine,Alcohol,6
+13,Bottle of Pop,Non Alc Beverage,Food,235
+13,Bottle Rosemount Road Red,Wine,Alcohol,17
+13,Bowl Chowder,Soups/Salads,Food,153
+13,Bowl Soup,Soups/Salads,Food,163
+13,Bowmore,Liquor,Alcohol,2
+13,Breakfast Sandw ONLY,Breakfast,Food,22
+13,Breakfast Sandwich,Breakfast,Food,46
+13,Brunch Eggs Benny,Breakfast,Food,16
+13,Brunch Golfers,Breakfast,Food,41
+13,Brunch Omelette,Breakfast,Food,22
+13,Brunch Waffles,Breakfast,Food,5
+13,Btl Beringer Zinfan,Wine,Alcohol,3
+13,BTL Inniskillan Cab Sav,Wine,Alcohol,4
+13,BTL Jackson Triggs Pinot Noir,Wine,Alcohol,4
+13,BTL Jackson Triggs Sav Blanc,Wine,Alcohol,4
+13,BTL Mezzamondo Negroamaro,Wine,Alcohol,8
+13,BTL Toasted Head Merlot,Wine,Alcohol,4
+13,Btl Wolf BlaChard,Wine,Alcohol,6
+13,Bucket of Sol,Bottled Beer,Alcohol,14
+13,Budweiser,Bottled Beer,Alcohol,129
+13,Butter Chicken,Entrees,Food,15
+13,Caesar,Liquor,Alcohol,137
+13,Cajun Chicken Spinach Salad,Soups/Salads,Food,20
+13,Cajun Halibut Burger,Burgers,Food,30
+13,Campari,Liquor,Alcohol,1
+13,Canadian,Bottled Beer,Alcohol,34
+13,Canned Beer $4,Canned Beer,Alcohol,3
+13,Cappuccino,Non Alc Beverage,Food,6
+13,Captain Morgan Spice,Liquor,Alcohol,10
+13,Captain Morgan's Parrot Bay,Liquor,Alcohol,3
+13,Cash Bar - Coolers,Coolers/Ciders,Alcohol,-2
+13,Cash Bar - Highball,Liquor,Alcohol,-47
+13,Cash Bar - Juice,Non Alc Beverage,Food,3
+13,Cash Bar - Martini,Liquor,Alcohol,3
+13,Cash Bar - Pop,Non Alc Beverage,Food,2
+13,Cash Bar - Wine Gl,Wine,Alcohol,75
+13,CASH Dom Beer,Bottled Beer,Alcohol,52
+13,CASH Premium,Bottled Beer,Alcohol,-2
+13,Champagne & OJ,Liquor,Alcohol,4
+13,Chateaux Pesquie,Wine,Alcohol,1
+13,Chili Lime Hummus,Appetizers,Food,21
+13,Chipotle Fish Pocket,Entrees,Food,5
+13,Chix Cranberry Salad,Soups/Salads,Food,101
+13,Chocolate Bar,Appetizers,Food,126
+13,Cilantro Chix Quessadilla,Entrees,Food,6
+13,Clam & Chorizo Hot Pot,Appetizers,Food,8
+13,Classic Caesar,Soups/Salads,Food,44
+13,Classic Martini Gin,Liquor,Alcohol,8
+13,Classic Martini Vodka,Liquor,Alcohol,4
+13,Coffee,Non Alc Beverage,Food,966
+13,Coffee and Doughnuts,Desserts,Food,8
+13,Coffee muffin,Breakfast,Food,28
+13,Collins Gin,Liquor,Alcohol,3
+13,Cookies,Sandwiches,Food,-1
+13,Coolers,Coolers/Ciders,Alcohol,183
+13,Coors Light,Bottled Beer,Alcohol,133
+13,Corona,Bottled Beer,Alcohol,11
+13,Cosmopolitan,Liquor,Alcohol,3
+13,Crab & Artichoke,Appetizers,Food,3
+13,Cracked Frank's Member Sleeve,Draft Beer,Alcohol,121
+13,Crantini,Liquor,Alcohol,2
+13,Crown Royal,Liquor,Alcohol,4
+13,Dark Rum,Liquor,Alcohol,11
+13,DB Caesar,Liquor,Alcohol,15
+13,DB Chivas Regal,Liquor,Alcohol,1
+13,DB Crown Royal,Liquor,Alcohol,6
+13,DB Dark Rum,Liquor,Alcohol,7
+13,DB Glenfiddich,Liquor,Alcohol,4
+13,DB Glenlivet,Liquor,Alcohol,1
+13,DB Grey Goose,Liquor,Alcohol,3
+13,DB Oban,Liquor,Alcohol,2
+13,DB P'lyzer Vodka,Liquor,Alcohol,3
+13,DB Springbank,Liquor,Alcohol,1
+13,DB Stoli,Liquor,Alcohol,3
+13,DB Vodka,Liquor,Alcohol,4
+13,DB WhiteRum,Liquor,Alcohol,1
+13,Dbl Dewars,Liquor,Alcohol,1
+13,Dbl Highballs,Liquor,Alcohol,19
+13,Dbl Premium Highballs,Liquor,Alcohol,10
+13,Dessert $5,Desserts,Food,14
+13,Dessert $6,Desserts,Food,25
+13,Dom Perignon,Wine,Alcohol,1
+13,Domestic Beer,Canned Beer,Alcohol,461
+13,Drambuie,Liquor,Alcohol,1
+13,Eaglehawk Shiraz,Wine,Alcohol,36
+13,Espresso,Non Alc Beverage,Food,3
+13,Event Buffet,Entrees,Food,12
+13,Express Sandwich,Sandwiches,Food,150
+13,Extra Cheese,Breakfast,Food,2
+13,Famous Grouse,Liquor,Alcohol,1
+13,Fruit Juices,Non Alc Beverage,Food,40
+13,G2,Non Alc Beverage,Food,84
+13,Gabbiano Chianti,Wine,Alcohol,6
+13,Gabbiano Pinot Grigio,Wine,Alcohol,2
+13,Garlic Bread,Soups/Salads,Food,29
+13,Garlic Herb Ribs,Appetizers,Food,74
+13,Gatorade,Non Alc Beverage,Food,43
+13,Gin,Liquor,Alcohol,26
+13,Gl Beringer Zinfandel,Wine,Alcohol,6
+13,GL Jackson Triggs Sav Blanc,Wine,Alcohol,3
+13,Gl Lindemans Bin 45 Cabernet,Wine,Alcohol,65
+13,Gl Lindemans Bin 65 Chard,Wine,Alcohol,30
+13,Gl Linden Bay Merlot,Wine,Alcohol,121
+13,GL Mezzamondo Negroamaro,Wine,Alcohol,3
+13,Gl Naked Grape Pinot Grigio,Wine,Alcohol,143
+13,Gl Quails Gate Pinot Blanc,Wine,Alcohol,3
+13,GL Rosemnt Road R,Wine,Alcohol,45
+13,Gl Rosemnt Road W,Wine,Alcohol,24
+13,Gl Shandy,Draft Beer,Alcohol,3
+13,Gl Taylors Port,Liquor,Alcohol,13
+13,GL Toasted Head Merlot,Wine,Alcohol,1
+13,GlaBeringer White Zinfandel,Wine,Alcohol,3
+13,GlaEaglehawk Shiraz,Wine,Alcohol,21
+13,GlaLager,Draft Beer,Alcohol,80
+13,GlaRed Label Unwooded Chardonnay,Wine,Alcohol,3
+13,GlaSumac Ridge Gewurztraminer,Wine,Alcohol,6
+13,GlaWater,Non Alc Beverage,Food,11
+13,Glawine,Wine,Alcohol,12
+13,GlaWinter Ale,Draft Beer,Alcohol,47
+13,GlaWolfblaRed Label CabMerlot,Wine,Alcohol,19
+13,Glenfiddich,Liquor,Alcohol,2
+13,Glenlivet,Liquor,Alcohol,3
+13,Gls. Eaglehawk Chardonay,Wine,Alcohol,18
+13,Greek Chicken Salad,Soups/Salads,Food,3
+13,Greek Pizza,Entrees,Food,12
+13,Greg Norman,Wine,Alcohol,1
+13,Grey Goose,Liquor,Alcohol,2
+13,Grilled Chicken Clubhouse,Sandwiches,Food,153
+13,Growers Apple,Coolers/Ciders,Alcohol,14
+13,Growers Pear,Coolers/Ciders,Alcohol,24
+13,Growers Pomegranate,Coolers/Ciders,Alcohol,16
+13,Guinness,Draft Beer,Alcohol,35
+13,Half Pound Wings,Appetizers,Food,28
+13,Half Sandwich,Sandwiches,Food,26
+13,Halibut & Chips,Entrees,Food,68
+13,Hardy's Oomo Shiraz,Wine,Alcohol,4
+13,Heineken,Bottled Beer,Alcohol,48
+13,Herman's Dark Lager,Bottled Beer,Alcohol,6
+13,Host Beer,Bottled Beer,Alcohol,92
+13,Host Cooler/Cider,Coolers/Ciders,Alcohol,20
+13,Host draft Beer,Draft Beer,Alcohol,8
+13,Host Gl Wine,Wine,Alcohol,32
+13,Host Hiball,Bottled Beer,Alcohol,175
+13,Host Import Btl,Wine,Alcohol,23
+13,Host Import Gl,Wine,Alcohol,11
+13,Host Juice,Non Alc Beverage,Food,6
+13,Host Pop,Non Alc Beverage,Food,35
+13,Host Premium,Bottled Beer,Alcohol,42
+13,Host Premium Liq,Liquor,Alcohol,24
+13,Hot Chocolate,Non Alc Beverage,Food,24
+13,Hot Dog,Sandwiches,Food,315
+13,Hummus & Flat Bread,Appetizers,Food,23
+13,Ice Tea,Non Alc Beverage,Food,76
+13,Inniskillan Pinot Noir,Wine,Alcohol,1
+13,J.W. Red,Liquor,Alcohol,8
+13,Jack Daniels,Liquor,Alcohol,4
+13,Jackson Triggs Esprit Cab Sauv,Wine,Alcohol,1
+13,Jackson Triggs Esprit Chard,Wine,Alcohol,4
+13,Jambalaya,Entrees,Food,27
+13,Jim Beam,Liquor,Alcohol,3
+13,Jug Lager,Draft Beer,Alcohol,37
+13,Jug Winter Ale,Draft Beer,Alcohol,33
+13,Juice,Non Alc Beverage,Food,70
+13,"Kids 2 Eggs,Bacon & Tst",Breakfast,Food,3
+13,Kids Chicken Fingers,Entrees,Food,3
+13,Kids Trio Burger / Fries,Entrees,Food,1
+13,Kim Crawford Sauvignon Blanc,Wine,Alcohol,4
+13,Kokanee,Bottled Beer,Alcohol,70
+13,Korean Beef Satays,Appetizers,Food,4
+13,Korean Beef Stirfry,Entrees,Food,2
+13,Lamb Souvlaki,Entrees,Food,64
+13,Large Pop,Non Alc Beverage,Food,624
+13,Latour Bourgogne P Noir,Wine,Alcohol,2
+13,Latte,Non Alc Beverage,Food,4
+13,Lemonade,Non Alc Beverage,Food,23
+13,Litre Lindemans Bin 45 Cab Sauv,Wine,Alcohol,8
+13,Long Island,Liquor,Alcohol,6
+13,Louis Latour LArdeche,Wine,Alcohol,8
+13,Ltr Lindemans Bin 65 Chard,Wine,Alcohol,3
+13,Ltr Linden Bay Merlot,Wine,Alcohol,15
+13,Ltr Naked Grape Pinot Grigio,Wine,Alcohol,12
+13,Manhattan,Liquor,Alcohol,1
+13,Margarita,Liquor,Alcohol,17
+13,Margarita Night Sol,Bottled Beer,Alcohol,5
+13,Margarita Special,Liquor,Alcohol,10
+13,Mario's Vanilla Gelato,Desserts,Food,9
+13,Martini Night Martini,Liquor,Alcohol,4
+13,Meal Size Garden Greens,Soups/Salads,Food,19
+13,Meal Size Soup,Soups/Salads,Food,26
+13,Med Coffee Thermos,Non Alc Beverage,Food,3
+13,Mediterranean Chix Wrap,Burgers,Food,119
+13,Mediterranean Pizza,Entrees,Food,20
+13,Member 1/2 Litre,Wine,Alcohol,3
+13,Member House Wine,Wine,Alcohol,21
+13,Member Jug,Draft Beer,Alcohol,15
+13,Member Sleeve,Draft Beer,Alcohol,151
+13,Milk,Non Alc Beverage,Food,14
+13,Milkshake,Desserts,Food,5
+13,Miller Genuine Draft,Canned Beer,Alcohol,31
+13,Mini Liquor,Liquor,Alcohol,40
+13,Mocha,Non Alc Beverage,Food,8
+13,Mocktails,Non Alc Beverage,Food,2
+13,Mon California Roll,Entrees,Food,3
+13,Mother's Day Brunch,Entrees,Food,12
+13,Motts Caesar,Coolers/Ciders,Alcohol,110
+13,Muffin,Appetizers,Food,116
+13,Mug Shandy,Draft Beer,Alcohol,11
+13,N/A Punch,Non Alc Beverage,Food,2
+13,Naked Grape Spritzer,Coolers/Ciders,Alcohol,5
+13,Non-Alcoholic Beer,Non Alc Beverage,Food,39
+13,NY Steak & Frites,Entrees,Food,17
+13,Oban,Liquor,Alcohol,3
+13,One Piece Halibut & Chips,Entrees,Food,10
+13,Pasta Night $21.95,Entrees,Food,226
+13,Penfolds Bin 389,Wine,Alcohol,4
+13,Penfolds Koonunga Hill Shrz Cab,Wine,Alcohol,10
+13,Phat Italian,Burgers,Food,63
+13,Pint 1516 Lager,Draft Beer,Alcohol,387
+13,Pint Black Lager,Draft Beer,Alcohol,98
+13,Pint Race Rocks,Draft Beer,Alcohol,12
+13,Pint Sleeman Honey,Draft Beer,Alcohol,211
+13,Pint Winter Ale,Draft Beer,Alcohol,454
+13,Pizza Margarita,Burgers,Food,75
+13,PizzaThe Italian,Entrees,Food,56
+13,Polar Bear,Liquor,Alcohol,1
+13,Pound Wings,Appetizers,Food,49
+13,Power Bar,Sandwiches,Food,15
+13,Premium Beer,Canned Beer,Alcohol,345
+13,Premium Gin Martini,Liquor,Alcohol,3
+13,Premium Highball,Liquor,Alcohol,21
+13,Premium Vodka Martini,Liquor,Alcohol,10
+13,Prime Rib Burger,Burgers,Food,240
+13,Pulled Pork Sandwich,Burgers,Food,55
+13,Quails Gate Pinot Blanc,Wine,Alcohol,7
+13,Ravenswood Zinfandel,Wine,Alcohol,5
+13,Regular Shooter,Liquor,Alcohol,5
+13,Robert Mondavi Merlot,Wine,Alcohol,2
+13,Rosemount Road White,Wine,Alcohol,3
+13,Rye,Liquor,Alcohol,31
+13,Salmon Benedict,Breakfast,Food,6
+13,San Pellegrino,Non Alc Beverage,Food,24
+13,Sandwich,Sandwiches,Food,237
+13,Sandwich ONLY,Sandwiches,Food,8
+13,Sandwich to go,Sandwiches,Food,36
+13,Sat Feature Wine,Wine,Alcohol,1
+13,Sat Fish & Chip,Entrees,Food,4
+13,Schooner Lager,Draft Beer,Alcohol,9
+13,Schooner Pale,Draft Beer,Alcohol,10
+13,Seafood Pappardelle,Entrees,Food,48
+13,Shooters,Liquor,Alcohol,5
+13,Shot in the Dark,Wine,Alcohol,5
+13,Side Fruit,Breakfast,Food,3
+13,Side Hashbrowns,Breakfast,Food,1
+13,Side of Fries,Appetizers,Food,21
+13,Side Toast,Breakfast,Food,7
+13,Sleeman HB Glass,Draft Beer,Alcohol,38
+13,Sleeman Jugs,Draft Beer,Alcohol,10
+13,Sleeman Schooner,Draft Beer,Alcohol,2
+13,Smirnoff Ice,Coolers/Ciders,Alcohol,37
+13,Smoked Salmon Wrap,Sandwiches,Food,3
+13,Smokie,Sandwiches,Food,62
+13,Sol,Bottled Beer,Alcohol,65
+13,Sorbet,Desserts,Food,1
+13,Sour Apple Martini,Liquor,Alcohol,1
+13,Spanish Coffee,Liquor,Alcohol,4
+13,Special $9,Entrees,Food,12
+13,Special 10.00,Entrees,Food,17
+13,Special 11.00,Entrees,Food,8
+13,Special 12.00,Entrees,Food,2
+13,Special 13.00,Entrees,Food,2
+13,Special 14.00,Entrees,Food,1
+13,Special 17.00,Entrees,Food,6
+13,Special 18.00,Entrees,Food,6
+13,Special 19.00,Entrees,Food,14
+13,Special 22.00,Entrees,Food,28
+13,Special 8.00,Entrees,Food,7
+13,Spiced Apple Crumble,Burgers,Food,11
+13,Spicy Chicken Soba,Burgers,Food,45
+13,Spicy Meat Pizza,Entrees,Food,8
+13,Starter Classic Caesar,Soups/Salads,Food,25
+13,Stella Artois,Bottled Beer,Alcohol,37
+13,Stolichnaya,Liquor,Alcohol,1
+13,Sumac  Ridge Gewurztraminer,Wine,Alcohol,4
+13,Sumac Ridge Sauvignon Blanc,Wine,Alcohol,3
+13,Sunday Caesar Feature,Liquor,Alcohol,3
+13,Sundried Tomato Ravioli,Entrees,Food,4
+13,Tanqueray,Liquor,Alcohol,2
+13,Tapas Beef,Appetizers,Food,6
+13,Tapas Chef Choice,Appetizers,Food,12
+13,Tapas Chicken,Appetizers,Food,1
+13,Tapas Vegetarian,Appetizers,Food,3
+13,Tea,Non Alc Beverage,Food,137
+13,Three Cheese Flatbread,Appetizers,Food,29
+13,Thur Dry Rib,Appetizers,Food,22
+13,Thur Import Beer,Bottled Beer,Alcohol,11
+13,Ultimate Steak Sandwich,Sandwiches,Food,80
+13,Valentines Dinner,Entrees,Food,7
+13,Vegetable Spinach Ciabatta,Burgers,Food,86
+13,Virgin Caesar,Non Alc Beverage,Food,11
+13,Vodka,Liquor,Alcohol,94
+13,Water-Bottle,Non Alc Beverage,Food,170
+13,Wednesday 1/2L Wine,Wine,Alcohol,2
+13,Wednesday Appy,Appetizers,Food,86
+13,Wednesday Gl Wine,Wine,Alcohol,52
+13,Wednesday Sleeve,Draft Beer,Alcohol,246
+13,West Coast Seafood Salad,Soups/Salads,Food,55
+13,White Rum,Liquor,Alcohol,75
+13,Wine Spritzer,Wine,Alcohol,12
+13,Wolf Bla40 Cab/Shrz/Mer,Wine,Alcohol,5
+13,Wolf BlaGold Cab Franc,Wine,Alcohol,4
+13,WolfblaRed Label Cab Merlot,Wine,Alcohol,17
+13,Woody's Cooler,Coolers/Ciders,Alcohol,2
+13,Wynns Riesling,Wine,Alcohol,2
+13,Yam Fries,Appetizers,Food,59
+13,Yellowglen Pink Champagne,Wine,Alcohol,2
+13,Yellowglen Pink for 2,Wine,Alcohol,2
+13,Zed Sauvignon Blanc,Wine,Alcohol,1
+14,$12 Express Lunch,Entrees,Food,25
+14,$15 Beer & Lunch Feature,Draft Beer,Alcohol,1
+14,$7 Martini Special,Liquor,Alcohol,1
+14,* Course Break,Entrees,Food,40
+14,* Don't Make,Appetizers,Food,55
+14,* Fire Order,Food Modifiers,Food,35
+14,1/2 Lindemans Bin 45 Cabernet,Wine,Alcohol,2
+14,1/2 Lindemans Bin 65 Chard,Wine,Alcohol,3
+14,1/2 Sandwich,Sandwiches,Food,58
+14,1/2L Beringer Zinfandel,Wine,Alcohol,1
+14,1/2L Eaglehawk Chard,Wine,Alcohol,2
+14,1/2L Eaglehawk Shiraz,Wine,Alcohol,6
+14,1/2L Linden Bay Merlot,Wine,Alcohol,8
+14,1/2L Mezzamondo Negroamaro,Wine,Alcohol,2
+14,1/2L Naked Grape Pinot Grigio,Wine,Alcohol,15
+14,1/2L Rosemnt Road W,Wine,Alcohol,2
+14,1/2L WolfblaCab Merlot,Wine,Alcohol,1
+14,2 Breakfast Sannys,Breakfast,Food,22
+14,2 eggs and toast,Breakfast,Food,2
+14,2 pc Snapper & Chips,Entrees,Food,3
+14,3 Course Dinner Appy,Appetizers,Food,20
+14,3 Course Dinner Dessert,Desserts,Food,29
+14,3 Course Dinner Entree,Entrees,Food,22
+14,4 Choice Tapas,Appetizers,Food,22
+14,4 Pack Premium,Canned Beer,Alcohol,17
+14,4oz  2 GlaWine,Wine,Alcohol,16
+14,4oz Wine Glass,Wine,Alcohol,2
+14,4pk Domestic Cans,Canned Beer,Alcohol,16
+14,5 Pack Domestic,Canned Beer,Alcohol,6
+14,5 Pack Premium,Canned Beer,Alcohol,9
+14,50% off muffin,Appetizers,Food,19
+14,50% off Sandwich,Sandwiches,Food,12
+14,Add Bacon,Entrees,Food,1
+14,Add Chicken,Entrees,Food,5
+14,Add Chicken,Soups/Salads,Food,1
+14,Add One Egg,Breakfast,Food,4
+14,Add Prawns,Entrees,Food,12
+14,Add Prawns,Soups/Salads,Food,2
+14,Add Sauteed Mushrooms,Entrees,Food,7
+14,Appy Platter,Appetizers,Food,34
+14,Artisan Greens Starter,Soups/Salads,Food,6
+14,B 52 Coffee,Liquor,Alcohol,1
+14,Bac. Orange,Coolers/Ciders,Alcohol,1
+14,Bag - Peanuts,Appetizers,Food,29
+14,Bag of Chips,Appetizers,Food,97
+14,Baileys Coffee,Liquor,Alcohol,8
+14,Baileys Irish Cream,Liquor,Alcohol,4
+14,Banrock Station Shiraz Mataro,Wine,Alcohol,1
+14,Barbeque Chicken Pizza,Entrees,Food,8
+14,Basket Fries,Appetizers,Food,22
+14,Bayou Bourban Choc Torte,Desserts,Food,5
+14,BBQ Burger,Burgers,Food,2
+14,Bin end $21,Wine,Alcohol,1
+14,Bin end $26,Wine,Alcohol,1
+14,Bin end $27,Wine,Alcohol,1
+14,Bin end $35,Wine,Alcohol,2
+14,Bin end $70,Wine,Alcohol,2
+14,Black Lager Glass,Draft Beer,Alcohol,5
+14,Black Russian,Liquor,Alcohol,3
+14,Blueberry Tea,Liquor,Alcohol,1
+14,Bocconcini Salad,Burgers,Food,23
+14,Bottle La Veille Ferme,Wine,Alcohol,1
+14,Bottle of Pop,Non Alc Beverage,Food,189
+14,Bottle Rosemount Road Red,Wine,Alcohol,18
+14,Bowl Chowder,Soups/Salads,Food,141
+14,Bowl Soup,Soups/Salads,Food,111
+14,Breakfast Sandw ONLY,Breakfast,Food,42
+14,Breakfast Sandwich,Breakfast,Food,46
+14,Brunch Eggs Benny,Breakfast,Food,21
+14,Brunch Golfers,Breakfast,Food,29
+14,Brunch Omelette,Breakfast,Food,22
+14,Brunch Waffles,Breakfast,Food,13
+14,Btl Banrock Station Unwood Chard,Wine,Alcohol,1
+14,BTL Inniskillan Cab Sav,Wine,Alcohol,1
+14,BTL Jackson Triggs Pinot Noir,Wine,Alcohol,3
+14,BTL Marcus James Malbec,Wine,Alcohol,2
+14,BTL Mezzamondo Negroamaro,Wine,Alcohol,6
+14,Btl Perrin Reserve,Wine,Alcohol,1
+14,BTL Toasted Head Merlot,Wine,Alcohol,2
+14,Bucket of Sol,Bottled Beer,Alcohol,4
+14,Budweiser,Bottled Beer,Alcohol,81
+14,Butter Chicken,Entrees,Food,7
+14,Caesar,Liquor,Alcohol,69
+14,Cajun Chicken Spinach Salad,Soups/Salads,Food,26
+14,Cajun Halibut Burger,Burgers,Food,36
+14,Canadian,Bottled Beer,Alcohol,29
+14,Cappuccino,Non Alc Beverage,Food,6
+14,Captain Morgan Spice,Liquor,Alcohol,6
+14,Cash Bar - Coolers,Coolers/Ciders,Alcohol,3
+14,Cash Bar - Highball,Liquor,Alcohol,51
+14,Cash Bar - Martini,Liquor,Alcohol,2
+14,Cash Bar - Pop,Non Alc Beverage,Food,12
+14,Cash Bar - Wine Gl,Wine,Alcohol,36
+14,CASH Dom Beer,Bottled Beer,Alcohol,30
+14,CASH Premium,Bottled Beer,Alcohol,12
+14,Champagne & OJ,Liquor,Alcohol,2
+14,Cherry Point Blackberry Port,Wine,Alcohol,1
+14,Cherry Point Forte Blanc,Wine,Alcohol,2
+14,Cherry Point Pinot Noir,Wine,Alcohol,2
+14,Chili Lime Hummus,Appetizers,Food,11
+14,Chipotle Fish Pocket,Entrees,Food,6
+14,Chivas Regal,Liquor,Alcohol,1
+14,Chix Cranberry Salad,Soups/Salads,Food,79
+14,Chocolate Bar,Appetizers,Food,111
+14,Chocolate Martini,Liquor,Alcohol,2
+14,Cilantro Chix Quessadilla,Entrees,Food,11
+14,Clam & Chorizo Hot Pot,Appetizers,Food,4
+14,Classic Caesar,Soups/Salads,Food,27
+14,Classic Martini Gin,Liquor,Alcohol,5
+14,Coffee,Non Alc Beverage,Food,1402
+14,Coffee and Doughnuts,Desserts,Food,4
+14,Coffee muffin,Breakfast,Food,39
+14,Coolers,Coolers/Ciders,Alcohol,56
+14,Coors Light,Bottled Beer,Alcohol,31
+14,Cracked Frank's Member Sleeve,Draft Beer,Alcohol,93
+14,Crantini,Liquor,Alcohol,2
+14,Crown Royal,Liquor,Alcohol,7
+14,Dark Rum,Liquor,Alcohol,13
+14,DB Caesar,Liquor,Alcohol,25
+14,DB Captain Morgan Spice,Liquor,Alcohol,2
+14,DB Cinzano Red,Liquor,Alcohol,2
+14,DB Crown Royal,Liquor,Alcohol,2
+14,DB Dark Rum,Liquor,Alcohol,2
+14,DB Drambuie,Liquor,Alcohol,1
+14,DB Glenfiddich,Liquor,Alcohol,2
+14,DB Glenlivet,Liquor,Alcohol,2
+14,DB Jack Daniels,Liquor,Alcohol,3
+14,DB Rye,Liquor,Alcohol,3
+14,DB Stoli,Liquor,Alcohol,5
+14,DB Vodka,Liquor,Alcohol,17
+14,DB WhiteRum,Liquor,Alcohol,4
+14,Dbl Highballs,Liquor,Alcohol,5
+14,Dessert $5,Desserts,Food,6
+14,Dessert $6,Desserts,Food,22
+14,Domestic Beer,Canned Beer,Alcohol,116
+14,Drambuie,Liquor,Alcohol,5
+14,Eaglehawk Shiraz,Wine,Alcohol,18
+14,Espresso,Non Alc Beverage,Food,5
+14,Event Buffet,Entrees,Food,7
+14,Express Sandwich,Sandwiches,Food,87
+14,Extra Cheese,Breakfast,Food,2
+14,Feature Pitcher,Draft Beer,Alcohol,1
+14,Fruit Juices,Non Alc Beverage,Food,50
+14,G2,Non Alc Beverage,Food,83
+14,Gabbiano Pinot Grigio,Wine,Alcohol,2
+14,Garlic Bread,Soups/Salads,Food,19
+14,Garlic Herb Ribs,Appetizers,Food,42
+14,Gatorade,Non Alc Beverage,Food,17
+14,Gin,Liquor,Alcohol,22
+14,Gl Lindemans Bin 45 Cabernet,Wine,Alcohol,30
+14,Gl Lindemans Bin 65 Chard,Wine,Alcohol,8
+14,Gl Linden Bay Merlot,Wine,Alcohol,44
+14,GL Mezzamondo Negroamaro,Wine,Alcohol,2
+14,Gl Naked Grape Pinot Grigio,Wine,Alcohol,86
+14,GL Rosemnt Road R,Wine,Alcohol,19
+14,Gl Rosemnt Road W,Wine,Alcohol,14
+14,GL Toasted Head Merlot,Wine,Alcohol,3
+14,GlaBeringer White Zinfandel,Wine,Alcohol,3
+14,GlaEaglehawk Shiraz,Wine,Alcohol,7
+14,GlaLager,Draft Beer,Alcohol,45
+14,GlaRed Label Unwooded Chardonnay,Wine,Alcohol,3
+14,GlaSumac Ridge Gewurztraminer,Wine,Alcohol,7
+14,GlaWater,Non Alc Beverage,Food,18
+14,Glawine,Wine,Alcohol,5
+14,GlaWinter Ale,Draft Beer,Alcohol,37
+14,GlaWolfblaRed Label CabMerlot,Wine,Alcohol,6
+14,Gls. Eaglehawk Chardonay,Wine,Alcohol,20
+14,Greek Chicken Salad,Soups/Salads,Food,6
+14,Greek Pizza,Entrees,Food,4
+14,Greg Norman,Wine,Alcohol,1
+14,Grey Goose,Liquor,Alcohol,2
+14,Grilled Chicken Clubhouse,Sandwiches,Food,135
+14,Growers Apple,Coolers/Ciders,Alcohol,7
+14,Growers Pear,Coolers/Ciders,Alcohol,4
+14,Growers Pomegranate,Coolers/Ciders,Alcohol,9
+14,GuinneSpecial,Draft Beer,Alcohol,2
+14,Guinness,Draft Beer,Alcohol,8
+14,Half Pound Wings,Appetizers,Food,25
+14,Half Sandwich,Sandwiches,Food,24
+14,Halibut & Chips,Entrees,Food,59
+14,Hardy's Oomo Shiraz,Wine,Alcohol,4
+14,Heineken,Bottled Beer,Alcohol,30
+14,Herman's Dark Lager,Bottled Beer,Alcohol,6
+14,Host Beer,Bottled Beer,Alcohol,30
+14,Host Btl Water,Non Alc Beverage,Food,1
+14,Host Cooler/Cider,Coolers/Ciders,Alcohol,5
+14,Host DB Hiball/Martini,Liquor,Alcohol,7
+14,Host draft Beer,Draft Beer,Alcohol,30
+14,Host Gl Wine,Wine,Alcohol,16
+14,Host Hiball,Bottled Beer,Alcohol,113
+14,Host Import Gl,Wine,Alcohol,4
+14,Host Pop,Non Alc Beverage,Food,8
+14,Host Premium,Bottled Beer,Alcohol,17
+14,Host Premium Liq,Liquor,Alcohol,31
+14,Hot Chocolate,Non Alc Beverage,Food,9
+14,Hot Dog,Sandwiches,Food,238
+14,Hummus & Flat Bread,Appetizers,Food,6
+14,Ice Tea,Non Alc Beverage,Food,40
+14,Inniskillan Pinot Noir,Wine,Alcohol,1
+14,J.W. Red,Liquor,Alcohol,4
+14,Jackson Triggs Esprit Cab Sauv,Wine,Alcohol,3
+14,Jambalaya,Entrees,Food,25
+14,Jug Lager,Draft Beer,Alcohol,25
+14,Jug Race Rocks,Draft Beer,Alcohol,2
+14,Jug Winter Ale,Draft Beer,Alcohol,12
+14,Juice,Non Alc Beverage,Food,109
+14,Kahlua,Liquor,Alcohol,1
+14,"Kids 2 Eggs,Bacon & Tst",Breakfast,Food,10
+14,Kids Chicken Fingers,Entrees,Food,4
+14,Kim Crawford Sauvignon Blanc,Wine,Alcohol,14
+14,Kokanee,Bottled Beer,Alcohol,11
+14,Korean Beef Stirfry,Entrees,Food,3
+14,Lamb Souvlaki,Entrees,Food,31
+14,Large Pop,Non Alc Beverage,Food,1287
+14,Latour Bourgogne P Noir,Wine,Alcohol,12
+14,Lemonade,Non Alc Beverage,Food,41
+14,Litre Lindemans Bin 45 Cab Sauv,Wine,Alcohol,5
+14,Long Island,Liquor,Alcohol,4
+14,Louis Latour LArdeche,Wine,Alcohol,3
+14,Ltr Linden Bay Merlot,Wine,Alcohol,8
+14,Ltr Naked Grape Pinot Grigio,Wine,Alcohol,10
+14,Manhattan,Liquor,Alcohol,5
+14,Margarita,Liquor,Alcohol,3
+14,Margarita Special,Liquor,Alcohol,5
+14,Mario's Vanilla Gelato,Desserts,Food,5
+14,Meal Size Garden Greens,Soups/Salads,Food,16
+14,Meal Size Soup,Soups/Salads,Food,11
+14,Mediterranean Chix Wrap,Burgers,Food,89
+14,Mediterranean Pizza,Entrees,Food,12
+14,Member 1/2 Litre,Wine,Alcohol,2
+14,Member House Wine,Wine,Alcohol,10
+14,Member Jug,Draft Beer,Alcohol,8
+14,Member Sleeve,Draft Beer,Alcohol,91
+14,Mid Isl Beer Feature,Draft Beer,Alcohol,53
+14,Milk,Non Alc Beverage,Food,6
+14,Milkshake,Desserts,Food,8
+14,Miller Genuine Draft,Canned Beer,Alcohol,10
+14,Mini Liquor,Liquor,Alcohol,33
+14,Mocha,Non Alc Beverage,Food,3
+14,Monster,Non Alc Beverage,Food,2
+14,Mother's Day Brunch,Entrees,Food,3
+14,Motts Caesar,Coolers/Ciders,Alcohol,40
+14,Muffin,Appetizers,Food,94
+14,Mug Shandy,Draft Beer,Alcohol,7
+14,Naked Grape Spritzer,Coolers/Ciders,Alcohol,2
+14,Non-Alcoholic Beer,Non Alc Beverage,Food,16
+14,NY Steak & Frites,Entrees,Food,33
+14,One Piece Halibut & Chips,Entrees,Food,7
+14,Osoyoos LaRose Grand Vin,Wine,Alcohol,2
+14,Paralyzer Vodka,Liquor,Alcohol,3
+14,Pasta Night $21.95,Entrees,Food,85
+14,Penfolds Koonunga Hill Shrz Cab,Wine,Alcohol,3
+14,Phat Italian,Burgers,Food,35
+14,Pint 1516 Lager,Draft Beer,Alcohol,277
+14,Pint Black Lager,Draft Beer,Alcohol,52
+14,Pint Race Rocks,Draft Beer,Alcohol,3
+14,Pint Sleeman Honey,Draft Beer,Alcohol,144
+14,Pint Winter Ale,Draft Beer,Alcohol,231
+14,Pizza Margarita,Burgers,Food,31
+14,PizzaThe Italian,Entrees,Food,51
+14,Pound Wings,Appetizers,Food,39
+14,Power Bar,Sandwiches,Food,3
+14,Premium Beer,Canned Beer,Alcohol,141
+14,Premium Highball,Liquor,Alcohol,5
+14,Premium Margarita,Liquor,Alcohol,2
+14,Premium Vodka Martini,Liquor,Alcohol,1
+14,Prime Rib Burger,Burgers,Food,194
+14,Pulled Pork Sandwich,Burgers,Food,41
+14,Quails Gate Pinot Blanc,Wine,Alcohol,5
+14,Ravenswood Zinfandel,Wine,Alcohol,1
+14,Robert Mondavi Merlot,Wine,Alcohol,2
+14,Rosemount GSM,Wine,Alcohol,2
+14,Rosemount Road White,Wine,Alcohol,1
+14,Rusty Nail,Liquor,Alcohol,2
+14,Rye,Liquor,Alcohol,16
+14,Salmon Benedict,Breakfast,Food,5
+14,San Pellegrino,Non Alc Beverage,Food,9
+14,Sandwich,Sandwiches,Food,221
+14,Sandwich ONLY,Sandwiches,Food,19
+14,Sandwich to go,Sandwiches,Food,19
+14,Sat Fish & Chip,Entrees,Food,12
+14,Schooner Lager,Draft Beer,Alcohol,1
+14,Schooner Pale,Draft Beer,Alcohol,5
+14,Seafood Pappardelle,Entrees,Food,23
+14,Shooters,Liquor,Alcohol,2
+14,Shot in the Dark,Wine,Alcohol,3
+14,Side Fruit,Breakfast,Food,2
+14,Side Maple Sausage,Breakfast,Food,2
+14,Side of Fries,Appetizers,Food,8
+14,Side of Gravy,Appetizers,Food,2
+14,Side Toast,Breakfast,Food,11
+14,Sleeman HB Glass,Draft Beer,Alcohol,25
+14,Sleeman Jugs,Draft Beer,Alcohol,6
+14,Smirnoff Ice,Coolers/Ciders,Alcohol,17
+14,Smokie,Sandwiches,Food,34
+14,Sol,Bottled Beer,Alcohol,70
+14,Sorbet,Desserts,Food,2
+14,Special $21,Entrees,Food,1
+14,Special $22,Entrees,Food,1
+14,Special $24,Entrees,Food,7
+14,Special $9,Entrees,Food,10
+14,Special 10.00,Entrees,Food,25
+14,Special 11.00,Entrees,Food,2
+14,Special 12.00,Entrees,Food,2
+14,Special 17.00,Entrees,Food,6
+14,Special 18.00,Entrees,Food,3
+14,Special 19.00,Entrees,Food,6
+14,Special 22.00,Entrees,Food,21
+14,Special 8.00,Entrees,Food,5
+14,Spiced Apple Crumble,Burgers,Food,6
+14,Spicy Chicken Soba,Burgers,Food,21
+14,Spicy Meat Pizza,Entrees,Food,6
+14,Springbank 10yr,Liquor,Alcohol,4
+14,Starter Classic Caesar,Soups/Salads,Food,14
+14,Stella Artois,Bottled Beer,Alcohol,18
+14,Stolichnaya,Liquor,Alcohol,2
+14,Sumac  Ridge Gewurztraminer,Wine,Alcohol,2
+14,Sumac Ridge Stellar Jay Brut,Wine,Alcohol,1
+14,Sundried Tomato Ravioli,Entrees,Food,6
+14,Tapas Beef,Appetizers,Food,9
+14,Tapas Chef Choice,Appetizers,Food,2
+14,Tapas Chicken,Appetizers,Food,3
+14,Tapas Seafood,Appetizers,Food,10
+14,Tapas Vegetarian,Appetizers,Food,7
+14,Tea,Non Alc Beverage,Food,120
+14,Three Cheese Flatbread,Appetizers,Food,15
+14,Three Piece Halibut & Chips,Entrees,Food,2
+14,Thur Dry Rib,Appetizers,Food,11
+14,Thur Import Beer,Bottled Beer,Alcohol,6
+14,Tue Fish Taco,Entrees,Food,2
+14,Tue Margarita,Liquor,Alcohol,2
+14,Two 4 Break Sanny,Breakfast,Food,5
+14,Ultimate Steak Sandwich,Sandwiches,Food,70
+14,Valentines Dinner,Entrees,Food,6
+14,Vegetable Spinach Ciabatta,Burgers,Food,40
+14,Virgin Caesar,Non Alc Beverage,Food,16
+14,Vodka,Liquor,Alcohol,62
+14,Water-Bottle,Non Alc Beverage,Food,141
+14,Wednesday Appy,Appetizers,Food,24
+14,Wednesday Gl Wine,Wine,Alcohol,40
+14,Wednesday Sleeve,Draft Beer,Alcohol,97
+14,West Coast Seafood Salad,Soups/Salads,Food,22
+14,White Rum,Liquor,Alcohol,49
+14,Wine Spritzer,Wine,Alcohol,5
+14,Wolf Bla40 Cab/Shrz/Mer,Wine,Alcohol,1
+14,Wolf BlaDinner,Entrees,Food,5
+14,Wolf BlaGold Cab Franc,Wine,Alcohol,2
+14,Wolf BlaWine,Wine,Alcohol,4
+14,WolfblaRed Label Cab Merlot,Wine,Alcohol,13
+14,Woody's Cooler,Coolers/Ciders,Alcohol,6
+14,Wynns Cab Shrz Merlot,Wine,Alcohol,2
+14,Yam Fries,Appetizers,Food,43
+14,Yellowglen Pink for 2,Wine,Alcohol,2
+14,Zed Sauvignon Blanc,Wine,Alcohol,4
+15,$12 Express Lunch,Entrees,Food,37
+15,$7 Martini Special,Liquor,Alcohol,4
+15,* Course Break,Entrees,Food,32
+15,* Don't Make,Appetizers,Food,46
+15,* Fire Order,Food Modifiers,Food,20
+15,1/2 Lindemans Bin 45 Cabernet,Wine,Alcohol,3
+15,1/2 Lindemans Bin 65 Chard,Wine,Alcohol,1
+15,1/2 Sandwich,Sandwiches,Food,74
+15,1/2L Linden Bay Merlot,Wine,Alcohol,17
+15,1/2L Mezzamondo Negroamaro,Wine,Alcohol,2
+15,1/2L Naked Grape Pinot Grigio,Wine,Alcohol,9
+15,1/2L Red Label Unwooded Chardonnay,Wine,Alcohol,1
+15,1/2L Rosemnt Road R,Wine,Alcohol,15
+15,1/2L Rosemnt Road W,Wine,Alcohol,32
+15,1/2L Sumac Ridge Gewurztraminer,Wine,Alcohol,2
+15,2 Breakfast Sannys,Breakfast,Food,23
+15,2 eggs and toast,Breakfast,Food,8
+15,2 pc Snapper & Chips,Entrees,Food,1
+15,3 Course Dinner Appy,Appetizers,Food,6
+15,3 Course Dinner Dessert,Desserts,Food,7
+15,3 Course Dinner Entree,Entrees,Food,8
+15,4 Choice Tapas,Appetizers,Food,28
+15,4 Pack Premium,Canned Beer,Alcohol,29
+15,4oz  2 GlaWine,Wine,Alcohol,16
+15,4oz Wine Glass,Wine,Alcohol,3
+15,4pk Domestic Cans,Canned Beer,Alcohol,25
+15,5 Pack Domestic,Canned Beer,Alcohol,5
+15,5 Pack Premium,Canned Beer,Alcohol,9
+15,50% off muffin,Appetizers,Food,23
+15,50% off Sandwich,Sandwiches,Food,14
+15,Add Chicken,Entrees,Food,5
+15,Add Chicken,Soups/Salads,Food,5
+15,Add One Egg,Breakfast,Food,1
+15,Add Prawns,Entrees,Food,10
+15,Appy Platter,Appetizers,Food,34
+15,Artisan Greens Starter,Soups/Salads,Food,4
+15,Bac. Orange,Coolers/Ciders,Alcohol,3
+15,Bag - Peanuts,Appetizers,Food,28
+15,Bag of Chips,Appetizers,Food,109
+15,Baileys Coffee,Liquor,Alcohol,2
+15,Baileys Irish Cream,Liquor,Alcohol,7
+15,Banrock Station Shiraz Mataro,Wine,Alcohol,1
+15,Barbeque Chicken Pizza,Entrees,Food,10
+15,Basket Fries,Appetizers,Food,11
+15,Bayou Bourban Choc Torte,Desserts,Food,9
+15,BBQ Burger,Burgers,Food,2
+15,Beringer Small Wine,Wine,Alcohol,2
+15,Bin end $19.95,Wine,Alcohol,2
+15,Bin end $21,Wine,Alcohol,3
+15,Bin end $26,Wine,Alcohol,3
+15,Bin end $70,Wine,Alcohol,2
+15,Black Lager Glass,Draft Beer,Alcohol,11
+15,Bloody Mary,Liquor,Alcohol,2
+15,Bocconcini Salad,Burgers,Food,27
+15,Bombay Sapphire,Liquor,Alcohol,5
+15,Bottle La Veille Ferme,Wine,Alcohol,1
+15,Bottle of Pop,Non Alc Beverage,Food,209
+15,Bottle Rosemount Road Red,Wine,Alcohol,11
+15,Bowl Chowder,Soups/Salads,Food,102
+15,Bowl Soup,Soups/Salads,Food,91
+15,Breakfast Sandw ONLY,Breakfast,Food,25
+15,Breakfast Sandwich,Breakfast,Food,42
+15,Brunch Eggs Benny,Breakfast,Food,23
+15,Brunch Golfers,Breakfast,Food,56
+15,Brunch Omelette,Breakfast,Food,26
+15,Brunch Waffles,Breakfast,Food,2
+15,BTL Jackson Triggs Pinot Noir,Wine,Alcohol,1
+15,BTL Mezzamondo Negroamaro,Wine,Alcohol,4
+15,BTL Toasted Head Merlot,Wine,Alcohol,2
+15,Btl Wolf BlaChard,Wine,Alcohol,7
+15,Bucket of Sol,Bottled Beer,Alcohol,32
+15,Budweiser,Bottled Beer,Alcohol,84
+15,Butter Chicken,Entrees,Food,10
+15,Caesar,Liquor,Alcohol,47
+15,Cajun Chicken Spinach Salad,Soups/Salads,Food,22
+15,Cajun Halibut Burger,Burgers,Food,26
+15,Campari,Liquor,Alcohol,1
+15,Canadian,Bottled Beer,Alcohol,18
+15,Canned Beer $4,Canned Beer,Alcohol,2
+15,Cappuccino,Non Alc Beverage,Food,5
+15,Captain Morgan Spice,Liquor,Alcohol,6
+15,Cash Bar - Coolers,Coolers/Ciders,Alcohol,6
+15,Cash Bar - Highball,Liquor,Alcohol,77
+15,Cash Bar - Pop,Non Alc Beverage,Food,10
+15,Cash Bar - Wine Gl,Wine,Alcohol,19
+15,CASH Dom Beer,Bottled Beer,Alcohol,6
+15,CASH Premium,Bottled Beer,Alcohol,15
+15,Cedar Plank Salmon,Entrees,Food,2
+15,Champagne & OJ,Liquor,Alcohol,11
+15,Child's Brunch/year,Entrees,Food,33
+15,Chili Lime Hummus,Appetizers,Food,8
+15,Chipotle Fish Pocket,Entrees,Food,6
+15,Chix Cranberry Salad,Soups/Salads,Food,89
+15,Chocolate Bar,Appetizers,Food,78
+15,Cilantro Chix Quessadilla,Entrees,Food,7
+15,Clam & Chorizo Hot Pot,Appetizers,Food,7
+15,Classic Caesar,Soups/Salads,Food,27
+15,Classic Martini Vodka,Liquor,Alcohol,3
+15,Coffee,Non Alc Beverage,Food,739
+15,Coffee and Doughnuts,Desserts,Food,2
+15,Coffee muffin,Breakfast,Food,29
+15,Continental Brunch,Breakfast,Food,3
+15,Cookies,Sandwiches,Food,1
+15,Coolers,Coolers/Ciders,Alcohol,117
+15,Coors Light,Bottled Beer,Alcohol,40
+15,Cracked Frank's Member Sleeve,Draft Beer,Alcohol,103
+15,Crantini,Liquor,Alcohol,1
+15,Crown Royal,Liquor,Alcohol,9
+15,Cuervo,Liquor,Alcohol,2
+15,Dark Rum,Liquor,Alcohol,12
+15,DB  Gin,Liquor,Alcohol,4
+15,DB Caesar,Liquor,Alcohol,1
+15,DB Crown Royal,Liquor,Alcohol,4
+15,DB Dark Rum,Liquor,Alcohol,4
+15,DB Peach Schnapps,Liquor,Alcohol,2
+15,DB Rye,Liquor,Alcohol,4
+15,DB WhiteRum,Liquor,Alcohol,1
+15,Dbl Highballs,Liquor,Alcohol,1
+15,D'Eaubonne,Liquor,Alcohol,2
+15,Dessert $5,Desserts,Food,10
+15,Dessert $6,Desserts,Food,15
+15,Domestic Beer,Canned Beer,Alcohol,173
+15,Drambuie,Liquor,Alcohol,1
+15,Eaglehawk Shiraz,Wine,Alcohol,26
+15,Espresso,Non Alc Beverage,Food,3
+15,Event Buffet,Entrees,Food,5
+15,Express Sandwich,Sandwiches,Food,105
+15,Extra Cheese,Breakfast,Food,2
+15,Famous Grouse,Liquor,Alcohol,3
+15,Fri Cheese Plate,Entrees,Food,2
+15,Fruit Juices,Non Alc Beverage,Food,39
+15,G2,Non Alc Beverage,Food,71
+15,Gabbiano Chianti,Wine,Alcohol,1
+15,Garlic Bread,Soups/Salads,Food,24
+15,Garlic Herb Ribs,Appetizers,Food,28
+15,Gatorade,Non Alc Beverage,Food,17
+15,Gin,Liquor,Alcohol,21
+15,GL Banrock Station Unwood Chard,Wine,Alcohol,2
+15,Gl Lindemans Bin 45 Cabernet,Wine,Alcohol,31
+15,Gl Lindemans Bin 65 Chard,Wine,Alcohol,14
+15,Gl Linden Bay Merlot,Wine,Alcohol,61
+15,GL Mezzamondo Negroamaro,Wine,Alcohol,5
+15,Gl Naked Grape Pinot Grigio,Wine,Alcohol,63
+15,GL Rosemnt Road R,Wine,Alcohol,28
+15,Gl Rosemnt Road W,Wine,Alcohol,20
+15,Gl Shandy,Draft Beer,Alcohol,1
+15,GlaBeringer White Zinfandel,Wine,Alcohol,3
+15,GlaEaglehawk Shiraz,Wine,Alcohol,20
+15,GlaLager,Draft Beer,Alcohol,43
+15,GlaRed Label Unwooded Chardonnay,Wine,Alcohol,4
+15,GlaWater,Non Alc Beverage,Food,15
+15,Glawine,Wine,Alcohol,13
+15,GlaWinter Ale,Draft Beer,Alcohol,30
+15,GlaWolfblaRed Label CabMerlot,Wine,Alcohol,9
+15,Glenfiddich,Liquor,Alcohol,4
+15,Gls. Eaglehawk Chardonay,Wine,Alcohol,17
+15,Grand Marnier,Liquor,Alcohol,2
+15,Greek Chicken Salad,Soups/Salads,Food,2
+15,Greek Pizza,Entrees,Food,4
+15,Greg Norman,Wine,Alcohol,1
+15,Grey Goose,Liquor,Alcohol,4
+15,Grilled Chicken Clubhouse,Sandwiches,Food,124
+15,Growers Apple,Coolers/Ciders,Alcohol,12
+15,Growers Pear,Coolers/Ciders,Alcohol,9
+15,Growers Pomegranate,Coolers/Ciders,Alcohol,4
+15,Guinness,Draft Beer,Alcohol,7
+15,Half Pound Wings,Appetizers,Food,19
+15,Half Sandwich,Sandwiches,Food,36
+15,Halibut & Chips,Entrees,Food,34
+15,Hardy's Oomo Shiraz,Wine,Alcohol,2
+15,Heineken,Bottled Beer,Alcohol,18
+15,Herman's Dark Lager,Bottled Beer,Alcohol,6
+15,Host Beer,Bottled Beer,Alcohol,44
+15,Host Cooler/Cider,Coolers/Ciders,Alcohol,4
+15,Host draft Beer,Draft Beer,Alcohol,7
+15,Host Gl Wine,Wine,Alcohol,122
+15,Host Hiball,Bottled Beer,Alcohol,2
+15,Host Import Btl,Wine,Alcohol,17
+15,Host Juice,Non Alc Beverage,Food,1
+15,Host Pop,Non Alc Beverage,Food,10
+15,Host Premium,Bottled Beer,Alcohol,8
+15,Host Premium Liq,Liquor,Alcohol,7
+15,Hot Chocolate,Non Alc Beverage,Food,8
+15,Hot Dog,Sandwiches,Food,247
+15,Hummus & Flat Bread,Appetizers,Food,6
+15,Ice Tea,Non Alc Beverage,Food,52
+15,Inniskillan Pinot Noir,Wine,Alcohol,4
+15,J.W. Red,Liquor,Alcohol,1
+15,Jack Daniels,Liquor,Alcohol,1
+15,Jackson Triggs Esprit Cab Sauv,Wine,Alcohol,2
+15,Jambalaya,Entrees,Food,20
+15,Jameson,Liquor,Alcohol,1
+15,Jug Black Lager,Canned Beer,Alcohol,3
+15,Jug Lager,Draft Beer,Alcohol,12
+15,Jug Winter Ale,Draft Beer,Alcohol,7
+15,Juice,Non Alc Beverage,Food,82
+15,"Kids 2 Eggs,Bacon & Tst",Breakfast,Food,2
+15,Kids Chicken Fingers,Entrees,Food,2
+15,Kids Grilled Cheese,Entrees,Food,2
+15,Kim Crawford Sauvignon Blanc,Wine,Alcohol,33
+15,Kokanee,Bottled Beer,Alcohol,34
+15,Korean Beef Stirfry,Entrees,Food,4
+15,Lamb Souvlaki,Entrees,Food,34
+15,Large Pop,Non Alc Beverage,Food,568
+15,Lemonade,Non Alc Beverage,Food,13
+15,Litre Lindemans Bin 45 Cab Sauv,Wine,Alcohol,5
+15,Louis Latour LArdeche,Wine,Alcohol,1
+15,Ltr Lindemans Bin 65 Chard,Wine,Alcohol,2
+15,Ltr Linden Bay Merlot,Wine,Alcohol,12
+15,Ltr Naked Grape Pinot Grigio,Wine,Alcohol,8
+15,Margarita,Liquor,Alcohol,2
+15,Margarita Night Sol,Bottled Beer,Alcohol,3
+15,Margarita Special,Liquor,Alcohol,11
+15,Mario's Vanilla Gelato,Desserts,Food,1
+15,Martini Night Martini,Liquor,Alcohol,3
+15,Matua Sav Blanc,Wine,Alcohol,2
+15,Meal Size Garden Greens,Soups/Salads,Food,16
+15,Meal Size Soup,Soups/Salads,Food,14
+15,Mediterranean Chix Wrap,Burgers,Food,82
+15,Mediterranean Pizza,Entrees,Food,5
+15,Member 1/2 Litre,Wine,Alcohol,3
+15,Member House Wine,Wine,Alcohol,9
+15,Member Jug,Draft Beer,Alcohol,9
+15,Member Sleeve,Draft Beer,Alcohol,86
+15,Milk,Non Alc Beverage,Food,1
+15,Milkshake,Desserts,Food,5
+15,Miller Genuine Draft,Canned Beer,Alcohol,13
+15,Mini Liquor,Liquor,Alcohol,22
+15,Mocha,Non Alc Beverage,Food,3
+15,Mon California Roll,Entrees,Food,5
+15,Mother's Day Brunch,Entrees,Food,22
+15,Motts Caesar,Coolers/Ciders,Alcohol,33
+15,Muffin,Appetizers,Food,101
+15,Mug Shandy,Draft Beer,Alcohol,2
+15,Naked Grape Spritzer,Coolers/Ciders,Alcohol,4
+15,Non-Alcoholic Beer,Non Alc Beverage,Food,6
+15,NY Steak & Frites,Entrees,Food,15
+15,One Piece Halibut & Chips,Entrees,Food,5
+15,Pasta Night $21.95,Entrees,Food,90
+15,Penfolds Koonunga Hill Shrz Cab,Wine,Alcohol,3
+15,Petalus Dosoyoos Larose,Wine,Alcohol,2
+15,Phat Italian,Burgers,Food,27
+15,Pint 1516 Lager,Draft Beer,Alcohol,219
+15,Pint Black Lager,Draft Beer,Alcohol,62
+15,Pint Race Rocks,Draft Beer,Alcohol,7
+15,Pint Sleeman Honey,Draft Beer,Alcohol,125
+15,Pint Winter Ale,Draft Beer,Alcohol,239
+15,Pizza Margarita,Burgers,Food,48
+15,PizzaThe Italian,Entrees,Food,46
+15,Pound Wings,Appetizers,Food,18
+15,Power Bar,Sandwiches,Food,9
+15,Premium Beer,Canned Beer,Alcohol,123
+15,Premium Gin Martini,Liquor,Alcohol,3
+15,Premium Highball,Liquor,Alcohol,10
+15,Premium Vodka Martini,Liquor,Alcohol,1
+15,Prime Rib Burger,Burgers,Food,155
+15,Pulled Pork Sandwich,Burgers,Food,24
+15,Quails Gate Pinot Blanc,Wine,Alcohol,2
+15,Remy Martin VSOP,Liquor,Alcohol,1
+15,Rosemount GSM,Wine,Alcohol,1
+15,Rosemount Road White,Wine,Alcohol,6
+15,Rye,Liquor,Alcohol,14
+15,Salmon Benedict,Breakfast,Food,4
+15,San Pellegrino,Non Alc Beverage,Food,8
+15,Sandwich,Sandwiches,Food,182
+15,Sandwich ONLY,Sandwiches,Food,7
+15,Sandwich to go,Sandwiches,Food,13
+15,Sat Feature Wine,Wine,Alcohol,4
+15,Sat Fish & Chip,Entrees,Food,10
+15,Schooner Lager,Draft Beer,Alcohol,4
+15,Schooner Pale,Draft Beer,Alcohol,1
+15,Schooner Shaft Cream Ale,Draft Beer,Alcohol,1
+15,Seafood Pappardelle,Entrees,Food,38
+15,Shirley Temple,Non Alc Beverage,Food,2
+15,Side Fruit,Breakfast,Food,5
+15,Side of Fries,Appetizers,Food,9
+15,Side Toast,Breakfast,Food,9
+15,Sleeman HB Glass,Draft Beer,Alcohol,21
+15,Sleeman Jugs,Draft Beer,Alcohol,2
+15,Smirnoff Ice,Coolers/Ciders,Alcohol,9
+15,Smokie,Sandwiches,Food,41
+15,Sol,Bottled Beer,Alcohol,51
+15,Sorbet,Desserts,Food,1
+15,Sour Apple Martini,Liquor,Alcohol,4
+15,Spanish Coffee,Liquor,Alcohol,1
+15,Special $9,Entrees,Food,3
+15,Special 10.00,Entrees,Food,23
+15,Special 11.00,Entrees,Food,7
+15,Special 12.00,Entrees,Food,3
+15,Special 13.00,Entrees,Food,2
+15,Special 14.00,Entrees,Food,2
+15,Special 17.00,Entrees,Food,10
+15,Special 18.00,Entrees,Food,5
+15,Special 19.00,Entrees,Food,5
+15,Special 22.00,Entrees,Food,11
+15,Special 8.00,Entrees,Food,5
+15,Spiced Apple Crumble,Burgers,Food,7
+15,Spicy Chicken Soba,Burgers,Food,21
+15,Spicy Meat Pizza,Entrees,Food,6
+15,Starter Classic Caesar,Soups/Salads,Food,6
+15,Stella Artois,Bottled Beer,Alcohol,10
+15,Sumac Ridge Sauvignon Blanc,Wine,Alcohol,2
+15,Sundried Tomato Ravioli,Entrees,Food,6
+15,Tapas Beef,Appetizers,Food,5
+15,Tapas Chicken,Appetizers,Food,3
+15,Tapas Seafood,Appetizers,Food,2
+15,Tapas Vegetarian,Appetizers,Food,6
+15,Tea,Non Alc Beverage,Food,105
+15,Three Cheese Flatbread,Appetizers,Food,12
+15,Thur Dry Rib,Appetizers,Food,10
+15,Thur Import Beer,Bottled Beer,Alcohol,5
+15,Ultimate Steak Sandwich,Sandwiches,Food,41
+15,Valentines Dinner,Entrees,Food,2
+15,Vegetable Spinach Ciabatta,Burgers,Food,76
+15,Virgin Caesar,Non Alc Beverage,Food,2
+15,Vodka,Liquor,Alcohol,40
+15,Water-Bottle,Non Alc Beverage,Food,120
+15,Wednesday 1/2L Wine,Wine,Alcohol,6
+15,Wednesday Appy,Appetizers,Food,69
+15,Wednesday Gl Wine,Wine,Alcohol,40
+15,Wednesday Sleeve,Draft Beer,Alcohol,94
+15,West Coast Seafood Salad,Soups/Salads,Food,25
+15,White Rum,Liquor,Alcohol,31
+15,Wine Spritzer,Wine,Alcohol,6
+15,Wolf Bla40 Cab/Shrz/Mer,Wine,Alcohol,3
+15,Wolf BlaDinner,Entrees,Food,4
+15,Wolf BlaWine,Wine,Alcohol,6
+15,WolfblaRed Label Cab Merlot,Wine,Alcohol,23
+15,Yam Fries,Appetizers,Food,37
+16,$12 Express Lunch,Entrees,Food,39
+16,* Course Break,Entrees,Food,33
+16,* Don't Make,Appetizers,Food,59
+16,* Fire Order,Food Modifiers,Food,23
+16,1/2 Lindemans Bin 45 Cabernet,Wine,Alcohol,7
+16,1/2 Lindemans Bin 65 Chard,Wine,Alcohol,2
+16,1/2 Sandwich,Sandwiches,Food,49
+16,1/2L Beringer Zinfandel,Wine,Alcohol,2
+16,1/2L Eaglehawk Shiraz,Wine,Alcohol,2
+16,1/2L Linden Bay Merlot,Wine,Alcohol,21
+16,1/2L Mezzamondo Negroamaro,Wine,Alcohol,2
+16,1/2L Naked Grape Pinot Grigio,Wine,Alcohol,22
+16,1/2L Rosemnt Road R,Wine,Alcohol,7
+16,1/2L Rosemnt Road W,Wine,Alcohol,2
+16,2 Breakfast Sannys,Breakfast,Food,15
+16,2 eggs and toast,Breakfast,Food,8
+16,2 pc Snapper & Chips,Entrees,Food,6
+16,3 Course Dinner Appy,Appetizers,Food,7
+16,3 Course Dinner Dessert,Desserts,Food,8
+16,3 Course Dinner Entree,Entrees,Food,11
+16,4 Choice Tapas,Appetizers,Food,25
+16,4 Pack Coolers,Coolers/Ciders,Alcohol,1
+16,4 Pack Premium,Canned Beer,Alcohol,12
+16,4oz  2 GlaWine,Wine,Alcohol,22
+16,4oz Wine Glass,Wine,Alcohol,10
+16,4pk Domestic Cans,Canned Beer,Alcohol,22
+16,5 Pack Domestic,Canned Beer,Alcohol,10
+16,5 Pack Premium,Canned Beer,Alcohol,5
+16,50% off muffin,Appetizers,Food,11
+16,50% off Sandwich,Sandwiches,Food,15
+16,Add Chicken,Entrees,Food,2
+16,Add Chicken,Soups/Salads,Food,3
+16,Add One Egg,Breakfast,Food,2
+16,Add Prawns,Entrees,Food,4
+16,Add Prawns,Soups/Salads,Food,1
+16,Add Sauteed Mushrooms,Entrees,Food,1
+16,Appy Platter,Appetizers,Food,28
+16,Artisan Greens Starter,Soups/Salads,Food,1
+16,Bac. Orange,Coolers/Ciders,Alcohol,2
+16,Bacardi,Liquor,Alcohol,3
+16,Bag - Peanuts,Appetizers,Food,17
+16,Bag of Chips,Appetizers,Food,118
+16,Baileys Coffee,Liquor,Alcohol,6
+16,Baileys Irish Cream,Liquor,Alcohol,1
+16,Banrock Station Shiraz Mataro,Wine,Alcohol,2
+16,Barbeque Chicken Pizza,Entrees,Food,11
+16,Basket Fries,Appetizers,Food,5
+16,Bayou Bourban Choc Torte,Desserts,Food,4
+16,Beringer Napa Valley Merlot,Wine,Alcohol,4
+16,Bin end $26,Wine,Alcohol,4
+16,Bin end $36,Wine,Alcohol,2
+16,Bin End 39.95,Wine,Alcohol,2
+16,Black Door Sp,Draft Beer,Alcohol,2
+16,Black Lager Glass,Draft Beer,Alcohol,3
+16,Black Russian,Liquor,Alcohol,2
+16,Bloody Mary,Liquor,Alcohol,3
+16,Bocconcini Salad,Burgers,Food,27
+16,Bottle of Pop,Non Alc Beverage,Food,148
+16,Bottle Rosemount Road Red,Wine,Alcohol,5
+16,Bowl Chowder,Soups/Salads,Food,85
+16,Bowl Soup,Soups/Salads,Food,100
+16,Bowmore,Liquor,Alcohol,1
+16,Breakfast Sandw ONLY,Breakfast,Food,21
+16,Breakfast Sandwich,Breakfast,Food,41
+16,Brunch Eggs Benny,Breakfast,Food,29
+16,Brunch Golfers,Breakfast,Food,40
+16,Brunch Omelette,Breakfast,Food,27
+16,Brunch Waffles,Breakfast,Food,2
+16,Btl Beringer Zinfan,Wine,Alcohol,3
+16,BTL Jackson Triggs Pinot Noir,Wine,Alcohol,6
+16,BTL Mezzamondo Negroamaro,Wine,Alcohol,3
+16,BTL Toasted Head Merlot,Wine,Alcohol,1
+16,Bucket of Sol,Bottled Beer,Alcohol,2
+16,Budweiser,Bottled Beer,Alcohol,67
+16,Caesar,Liquor,Alcohol,88
+16,Cajun Chicken Spinach Salad,Soups/Salads,Food,18
+16,Cajun Halibut Burger,Burgers,Food,34
+16,Canadian,Bottled Beer,Alcohol,27
+16,Canned Beer $4,Canned Beer,Alcohol,3
+16,Cappuccino,Non Alc Beverage,Food,2
+16,Captain Morgan Spice,Liquor,Alcohol,17
+16,Cash Bar - Coolers,Coolers/Ciders,Alcohol,3
+16,Cash Bar - Highball,Liquor,Alcohol,22
+16,Cash Bar - Juice,Non Alc Beverage,Food,2
+16,Cash Bar - Pop,Non Alc Beverage,Food,7
+16,Cash Bar - Wine Gl,Wine,Alcohol,37
+16,CASH Dom Beer,Bottled Beer,Alcohol,11
+16,CASH Premium,Bottled Beer,Alcohol,14
+16,Champagne & OJ,Liquor,Alcohol,1
+16,Chateau Dessert wine,Wine,Alcohol,2
+16,Chateau La Couranconne,Wine,Alcohol,2
+16,Chateaux Pesquie,Wine,Alcohol,2
+16,Chili Lime Hummus,Appetizers,Food,12
+16,Chipotle Fish Pocket,Entrees,Food,1
+16,Chix Cranberry Salad,Soups/Salads,Food,65
+16,Chocolate Bar,Appetizers,Food,79
+16,Cilantro Chix Quessadilla,Entrees,Food,2
+16,Cinzano Red,Liquor,Alcohol,2
+16,Clam & Chorizo Hot Pot,Appetizers,Food,1
+16,Classic Caesar,Soups/Salads,Food,23
+16,Coffee,Non Alc Beverage,Food,912
+16,Coffee and Doughnuts,Desserts,Food,5
+16,Coffee muffin,Breakfast,Food,39
+16,Cookies,Sandwiches,Food,1
+16,Coolers,Coolers/Ciders,Alcohol,83
+16,Coors Light,Bottled Beer,Alcohol,56
+16,Corona,Bottled Beer,Alcohol,2
+16,Cracked Frank's Member Sleeve,Draft Beer,Alcohol,56
+16,Crown Royal,Liquor,Alcohol,6
+16,Cuervo,Liquor,Alcohol,8
+16,DB  Gin,Liquor,Alcohol,4
+16,DB Amaretto,Liquor,Alcohol,2
+16,DB Caesar,Liquor,Alcohol,1
+16,DB Crown Royal,Liquor,Alcohol,2
+16,DB Dark Rum,Liquor,Alcohol,7
+16,DB Glenfiddich,Liquor,Alcohol,4
+16,DB Grey Goose,Liquor,Alcohol,1
+16,DB Rye,Liquor,Alcohol,4
+16,DB Stoli,Liquor,Alcohol,3
+16,DB Vodka,Liquor,Alcohol,8
+16,DB WhiteRum,Liquor,Alcohol,2
+16,Dbl Highballs,Liquor,Alcohol,3
+16,Dessert $5,Desserts,Food,5
+16,Dessert $6,Desserts,Food,24
+16,Dewars,Liquor,Alcohol,6
+16,Domestic Beer,Canned Beer,Alcohol,191
+16,Eaglehawk Shiraz,Wine,Alcohol,18
+16,Event Buffet,Entrees,Food,10
+16,Express Sandwich,Sandwiches,Food,127
+16,Fruit Juices,Non Alc Beverage,Food,33
+16,G2,Non Alc Beverage,Food,51
+16,Gabbiano Pinot Grigio,Wine,Alcohol,1
+16,Garlic Bread,Soups/Salads,Food,16
+16,Garlic Herb Ribs,Appetizers,Food,26
+16,Gatorade,Non Alc Beverage,Food,20
+16,Gin,Liquor,Alcohol,30
+16,Gl Lindemans Bin 45 Cabernet,Wine,Alcohol,31
+16,Gl Lindemans Bin 65 Chard,Wine,Alcohol,22
+16,Gl Linden Bay Merlot,Wine,Alcohol,60
+16,GL Mezzamondo Negroamaro,Wine,Alcohol,1
+16,Gl Naked Grape Pinot Grigio,Wine,Alcohol,84
+16,GL Rosemnt Road R,Wine,Alcohol,17
+16,Gl Rosemnt Road W,Wine,Alcohol,18
+16,GlaBeringer White Zinfandel,Wine,Alcohol,7
+16,GlaEaglehawk Shiraz,Wine,Alcohol,9
+16,GlaLager,Draft Beer,Alcohol,44
+16,GlaRace Rocks,Draft Beer,Alcohol,2
+16,GlaRed Label Unwooded Chardonnay,Wine,Alcohol,2
+16,GlaSumac Ridge Gewurztraminer,Wine,Alcohol,2
+16,GlaWater,Non Alc Beverage,Food,9
+16,Glawine,Wine,Alcohol,3
+16,GlaWinter Ale,Draft Beer,Alcohol,31
+16,GlaWolfblaRed Label CabMerlot,Wine,Alcohol,10
+16,Gls. Eaglehawk Chardonay,Wine,Alcohol,11
+16,Greek Pizza,Entrees,Food,6
+16,Green Grove Beer,Canned Beer,Alcohol,54
+16,Greg Norman,Wine,Alcohol,5
+16,Grilled Chicken Clubhouse,Sandwiches,Food,105
+16,Growers Apple,Coolers/Ciders,Alcohol,15
+16,Growers Pear,Coolers/Ciders,Alcohol,15
+16,Growers Pomegranate,Coolers/Ciders,Alcohol,1
+16,Guinness,Draft Beer,Alcohol,28
+16,Half Pound Wings,Appetizers,Food,7
+16,Half Sandwich,Sandwiches,Food,24
+16,Halibut & Chips,Entrees,Food,51
+16,Hardy's Oomo Shiraz,Wine,Alcohol,1
+16,Heineken,Bottled Beer,Alcohol,27
+16,Herman's Dark Lager,Bottled Beer,Alcohol,8
+16,Host Import Btl,Wine,Alcohol,11
+16,Hot Chocolate,Non Alc Beverage,Food,10
+16,Hot Dog,Sandwiches,Food,213
+16,Hummus & Flat Bread,Appetizers,Food,5
+16,Ice Tea,Non Alc Beverage,Food,57
+16,Inniskillan Pinot Noir,Wine,Alcohol,1
+16,J.W. Red,Liquor,Alcohol,1
+16,Jambalaya,Entrees,Food,25
+16,Jug Black Lager,Canned Beer,Alcohol,4
+16,Jug Lager,Draft Beer,Alcohol,23
+16,Jug Winter Ale,Draft Beer,Alcohol,21
+16,Juice,Non Alc Beverage,Food,93
+16,Kahlua,Liquor,Alcohol,3
+16,"Kids 2 Eggs,Bacon & Tst",Breakfast,Food,2
+16,Kids Chicken Fingers,Entrees,Food,2
+16,Kids Trio Burger / Fries,Entrees,Food,2
+16,Kokanee,Bottled Beer,Alcohol,17
+16,Korean Beef Stirfry,Entrees,Food,2
+16,Lamb Souvlaki,Entrees,Food,33
+16,Large Pop,Non Alc Beverage,Food,754
+16,Lemonade,Non Alc Beverage,Food,10
+16,Litre Lindemans Bin 45 Cab Sauv,Wine,Alcohol,6
+16,Louis Latour LArdeche,Wine,Alcohol,1
+16,Ltr Linden Bay Merlot,Wine,Alcohol,8
+16,Ltr Naked Grape Pinot Grigio,Wine,Alcohol,12
+16,Margarita,Liquor,Alcohol,8
+16,Margarita Special,Liquor,Alcohol,3
+16,Mario's Vanilla Gelato,Desserts,Food,4
+16,Meal Size Garden Greens,Soups/Salads,Food,17
+16,Meal Size Soup,Soups/Salads,Food,25
+16,Mediterranean Chix Wrap,Burgers,Food,77
+16,Mediterranean Pizza,Entrees,Food,11
+16,Member House Wine,Wine,Alcohol,2
+16,Member Jug,Draft Beer,Alcohol,11
+16,Member Sleeve,Draft Beer,Alcohol,74
+16,Milk,Non Alc Beverage,Food,6
+16,Milkshake,Desserts,Food,2
+16,Miller Genuine Draft,Canned Beer,Alcohol,22
+16,Mini Liquor,Liquor,Alcohol,36
+16,Mocha,Non Alc Beverage,Food,5
+16,Motts Caesar,Coolers/Ciders,Alcohol,45
+16,Muffin,Appetizers,Food,91
+16,Mug Shandy,Draft Beer,Alcohol,5
+16,Naked Grape Spritzer,Coolers/Ciders,Alcohol,5
+16,Non-Alcoholic Beer,Non Alc Beverage,Food,12
+16,NY Steak & Frites,Entrees,Food,20
+16,One Piece Halibut & Chips,Entrees,Food,12
+16,Pasta Night $21.95,Entrees,Food,104
+16,Penfolds Koonunga Hill Shrz Cab,Wine,Alcohol,4
+16,Petalus Dosoyoos Larose,Wine,Alcohol,2
+16,Phat Italian,Burgers,Food,25
+16,Pint 1516 Lager,Draft Beer,Alcohol,209
+16,Pint Black Lager,Draft Beer,Alcohol,38
+16,Pint Race Rocks,Draft Beer,Alcohol,8
+16,Pint Sleeman Honey,Draft Beer,Alcohol,129
+16,Pint Winter Ale,Draft Beer,Alcohol,233
+16,Pizza Margarita,Burgers,Food,27
+16,PizzaThe Italian,Entrees,Food,28
+16,Pound Wings,Appetizers,Food,34
+16,Power Bar,Sandwiches,Food,5
+16,Premium Beer,Canned Beer,Alcohol,194
+16,Premium Gin Martini,Liquor,Alcohol,2
+16,Premium Highball,Liquor,Alcohol,8
+16,Premium Vodka Martini,Liquor,Alcohol,3
+16,Prime Rib Burger,Burgers,Food,159
+16,Pulled Pork Sandwich,Burgers,Food,30
+16,Quails Gate Pinot Blanc,Wine,Alcohol,4
+16,Ravenswood Zinfandel,Wine,Alcohol,2
+16,Robert Mondavi Merlot,Wine,Alcohol,2
+16,Rusty Nail,Liquor,Alcohol,2
+16,Rye,Liquor,Alcohol,17
+16,Salmon Benedict,Breakfast,Food,6
+16,San Pellegrino,Non Alc Beverage,Food,7
+16,Sandwich,Sandwiches,Food,208
+16,Sandwich ONLY,Sandwiches,Food,13
+16,Sandwich to go,Sandwiches,Food,10
+16,Sat Feature Wine,Wine,Alcohol,2
+16,Sat Fish & Chip,Entrees,Food,6
+16,Schooner Lager,Draft Beer,Alcohol,2
+16,Schooner Pale,Draft Beer,Alcohol,2
+16,Schooner Shaft Cream Ale,Draft Beer,Alcohol,2
+16,ScrewDriver,Liquor,Alcohol,2
+16,Seafood Pappardelle,Entrees,Food,39
+16,Shot in the Dark,Wine,Alcohol,3
+16,Side Bacon,Breakfast,Food,3
+16,Side Fruit,Breakfast,Food,2
+16,Side of Fries,Appetizers,Food,12
+16,Side Toast,Breakfast,Food,9
+16,Sleeman HB Glass,Draft Beer,Alcohol,8
+16,Sleeman Jugs,Draft Beer,Alcohol,10
+16,Smirnoff Ice,Coolers/Ciders,Alcohol,22
+16,Smokie,Sandwiches,Food,24
+16,Sol,Bottled Beer,Alcohol,31
+16,Sorbet,Desserts,Food,6
+16,Spanish Coffee,Liquor,Alcohol,4
+16,Special $21,Entrees,Food,1
+16,Special $9,Entrees,Food,1
+16,Special 10.00,Entrees,Food,30
+16,Special 11.00,Entrees,Food,2
+16,Special 13.00,Entrees,Food,4
+16,Special 14.00,Entrees,Food,2
+16,Special 17.00,Entrees,Food,4
+16,Special 18.00,Entrees,Food,2
+16,Special 19.00,Entrees,Food,3
+16,Special 22.00,Entrees,Food,13
+16,Special 8.00,Entrees,Food,10
+16,Spiced Apple Crumble,Burgers,Food,1
+16,Spicy Chicken Soba,Burgers,Food,21
+16,Spicy Meat Pizza,Entrees,Food,4
+16,Starter Classic Caesar,Soups/Salads,Food,9
+16,Stella Artois,Bottled Beer,Alcohol,23
+16,Sundried Tomato Ravioli,Entrees,Food,5
+16,Talus Zinfadel bottle,Wine,Alcohol,2
+16,Tanqueray,Liquor,Alcohol,4
+16,Tapas Chef Choice,Appetizers,Food,7
+16,Tapas Chicken,Appetizers,Food,2
+16,Tapas Seafood,Appetizers,Food,1
+16,Tapas Vegetarian,Appetizers,Food,2
+16,Taylors Port Btl,Liquor,Alcohol,1
+16,Tea,Non Alc Beverage,Food,92
+16,Three Cheese Flatbread,Appetizers,Food,14
+16,Three Piece Halibut & Chips,Entrees,Food,2
+16,Thur Dry Rib,Appetizers,Food,5
+16,Thur Import Beer,Bottled Beer,Alcohol,2
+16,Tue Fish Taco,Entrees,Food,6
+16,Ultimate Steak Sandwich,Sandwiches,Food,53
+16,Valentines Dinner,Entrees,Food,2
+16,Vegetable Spinach Ciabatta,Burgers,Food,53
+16,Virgin Caesar,Non Alc Beverage,Food,6
+16,Vodka,Liquor,Alcohol,38
+16,Water-Bottle,Non Alc Beverage,Food,120
+16,Wednesday 1/2L Wine,Wine,Alcohol,2
+16,Wednesday Appy,Appetizers,Food,17
+16,Wednesday Gl Wine,Wine,Alcohol,39
+16,Wednesday Sleeve,Draft Beer,Alcohol,158
+16,West Coast Seafood Salad,Soups/Salads,Food,19
+16,White Rum,Liquor,Alcohol,63
+16,Wine Spritzer,Wine,Alcohol,11
+16,Wolf BlaDinner,Entrees,Food,3
+16,Wolf BlaWine,Wine,Alcohol,3
+16,WolfblaRed Label Cab Merlot,Wine,Alcohol,19
+16,Woody's Cooler,Coolers/Ciders,Alcohol,3
+16,Wynns Cab Shrz Merlot,Wine,Alcohol,1
+16,Yam Fries,Appetizers,Food,47
+16,Yellowglen Pink for 2,Wine,Alcohol,2
+17,$12 Express Lunch,Entrees,Food,21
+17,* Course Break,Entrees,Food,26
+17,* Don't Make,Appetizers,Food,54
+17,* Fire Order,Food Modifiers,Food,21
+17,1/2 Lindemans Bin 45 Cabernet,Wine,Alcohol,5
+17,1/2 Lindemans Bin 65 Chard,Wine,Alcohol,1
+17,1/2 Sandwich,Sandwiches,Food,73
+17,1/2L Eaglehawk Chard,Wine,Alcohol,1
+17,1/2L Linden Bay Merlot,Wine,Alcohol,20
+17,1/2L Mezzamondo Negroamaro,Wine,Alcohol,1
+17,1/2L Naked Grape Pinot Grigio,Wine,Alcohol,23
+17,1/2L Red Label Unwooded Chardonnay,Wine,Alcohol,2
+17,1/2L Rosemnt Road R,Wine,Alcohol,4
+17,1/2L WolfblaCab Merlot,Wine,Alcohol,1
+17,2 Breakfast Sannys,Breakfast,Food,12
+17,2 eggs and toast,Breakfast,Food,10
+17,2 pc Snapper & Chips,Entrees,Food,1
+17,3 Course Dinner Appy,Appetizers,Food,5
+17,3 Course Dinner Dessert,Desserts,Food,4
+17,3 Course Dinner Entree,Entrees,Food,9
+17,4 Choice Tapas,Appetizers,Food,31
+17,4 Pack Premium,Canned Beer,Alcohol,23
+17,4oz  2 GlaWine,Wine,Alcohol,19
+17,4oz Wine Glass,Wine,Alcohol,4
+17,4pk Domestic Cans,Canned Beer,Alcohol,35
+17,5 Pack Domestic,Canned Beer,Alcohol,8
+17,5 Pack Premium,Canned Beer,Alcohol,7
+17,50% off muffin,Appetizers,Food,11
+17,50% off Sandwich,Sandwiches,Food,19
+17,Add Cheese,Appetizers,Food,2
+17,Add Chicken,Entrees,Food,9
+17,Add Chicken,Soups/Salads,Food,7
+17,Add One Egg,Breakfast,Food,3
+17,Add Prawns,Entrees,Food,8
+17,Add Prawns,Soups/Salads,Food,5
+17,Amaretto,Liquor,Alcohol,11
+17,Americano,Non Alc Beverage,Food,2
+17,Appy Platter,Appetizers,Food,28
+17,Artisan Greens Starter,Soups/Salads,Food,5
+17,Bag - Peanuts,Appetizers,Food,13
+17,Bag of Chips,Appetizers,Food,86
+17,Baileys Coffee,Liquor,Alcohol,1
+17,Baileys Irish Cream,Liquor,Alcohol,6
+17,Banrock Station Shiraz Mataro,Wine,Alcohol,1
+17,Barbeque Chicken Pizza,Entrees,Food,14
+17,Basket Fries,Appetizers,Food,16
+17,Bayou Bourban Choc Torte,Desserts,Food,12
+17,BBQ Burger,Burgers,Food,2
+17,Beringer Small Wine,Wine,Alcohol,1
+17,Bin end $21,Wine,Alcohol,4
+17,Bin end $26,Wine,Alcohol,2
+17,Bin end $30,Wine,Alcohol,2
+17,Bin End 39.95,Wine,Alcohol,2
+17,Black Lager Glass,Draft Beer,Alcohol,9
+17,Blueberry Tea,Liquor,Alcohol,1
+17,Bocconcini Salad,Burgers,Food,28
+17,Bombay Sapphire,Liquor,Alcohol,1
+17,Bottle La Veille Ferme,Wine,Alcohol,2
+17,Bottle of Pop,Non Alc Beverage,Food,206
+17,Bottle Rosemount Road Red,Wine,Alcohol,17
+17,Bowl Chowder,Soups/Salads,Food,84
+17,Bowl Soup,Soups/Salads,Food,78
+17,Breakfast Sandw ONLY,Breakfast,Food,21
+17,Breakfast Sandwich,Breakfast,Food,20
+17,Brown Cow,Liquor,Alcohol,1
+17,Brunch Eggs Benny,Breakfast,Food,16
+17,Brunch Golfers,Breakfast,Food,53
+17,Brunch Omelette,Breakfast,Food,17
+17,Brunch Waffles,Breakfast,Food,6
+17,Btl Beringer Zinfan,Wine,Alcohol,3
+17,BTL Inniskillan Cab Sav,Wine,Alcohol,2
+17,BTL Jackson Triggs Pinot Noir,Wine,Alcohol,2
+17,BTL Mezzamondo Negroamaro,Wine,Alcohol,1
+17,Btl Perrin Reserve,Wine,Alcohol,2
+17,BTL Toasted Head Merlot,Wine,Alcohol,2
+17,Btl Wolf BlaChard,Wine,Alcohol,1
+17,Bucket of Sol,Bottled Beer,Alcohol,1
+17,Budweiser,Bottled Beer,Alcohol,60
+17,Butter Chicken,Entrees,Food,7
+17,Caesar,Liquor,Alcohol,85
+17,Cajun Chicken Spinach Salad,Soups/Salads,Food,25
+17,Cajun Halibut Burger,Burgers,Food,36
+17,Canadian,Bottled Beer,Alcohol,15
+17,Canned Beer $4,Canned Beer,Alcohol,2
+17,Cappuccino,Non Alc Beverage,Food,1
+17,Captain Morgan Spice,Liquor,Alcohol,1
+17,Cash Bar - Coolers,Coolers/Ciders,Alcohol,27
+17,Cash Bar - Highball,Liquor,Alcohol,97
+17,Cash Bar - Juice,Non Alc Beverage,Food,1
+17,Cash Bar - Pop,Non Alc Beverage,Food,31
+17,Cash Bar - Wine Gl,Wine,Alcohol,70
+17,CASH Dom Beer,Bottled Beer,Alcohol,118
+17,CASH Premium,Bottled Beer,Alcohol,67
+17,Chateau De Sancerre,Wine,Alcohol,3
+17,Chili Lime Hummus,Appetizers,Food,5
+17,Chipotle Fish Pocket,Entrees,Food,6
+17,Chix Cranberry Salad,Soups/Salads,Food,78
+17,Chocolate Bar,Appetizers,Food,66
+17,Cilantro Chix Quessadilla,Entrees,Food,12
+17,Clam & Chorizo Hot Pot,Appetizers,Food,4
+17,Classic Caesar,Soups/Salads,Food,25
+17,Classic Martini Gin,Liquor,Alcohol,6
+17,Classic Martini Vodka,Liquor,Alcohol,3
+17,Clos du Val Cabernet Sauvignon,Wine,Alcohol,2
+17,Coffee,Non Alc Beverage,Food,854
+17,Coffee and Doughnuts,Desserts,Food,5
+17,Coffee muffin,Breakfast,Food,29
+17,Continental Brunch,Breakfast,Food,2
+17,Cookies,Sandwiches,Food,2
+17,Coolers,Coolers/Ciders,Alcohol,88
+17,Coors Light,Bottled Beer,Alcohol,61
+17,Corona,Bottled Beer,Alcohol,5
+17,Cosmopolitan,Liquor,Alcohol,3
+17,Cracked Frank's Member Sleeve,Draft Beer,Alcohol,102
+17,Crantini,Liquor,Alcohol,1
+17,Crown Royal,Liquor,Alcohol,3
+17,Crudites & Dip,Appetizers,Food,1
+17,Dark Rum,Liquor,Alcohol,3
+17,DB  Gin,Liquor,Alcohol,1
+17,DB Bombay Sapphire,Liquor,Alcohol,3
+17,DB Caesar,Liquor,Alcohol,8
+17,DB D'Eaubonne,Liquor,Alcohol,1
+17,DB Dirty Mother,Liquor,Alcohol,2
+17,DB Glenfiddich,Liquor,Alcohol,1
+17,DB Glenlivet,Liquor,Alcohol,2
+17,DB Long Island,Liquor,Alcohol,3
+17,DB Rye,Liquor,Alcohol,1
+17,DB Tequilla Sunrise,Liquor,Alcohol,2
+17,DB Vodka,Liquor,Alcohol,4
+17,Dbl Highballs,Liquor,Alcohol,7
+17,Dbl Premium Highballs,Liquor,Alcohol,6
+17,Dessert $5,Desserts,Food,9
+17,Dessert $6,Desserts,Food,11
+17,Dirty Mother,Liquor,Alcohol,4
+17,Domestic Beer,Canned Beer,Alcohol,197
+17,Drambuie,Liquor,Alcohol,2
+17,Eaglehawk Shiraz,Wine,Alcohol,10
+17,Event Buffet,Entrees,Food,1
+17,Express Sandwich,Sandwiches,Food,98
+17,Feature Pitcher,Draft Beer,Alcohol,6
+17,Frangelico,Liquor,Alcohol,2
+17,Fruit Juices,Non Alc Beverage,Food,34
+17,G2,Non Alc Beverage,Food,52
+17,Gabbiano Chianti,Wine,Alcohol,3
+17,Garlic Bread,Soups/Salads,Food,13
+17,Garlic Herb Ribs,Appetizers,Food,30
+17,Gatorade,Non Alc Beverage,Food,13
+17,Gin,Liquor,Alcohol,11
+17,Gl Beringer Zinfandel,Wine,Alcohol,1
+17,Gl Lindemans Bin 45 Cabernet,Wine,Alcohol,29
+17,Gl Lindemans Bin 65 Chard,Wine,Alcohol,15
+17,Gl Linden Bay Merlot,Wine,Alcohol,58
+17,GL Mezzamondo Negroamaro,Wine,Alcohol,2
+17,Gl Naked Grape Pinot Grigio,Wine,Alcohol,63
+17,GL Rosemnt Road R,Wine,Alcohol,40
+17,Gl Rosemnt Road W,Wine,Alcohol,18
+17,Gl Shandy,Draft Beer,Alcohol,3
+17,GlaBeringer White Zinfandel,Wine,Alcohol,2
+17,GlaEaglehawk Shiraz,Wine,Alcohol,13
+17,GlaLager,Draft Beer,Alcohol,36
+17,GlaRed Label Unwooded Chardonnay,Wine,Alcohol,4
+17,GlaSumac Ridge Gewurztraminer,Wine,Alcohol,2
+17,GlaWater,Non Alc Beverage,Food,22
+17,Glawine,Wine,Alcohol,2
+17,GlaWinter Ale,Draft Beer,Alcohol,33
+17,GlaWolfblaRed Label CabMerlot,Wine,Alcohol,9
+17,Glenfiddich,Liquor,Alcohol,7
+17,Gls. Eaglehawk Chardonay,Wine,Alcohol,9
+17,Greek Chicken Salad,Soups/Salads,Food,2
+17,Greek Pizza,Entrees,Food,5
+17,Greg Norman,Wine,Alcohol,2
+17,Grilled Chicken Clubhouse,Sandwiches,Food,149
+17,Growers Apple,Coolers/Ciders,Alcohol,14
+17,Growers Pear,Coolers/Ciders,Alcohol,12
+17,Growers Pomegranate,Coolers/Ciders,Alcohol,5
+17,Guinness,Draft Beer,Alcohol,14
+17,Half Pound Wings,Appetizers,Food,11
+17,Half Sandwich,Sandwiches,Food,26
+17,Halibut & Chips,Entrees,Food,39
+17,Hardy's Oomo Shiraz,Wine,Alcohol,3
+17,Heineken,Bottled Beer,Alcohol,24
+17,Herman's Dark Lager,Bottled Beer,Alcohol,2
+17,Host Beer,Bottled Beer,Alcohol,2
+17,Host Domestic Btl,Wine,Alcohol,16
+17,Host draft Beer,Draft Beer,Alcohol,3
+17,Host Gl Wine,Wine,Alcohol,14
+17,Host Hiball,Bottled Beer,Alcohol,21
+17,Hot Chocolate,Non Alc Beverage,Food,26
+17,Hot Dog,Sandwiches,Food,219
+17,Hummus & Flat Bread,Appetizers,Food,16
+17,Ice Tea,Non Alc Beverage,Food,48
+17,Inniskillan Pinot Noir,Wine,Alcohol,2
+17,J.W. Red,Liquor,Alcohol,2
+17,Jack Daniels,Liquor,Alcohol,2
+17,Jackson Triggs Esprit Cab Sauv,Wine,Alcohol,2
+17,Jambalaya,Entrees,Food,15
+17,Jim Beam,Liquor,Alcohol,1
+17,Jug Lager,Draft Beer,Alcohol,17
+17,Jug Winter Ale,Draft Beer,Alcohol,19
+17,Juice,Non Alc Beverage,Food,94
+17,"Kids 2 Eggs,Bacon & Tst",Breakfast,Food,2
+17,Kids Chicken Fingers,Entrees,Food,6
+17,Kids Trio Burger / Fries,Entrees,Food,3
+17,Kids Waffles,Breakfast,Food,1
+17,Kim Crawford Sauvignon Blanc,Wine,Alcohol,5
+17,Kokanee,Bottled Beer,Alcohol,6
+17,Korean Beef Stirfry,Entrees,Food,7
+17,Lamb Souvlaki,Entrees,Food,34
+17,Large Pop,Non Alc Beverage,Food,575
+17,Latte,Non Alc Beverage,Food,1
+17,Lemonade,Non Alc Beverage,Food,10
+17,Litre Lindemans Bin 45 Cab Sauv,Wine,Alcohol,2
+17,Long Island,Liquor,Alcohol,2
+17,Love Potion #9 Martini,Liquor,Alcohol,3
+17,Ltr Lindemans Bin 65 Chard,Wine,Alcohol,1
+17,Ltr Linden Bay Merlot,Wine,Alcohol,10
+17,Ltr Naked Grape Pinot Grigio,Wine,Alcohol,11
+17,Margarita,Liquor,Alcohol,4
+17,Margarita Special,Liquor,Alcohol,7
+17,Mario's Vanilla Gelato,Desserts,Food,11
+17,Matua Sav Blanc,Wine,Alcohol,2
+17,Meal Size Garden Greens,Soups/Salads,Food,26
+17,Meal Size Soup,Soups/Salads,Food,14
+17,Mediterranean Chix Wrap,Burgers,Food,92
+17,Mediterranean Pizza,Entrees,Food,16
+17,Member House Wine,Wine,Alcohol,1
+17,Member Jug,Draft Beer,Alcohol,14
+17,Member Sleeve,Draft Beer,Alcohol,85
+17,Milk,Non Alc Beverage,Food,7
+17,Milkshake,Desserts,Food,1
+17,Miller Genuine Draft,Canned Beer,Alcohol,7
+17,Mini Liquor,Liquor,Alcohol,40
+17,Mocktails,Non Alc Beverage,Food,1
+17,Monster,Non Alc Beverage,Food,1
+17,Mother's Day Brunch,Entrees,Food,10
+17,Motts Caesar,Coolers/Ciders,Alcohol,48
+17,Muffin,Appetizers,Food,77
+17,Mug Shandy,Draft Beer,Alcohol,7
+17,Naked Grape Spritzer,Coolers/Ciders,Alcohol,3
+17,Non-Alcoholic Beer,Non Alc Beverage,Food,11
+17,NY Steak & Frites,Entrees,Food,14
+17,Oban,Liquor,Alcohol,1
+17,One Piece Halibut & Chips,Entrees,Food,2
+17,Osoyoos LaRose Grand Vin,Wine,Alcohol,1
+17,Paralyzer Vodka,Liquor,Alcohol,2
+17,Pasta Night $21.95,Entrees,Food,114
+17,Penfolds Bin 2 Shiraz Mourvedre,Wine,Alcohol,4
+17,Penfolds Bin 389,Wine,Alcohol,1
+17,Penfolds Koonunga Hill Shrz Cab,Wine,Alcohol,3
+17,Phat Italian,Burgers,Food,29
+17,Pink Champagne,Wine,Alcohol,2
+17,Pint 1516 Lager,Draft Beer,Alcohol,198
+17,Pint Black Lager,Draft Beer,Alcohol,47
+17,Pint Race Rocks,Draft Beer,Alcohol,2
+17,Pint Sleeman Honey,Draft Beer,Alcohol,121
+17,Pint Winter Ale,Draft Beer,Alcohol,243
+17,Pizza Margarita,Burgers,Food,44
+17,PizzaThe Italian,Entrees,Food,60
+17,Pound Wings,Appetizers,Food,23
+17,Power Bar,Sandwiches,Food,10
+17,Premium Beer,Canned Beer,Alcohol,189
+17,Premium Highball,Liquor,Alcohol,39
+17,Prime Rib Burger,Burgers,Food,148
+17,Pulled Pork Sandwich,Burgers,Food,29
+17,Ravenswood Zinfandel,Wine,Alcohol,3
+17,Robert Mondavi Merlot,Wine,Alcohol,2
+17,Rosemount GSM,Wine,Alcohol,1
+17,Rosemount Road White,Wine,Alcohol,3
+17,Rye,Liquor,Alcohol,15
+17,Salmon Benedict,Breakfast,Food,7
+17,San Pellegrino,Non Alc Beverage,Food,8
+17,Sandwich,Sandwiches,Food,174
+17,Sandwich ONLY,Sandwiches,Food,6
+17,Sandwich to go,Sandwiches,Food,7
+17,Sat Feature Wine,Wine,Alcohol,3
+17,Sat Fish & Chip,Entrees,Food,13
+17,Schooner Lager,Draft Beer,Alcohol,3
+17,Schooner Pale,Draft Beer,Alcohol,1
+17,ScrewDriver,Liquor,Alcohol,1
+17,Seafood Pappardelle,Entrees,Food,19
+17,Shirley Temple,Non Alc Beverage,Food,2
+17,Shooters,Liquor,Alcohol,15
+17,Shot in the Dark,Wine,Alcohol,3
+17,Side Bacon,Breakfast,Food,6
+17,Side Fruit,Breakfast,Food,1
+17,Side of Fries,Appetizers,Food,14
+17,Side Toast,Breakfast,Food,4
+17,Sleeman HB Glass,Draft Beer,Alcohol,11
+17,Sleeman Jugs,Draft Beer,Alcohol,4
+17,Smirnoff Ice,Coolers/Ciders,Alcohol,28
+17,Smokie,Sandwiches,Food,35
+17,Sol,Bottled Beer,Alcohol,55
+17,Sorbet,Desserts,Food,2
+17,Special $22,Entrees,Food,2
+17,Special $23,Entrees,Food,1
+17,Special $9,Entrees,Food,7
+17,Special 10.00,Entrees,Food,19
+17,Special 11.00,Entrees,Food,9
+17,Special 12.00,Entrees,Food,4
+17,Special 13.00,Entrees,Food,7
+17,Special 17.00,Entrees,Food,3
+17,Special 18.00,Entrees,Food,1
+17,Special 19.00,Entrees,Food,9
+17,Special 22.00,Entrees,Food,15
+17,Special 8.00,Entrees,Food,9
+17,Spiced Apple Crumble,Burgers,Food,8
+17,Spicy Chicken Soba,Burgers,Food,26
+17,Spicy Meat Pizza,Entrees,Food,8
+17,Starter Classic Caesar,Soups/Salads,Food,18
+17,Stella Artois,Bottled Beer,Alcohol,14
+17,Stolichnaya,Liquor,Alcohol,1
+17,Sumac  Ridge Gewurztraminer,Wine,Alcohol,2
+17,Sundried Tomato Ravioli,Entrees,Food,1
+17,Tapas Beef,Appetizers,Food,1
+17,Tapas Chef Choice,Appetizers,Food,4
+17,Taylors Port Btl,Liquor,Alcohol,1
+17,Tea,Non Alc Beverage,Food,116
+17,Three Cheese Flatbread,Appetizers,Food,16
+17,Thur Dry Rib,Appetizers,Food,10
+17,Thur Import Beer,Bottled Beer,Alcohol,4
+17,Two 4 Break Sanny,Breakfast,Food,3
+17,Ultimate Steak Sandwich,Sandwiches,Food,67
+17,Valentines Dinner,Entrees,Food,5
+17,Vegetable Spinach Ciabatta,Burgers,Food,69
+17,Virgin Caesar,Non Alc Beverage,Food,3
+17,Vodka,Liquor,Alcohol,41
+17,Water-Bottle,Non Alc Beverage,Food,104
+17,Wednesday 1/2L Wine,Wine,Alcohol,2
+17,Wednesday Appy,Appetizers,Food,26
+17,Wednesday Gl Wine,Wine,Alcohol,21
+17,Wednesday Sleeve,Draft Beer,Alcohol,103
+17,West Coast Seafood Salad,Soups/Salads,Food,33
+17,White Rum,Liquor,Alcohol,38
+17,Wine Spritzer,Wine,Alcohol,2
+17,Wolf Bla40 Cab/Shrz/Mer,Wine,Alcohol,4
+17,Wolf BlaDinner,Entrees,Food,3
+17,Wolf BlaWine,Wine,Alcohol,2
+17,WolfblaRed Label Cab Merlot,Wine,Alcohol,16
+17,Wynns Riesling,Wine,Alcohol,2
+17,Yam Fries,Appetizers,Food,38
+18,$12 Express Lunch,Entrees,Food,32
+18,$15 Beer & Lunch Feature,Draft Beer,Alcohol,1
+18,* Course Break,Entrees,Food,56
+18,* Don't Make,Appetizers,Food,45
+18,* Fire Order,Food Modifiers,Food,36
+18,1/2 L Cash Domestic,Wine,Alcohol,1
+18,1/2 Lindemans Bin 45 Cabernet,Wine,Alcohol,10
+18,1/2 Lindemans Bin 65 Chard,Wine,Alcohol,2
+18,1/2 Sandwich,Sandwiches,Food,57
+18,1/2L Eaglehawk Chard,Wine,Alcohol,2
+18,1/2L Eaglehawk Shiraz,Wine,Alcohol,4
+18,1/2L Inniskillan Cab Sav,Wine,Alcohol,2
+18,1/2L Linden Bay Merlot,Wine,Alcohol,10
+18,1/2L Mezzamondo Negroamaro,Wine,Alcohol,1
+18,1/2L Naked Grape Pinot Grigio,Wine,Alcohol,15
+18,1/2L Rosemnt Road R,Wine,Alcohol,7
+18,1/2L Rosemnt Road W,Wine,Alcohol,3
+18,1/2L WolfblaCab Merlot,Wine,Alcohol,2
+18,2 Breakfast Sannys,Breakfast,Food,32
+18,2 eggs and toast,Breakfast,Food,10
+18,2 pc Snapper & Chips,Entrees,Food,5
+18,4 Choice Tapas,Appetizers,Food,24
+18,4 Pack Premium,Canned Beer,Alcohol,7
+18,4oz  2 GlaWine,Wine,Alcohol,4
+18,4oz Wine Glass,Wine,Alcohol,7
+18,4pk Domestic Cans,Canned Beer,Alcohol,23
+18,5 Pack Domestic,Canned Beer,Alcohol,13
+18,5 Pack Premium,Canned Beer,Alcohol,4
+18,50% off muffin,Appetizers,Food,21
+18,50% off Sandwich,Sandwiches,Food,20
+18,Add Chicken,Entrees,Food,9
+18,Add Chicken,Soups/Salads,Food,3
+18,Add Prawns,Entrees,Food,4
+18,Add Prawns,Soups/Salads,Food,3
+18,Amaretto,Liquor,Alcohol,2
+18,Appy Platter,Appetizers,Food,15
+18,Artisan Greens Starter,Soups/Salads,Food,6
+18,Bac. Pineapple,Coolers/Ciders,Alcohol,4
+18,Bag - Peanuts,Appetizers,Food,27
+18,Bag of Chips,Appetizers,Food,128
+18,Baileys Coffee,Liquor,Alcohol,1
+18,Baileys Irish Cream,Liquor,Alcohol,4
+18,Barbeque Chicken Pizza,Entrees,Food,16
+18,Basket Fries,Appetizers,Food,11
+18,Bayou Bourban Choc Torte,Desserts,Food,4
+18,BBQ Burger,Burgers,Food,2
+18,Beringer Napa Valley Merlot,Wine,Alcohol,2
+18,Berry Bomb Martini,Liquor,Alcohol,2
+18,Bin end $17.95,Wine,Alcohol,2
+18,Bin end $19.95,Wine,Alcohol,2
+18,Bin end $21,Wine,Alcohol,2
+18,Bin end $35,Wine,Alcohol,2
+18,Bin end $70,Wine,Alcohol,2
+18,Bin End 39.95,Wine,Alcohol,2
+18,Black Lager Glass,Draft Beer,Alcohol,9
+18,Blueberry Tea,Liquor,Alcohol,2
+18,Bocconcini Salad,Burgers,Food,19
+18,Bombay Sapphire,Liquor,Alcohol,4
+18,Bottle of Pop,Non Alc Beverage,Food,196
+18,Bottle Rosemount Road Red,Wine,Alcohol,5
+18,Bowl Chowder,Soups/Salads,Food,122
+18,Bowl Soup,Soups/Salads,Food,141
+18,Breakfast Sandw ONLY,Breakfast,Food,30
+18,Breakfast Sandwich,Breakfast,Food,27
+18,Brunch Eggs Benny,Breakfast,Food,20
+18,Brunch Golfers,Breakfast,Food,68
+18,Brunch Omelette,Breakfast,Food,15
+18,Brunch Waffles,Breakfast,Food,11
+18,Btl Banrock Station Unwood Chard,Wine,Alcohol,1
+18,Btl Beringer Zinfan,Wine,Alcohol,2
+18,BTL Mezzamondo Negroamaro,Wine,Alcohol,4
+18,BTL Toasted Head Merlot,Wine,Alcohol,2
+18,Btl Touraine Sauvignon,Wine,Alcohol,3
+18,Budweiser,Bottled Beer,Alcohol,35
+18,Butter Chicken,Entrees,Food,5
+18,Caesar,Liquor,Alcohol,50
+18,Cajun Chicken Spinach Salad,Soups/Salads,Food,16
+18,Cajun Halibut Burger,Burgers,Food,32
+18,Canadian,Bottled Beer,Alcohol,24
+18,Cappuccino,Non Alc Beverage,Food,2
+18,Captain Morgan Spice,Liquor,Alcohol,5
+18,Cash Bar - Highball,Liquor,Alcohol,13
+18,Cash Bar - Pop,Non Alc Beverage,Food,8
+18,Cash Bar - Wine Gl,Wine,Alcohol,57
+18,CASH Dom Beer,Bottled Beer,Alcohol,11
+18,CASH Premium,Bottled Beer,Alcohol,6
+18,Champagne & OJ,Liquor,Alcohol,5
+18,Chateau La Couranconne,Wine,Alcohol,1
+18,Chili Lime Hummus,Appetizers,Food,11
+18,Chipotle Fish Pocket,Entrees,Food,5
+18,Chix Cranberry Salad,Soups/Salads,Food,84
+18,Chocolate Bar,Appetizers,Food,110
+18,Cilantro Chix Quessadilla,Entrees,Food,11
+18,Clam & Chorizo Hot Pot,Appetizers,Food,11
+18,Classic Caesar,Soups/Salads,Food,34
+18,Classic Martini Gin,Liquor,Alcohol,3
+18,Classic Martini Vodka,Liquor,Alcohol,1
+18,Coffee,Non Alc Beverage,Food,1358
+18,Coffee and Doughnuts,Desserts,Food,3
+18,Coffee muffin,Breakfast,Food,39
+18,Continental Brunch,Breakfast,Food,1
+18,Cookies,Sandwiches,Food,13
+18,Coolers,Coolers/Ciders,Alcohol,116
+18,Coors Light,Bottled Beer,Alcohol,43
+18,Corona,Bottled Beer,Alcohol,1
+18,Cosmopolitan,Liquor,Alcohol,1
+18,Crab & Artichoke,Appetizers,Food,3
+18,Cracked Frank's Member Sleeve,Draft Beer,Alcohol,112
+18,Crown Royal,Liquor,Alcohol,12
+18,Dark Rum,Liquor,Alcohol,9
+18,DB Caesar,Liquor,Alcohol,7
+18,DB Crown Royal,Liquor,Alcohol,9
+18,DB Dark Rum,Liquor,Alcohol,2
+18,DB Glenfiddich,Liquor,Alcohol,2
+18,DB J.W. Red,Liquor,Alcohol,1
+18,DB Rye,Liquor,Alcohol,5
+18,DB Stoli,Liquor,Alcohol,4
+18,DB Vodka,Liquor,Alcohol,6
+18,DB WhiteRum,Liquor,Alcohol,2
+18,Dessert $5,Desserts,Food,5
+18,Dessert $6,Desserts,Food,13
+18,Domestic Beer,Canned Beer,Alcohol,167
+18,Drambuie,Liquor,Alcohol,12
+18,Eaglehawk Shiraz,Wine,Alcohol,23
+18,Espresso,Non Alc Beverage,Food,1
+18,Event Buffet,Entrees,Food,12
+18,Express Sandwich,Sandwiches,Food,98
+18,Extra Cheese,Breakfast,Food,2
+18,Famous Grouse,Liquor,Alcohol,1
+18,Feature Pitcher,Draft Beer,Alcohol,8
+18,Fri Cheese Plate,Entrees,Food,2
+18,Fruit Juices,Non Alc Beverage,Food,37
+18,G2,Non Alc Beverage,Food,71
+18,Gabbiano Pinot Grigio,Wine,Alcohol,2
+18,Garlic Bread,Soups/Salads,Food,18
+18,Garlic Herb Ribs,Appetizers,Food,25
+18,Gatorade,Non Alc Beverage,Food,17
+18,Gin,Liquor,Alcohol,19
+18,Gl Beringer Zinfandel,Wine,Alcohol,1
+18,GL Cherry Point Blackberry Port,Wine,Alcohol,1
+18,Gl Lindemans Bin 45 Cabernet,Wine,Alcohol,35
+18,Gl Lindemans Bin 65 Chard,Wine,Alcohol,25
+18,Gl Linden Bay Merlot,Wine,Alcohol,71
+18,GL Marcus James Malbec,Wine,Alcohol,1
+18,GL Mezzamondo Negroamaro,Wine,Alcohol,1
+18,Gl Naked Grape Pinot Grigio,Wine,Alcohol,74
+18,GL Rosemnt Road R,Wine,Alcohol,25
+18,Gl Rosemnt Road W,Wine,Alcohol,20
+18,Gl Shandy,Draft Beer,Alcohol,3
+18,Gl Taylors Port,Liquor,Alcohol,4
+18,GL Toasted Head Merlot,Wine,Alcohol,2
+18,GlaBeringer White Zinfandel,Wine,Alcohol,2
+18,GlaEaglehawk Shiraz,Wine,Alcohol,5
+18,GlaLager,Draft Beer,Alcohol,61
+18,GlaRace Rocks,Draft Beer,Alcohol,4
+18,GlaRed Label Unwooded Chardonnay,Wine,Alcohol,4
+18,GlaSumac Ridge Gewurztraminer,Wine,Alcohol,5
+18,GlaWater,Non Alc Beverage,Food,21
+18,Glawine,Wine,Alcohol,13
+18,GlaWinter Ale,Draft Beer,Alcohol,39
+18,GlaWolfblaRed Label CabMerlot,Wine,Alcohol,10
+18,Glenfiddich,Liquor,Alcohol,1
+18,Gls. Eaglehawk Chardonay,Wine,Alcohol,13
+18,Greek Chicken Salad,Soups/Salads,Food,1
+18,Greek Pizza,Entrees,Food,12
+18,Grilled Chicken Clubhouse,Sandwiches,Food,147
+18,Growers Apple,Coolers/Ciders,Alcohol,7
+18,Growers Pear,Coolers/Ciders,Alcohol,18
+18,Growers Pomegranate,Coolers/Ciders,Alcohol,6
+18,Guinness,Draft Beer,Alcohol,27
+18,Half Pound Wings,Appetizers,Food,13
+18,Half Sandwich,Sandwiches,Food,29
+18,Halibut & Chips,Entrees,Food,36
+18,Heineken,Bottled Beer,Alcohol,19
+18,Herman's Dark Lager,Bottled Beer,Alcohol,2
+18,Host Beer,Bottled Beer,Alcohol,10
+18,Hot Chocolate,Non Alc Beverage,Food,17
+18,Hot Dog,Sandwiches,Food,269
+18,Hummus & Flat Bread,Appetizers,Food,9
+18,Ice Tea,Non Alc Beverage,Food,56
+18,Inniskillan Pinot Noir,Wine,Alcohol,4
+18,J.W. Red,Liquor,Alcohol,3
+18,Jack Daniels,Liquor,Alcohol,5
+18,Jackson Triggs Esprit Cab Sauv,Wine,Alcohol,5
+18,Jambalaya,Entrees,Food,17
+18,Jug Lager,Draft Beer,Alcohol,20
+18,Jug Race Rocks,Draft Beer,Alcohol,2
+18,Jug Winter Ale,Draft Beer,Alcohol,14
+18,Juice,Non Alc Beverage,Food,93
+18,Kahlua,Liquor,Alcohol,4
+18,"Kids 2 Eggs,Bacon & Tst",Breakfast,Food,2
+18,Kids Chicken Fingers,Entrees,Food,2
+18,Kids Trio Burger / Fries,Entrees,Food,1
+18,Kokanee,Bottled Beer,Alcohol,34
+18,Korean Beef Stirfry,Entrees,Food,6
+18,Lamb Souvlaki,Entrees,Food,23
+18,Large Pop,Non Alc Beverage,Food,987
+18,Lemonade,Non Alc Beverage,Food,12
+18,Litre Lindemans Bin 45 Cab Sauv,Wine,Alcohol,8
+18,Louis Latour LArdeche,Wine,Alcohol,2
+18,Ltr Lindemans Bin 65 Chard,Wine,Alcohol,5
+18,Ltr Linden Bay Merlot,Wine,Alcohol,1
+18,Ltr Naked Grape Pinot Grigio,Wine,Alcohol,3
+18,Manhattan,Liquor,Alcohol,2
+18,Margarita,Liquor,Alcohol,6
+18,Margarita Special,Liquor,Alcohol,2
+18,Mario's Vanilla Gelato,Desserts,Food,7
+18,Meal Size Garden Greens,Soups/Salads,Food,28
+18,Meal Size Soup,Soups/Salads,Food,13
+18,Mediterranean Chix Wrap,Burgers,Food,71
+18,Mediterranean Pizza,Entrees,Food,12
+18,Melon Liqueur,Liquor,Alcohol,2
+18,Member House Wine,Wine,Alcohol,3
+18,Member Jug,Draft Beer,Alcohol,9
+18,Member Sleeve,Draft Beer,Alcohol,73
+18,Milk,Non Alc Beverage,Food,6
+18,Milkshake,Desserts,Food,4
+18,Miller Genuine Draft,Canned Beer,Alcohol,3
+18,Mini Liquor,Liquor,Alcohol,29
+18,Mocha,Non Alc Beverage,Food,3
+18,Mother's Day Brunch,Entrees,Food,8
+18,Motts Caesar,Coolers/Ciders,Alcohol,66
+18,Muffin,Appetizers,Food,110
+18,Mug Shandy,Draft Beer,Alcohol,4
+18,Naked Grape Spritzer,Coolers/Ciders,Alcohol,2
+18,Napolean Brandy VSOP,Liquor,Alcohol,1
+18,Non-Alcoholic Beer,Non Alc Beverage,Food,11
+18,NY Steak & Frites,Entrees,Food,16
+18,Paralyzer Vodka,Liquor,Alcohol,1
+18,Pasta Night $21.95,Entrees,Food,91
+18,Penfolds Bin 2 Shiraz Mourvedre,Wine,Alcohol,5
+18,Penfolds Koonunga Hill Shrz Cab,Wine,Alcohol,6
+18,Petalus Dosoyoos Larose,Wine,Alcohol,1
+18,Phat Italian,Burgers,Food,32
+18,Pint 1516 Lager,Draft Beer,Alcohol,217
+18,Pint Black Lager,Draft Beer,Alcohol,57
+18,Pint Race Rocks,Draft Beer,Alcohol,20
+18,Pint Sleeman Honey,Draft Beer,Alcohol,109
+18,Pint Winter Ale,Draft Beer,Alcohol,256
+18,Pizza Feature,Entrees,Food,1
+18,Pizza Margarita,Burgers,Food,61
+18,PizzaThe Italian,Entrees,Food,51
+18,Pound Wings,Appetizers,Food,26
+18,Power Bar,Sandwiches,Food,8
+18,Premium Beer,Canned Beer,Alcohol,122
+18,Premium Highball,Liquor,Alcohol,11
+18,Premium Vodka Martini,Liquor,Alcohol,8
+18,Prime Rib Burger,Burgers,Food,150
+18,Pulled Pork Sandwich,Burgers,Food,38
+18,Quails Gate Pinot Blanc,Wine,Alcohol,2
+18,Regular Shooter,Liquor,Alcohol,3
+18,Remy Martin VSOP,Liquor,Alcohol,2
+18,Robert Mondavi Merlot,Wine,Alcohol,2
+18,Rusty Nail,Liquor,Alcohol,4
+18,Rye,Liquor,Alcohol,16
+18,Salmon Benedict,Breakfast,Food,3
+18,San Pellegrino,Non Alc Beverage,Food,5
+18,Sandwich,Sandwiches,Food,199
+18,Sandwich ONLY,Sandwiches,Food,10
+18,Sandwich to go,Sandwiches,Food,8
+18,Sat Fish & Chip,Entrees,Food,3
+18,Schooner Lager,Draft Beer,Alcohol,5
+18,Seafood Pappardelle,Entrees,Food,33
+18,Shot in the Dark,Wine,Alcohol,1
+18,Side of Fries,Appetizers,Food,14
+18,Side Toast,Breakfast,Food,12
+18,Sleeman HB Glass,Draft Beer,Alcohol,31
+18,Sleeman Jugs,Draft Beer,Alcohol,2
+18,Sleeman Schooner,Draft Beer,Alcohol,1
+18,Smirnoff Ice,Coolers/Ciders,Alcohol,13
+18,Smokie,Sandwiches,Food,25
+18,Sol,Bottled Beer,Alcohol,32
+18,Sour Apple Martini,Liquor,Alcohol,1
+18,Special $22,Entrees,Food,6
+18,Special $9,Entrees,Food,4
+18,Special 10.00,Entrees,Food,26
+18,Special 11.00,Entrees,Food,5
+18,Special 12.00,Entrees,Food,2
+18,Special 14.00,Entrees,Food,2
+18,Special 18.00,Entrees,Food,5
+18,Special 19.00,Entrees,Food,3
+18,Special 22.00,Entrees,Food,22
+18,Special 8.00,Entrees,Food,4
+18,Spiced Apple Crumble,Burgers,Food,10
+18,Spicy Chicken Soba,Burgers,Food,32
+18,Spicy Meat Pizza,Entrees,Food,4
+18,Starter Classic Caesar,Soups/Salads,Food,22
+18,Stella Artois,Bottled Beer,Alcohol,6
+18,Sumac  Ridge Gewurztraminer,Wine,Alcohol,3
+18,Sumac Ridge Sauvignon Blanc,Wine,Alcohol,6
+18,Sundried Tomato Ravioli,Entrees,Food,1
+18,Tapas Beef,Appetizers,Food,1
+18,Tapas Chef Choice,Appetizers,Food,7
+18,Tapas Seafood,Appetizers,Food,2
+18,Tapas Vegetarian,Appetizers,Food,5
+18,Tea,Non Alc Beverage,Food,125
+18,Three Cheese Flatbread,Appetizers,Food,16
+18,Thur Dry Rib,Appetizers,Food,5
+18,Thur Import Beer,Bottled Beer,Alcohol,4
+18,Tue Fish Taco,Entrees,Food,4
+18,Ultimate Steak Sandwich,Sandwiches,Food,57
+18,Vegetable Spinach Ciabatta,Burgers,Food,48
+18,Virgin Caesar,Non Alc Beverage,Food,3
+18,Vodka,Liquor,Alcohol,41
+18,Water-Bottle,Non Alc Beverage,Food,110
+18,Wednesday Appy,Appetizers,Food,34
+18,Wednesday Gl Wine,Wine,Alcohol,42
+18,Wednesday Sleeve,Draft Beer,Alcohol,107
+18,West Coast Seafood Salad,Soups/Salads,Food,29
+18,White Rum,Liquor,Alcohol,23
+18,Wine Spritzer,Wine,Alcohol,6
+18,Wolf BlaDinner,Entrees,Food,3
+18,Wolf BlaWine,Wine,Alcohol,2
+18,WolfblaRed Label Cab Merlot,Wine,Alcohol,14
+18,Woody's Cooler,Coolers/Ciders,Alcohol,5
+18,Yam Fries,Appetizers,Food,39
+18,Yellowglen Pink for 2,Wine,Alcohol,3
+19,$12 Express Lunch,Entrees,Food,31
+19,* Course Break,Entrees,Food,42
+19,* Don't Make,Appetizers,Food,62
+19,* Fire Order,Food Modifiers,Food,27
+19,1 pc Snapper & Chips,Entrees,Food,1
+19,1/2 Lindemans Bin 45 Cabernet,Wine,Alcohol,8
+19,1/2 Lindemans Bin 65 Chard,Wine,Alcohol,7
+19,1/2 Sandwich,Sandwiches,Food,66
+19,1/2L Beringer Zinfandel,Wine,Alcohol,4
+19,1/2L Eaglehawk Chard,Wine,Alcohol,3
+19,1/2L Eaglehawk Shiraz,Wine,Alcohol,1
+19,1/2L Linden Bay Merlot,Wine,Alcohol,12
+19,1/2L Naked Grape Pinot Grigio,Wine,Alcohol,27
+19,1/2L Rosemnt Road R,Wine,Alcohol,13
+19,1/2L Rosemnt Road W,Wine,Alcohol,8
+19,1/2L WolfblaCab Merlot,Wine,Alcohol,1
+19,2 Breakfast Sannys,Breakfast,Food,19
+19,2 eggs and toast,Breakfast,Food,11
+19,2 pc Snapper & Chips,Entrees,Food,7
+19,3 Course Dinner Appy,Appetizers,Food,17
+19,3 Course Dinner Dessert,Desserts,Food,19
+19,3 Course Dinner Entree,Entrees,Food,19
+19,4 Choice Tapas,Appetizers,Food,24
+19,4 Pack Premium,Canned Beer,Alcohol,21
+19,4oz  2 GlaWine,Wine,Alcohol,11
+19,4oz Wine Glass,Wine,Alcohol,2
+19,4pk Domestic Cans,Canned Beer,Alcohol,32
+19,5 Pack Domestic,Canned Beer,Alcohol,8
+19,5 Pack Premium,Canned Beer,Alcohol,10
+19,50% off muffin,Appetizers,Food,26
+19,50% off Sandwich,Sandwiches,Food,17
+19,Add Chicken,Entrees,Food,4
+19,Add Chicken,Soups/Salads,Food,9
+19,Add Prawns,Entrees,Food,6
+19,Add Prawns,Soups/Salads,Food,7
+19,Amaretto,Liquor,Alcohol,4
+19,Appy Platter,Appetizers,Food,29
+19,Artisan Greens Starter,Soups/Salads,Food,3
+19,B 52 Coffee,Liquor,Alcohol,2
+19,Bacardi,Liquor,Alcohol,1
+19,Bag - Peanuts,Appetizers,Food,12
+19,Bag of Chips,Appetizers,Food,94
+19,Baileys Coffee,Liquor,Alcohol,4
+19,Baileys Irish Cream,Liquor,Alcohol,10
+19,Barbeque Chicken Pizza,Entrees,Food,14
+19,Basket Fries,Appetizers,Food,15
+19,Bayou Bourban Choc Torte,Desserts,Food,18
+19,Bin end $17.95,Wine,Alcohol,3
+19,Bin end $36,Wine,Alcohol,2
+19,Black Door Sp,Draft Beer,Alcohol,85
+19,Black Lager Glass,Draft Beer,Alcohol,3
+19,Blueberry Tea,Liquor,Alcohol,2
+19,Bocconcini Salad,Burgers,Food,40
+19,Bottle La Veille Ferme,Wine,Alcohol,2
+19,Bottle of Pop,Non Alc Beverage,Food,188
+19,Bottle Rosemount Road Red,Wine,Alcohol,4
+19,Bowl Chowder,Soups/Salads,Food,122
+19,Bowl Soup,Soups/Salads,Food,96
+19,Breakfast Sandw ONLY,Breakfast,Food,19
+19,Breakfast Sandwich,Breakfast,Food,32
+19,Brunch Eggs Benny,Breakfast,Food,13
+19,Brunch Golfers,Breakfast,Food,53
+19,Brunch Omelette,Breakfast,Food,28
+19,Brunch Waffles,Breakfast,Food,10
+19,BTL Inniskillan Cab Sav,Wine,Alcohol,3
+19,BTL Jackson Triggs Pinot Noir,Wine,Alcohol,1
+19,BTL Jackson Triggs Sav Blanc,Wine,Alcohol,2
+19,BTL Mezzamondo Negroamaro,Wine,Alcohol,2
+19,Btl Perrin Reserve,Wine,Alcohol,1
+19,BTL Toasted Head Merlot,Wine,Alcohol,1
+19,Bucket of Sol,Bottled Beer,Alcohol,14
+19,Budweiser,Bottled Beer,Alcohol,84
+19,Butter Chicken,Entrees,Food,4
+19,Caesar,Liquor,Alcohol,65
+19,Cajun Chicken Spinach Salad,Soups/Salads,Food,13
+19,Cajun Halibut Burger,Burgers,Food,19
+19,Canadian,Bottled Beer,Alcohol,26
+19,Cappuccino,Non Alc Beverage,Food,12
+19,Captain Morgan Spice,Liquor,Alcohol,5
+19,Cash Bar - Coolers,Coolers/Ciders,Alcohol,4
+19,Cash Bar - Highball,Liquor,Alcohol,6
+19,Cash Bar - Juice,Non Alc Beverage,Food,2
+19,Cash Bar - Wine Gl,Wine,Alcohol,22
+19,CASH Dom Beer,Bottled Beer,Alcohol,10
+19,CASH Premium,Bottled Beer,Alcohol,2
+19,Champagne & OJ,Liquor,Alcohol,9
+19,Chateau La Couranconne,Wine,Alcohol,1
+19,Cherry Point Blackberry Port,Wine,Alcohol,2
+19,Cherry Point Pinot Noir,Wine,Alcohol,2
+19,Child's Brunch/year,Entrees,Food,20
+19,Chili Lime Hummus,Appetizers,Food,10
+19,Chipotle Fish Pocket,Entrees,Food,9
+19,Chix Cranberry Salad,Soups/Salads,Food,103
+19,Chocolate Bar,Appetizers,Food,71
+19,Cilantro Chix Quessadilla,Entrees,Food,12
+19,Clam & Chorizo Hot Pot,Appetizers,Food,4
+19,Classic Caesar,Soups/Salads,Food,30
+19,Classic Martini Gin,Liquor,Alcohol,1
+19,Classic Martini Vodka,Liquor,Alcohol,3
+19,Clos du Val Cabernet Sauvignon,Wine,Alcohol,2
+19,Coffee,Non Alc Beverage,Food,1319
+19,Coffee and Doughnuts,Desserts,Food,10
+19,Coffee muffin,Breakfast,Food,46
+19,Continental Brunch,Breakfast,Food,2
+19,Cookies,Sandwiches,Food,3
+19,Coolers,Coolers/Ciders,Alcohol,78
+19,Coors Light,Bottled Beer,Alcohol,50
+19,Corona,Bottled Beer,Alcohol,6
+19,Crab & Artichoke,Appetizers,Food,3
+19,Cracked Frank's Member Sleeve,Draft Beer,Alcohol,94
+19,Crantini,Liquor,Alcohol,1
+19,Crown Royal,Liquor,Alcohol,3
+19,Dark Rum,Liquor,Alcohol,11
+19,DB  Gin,Liquor,Alcohol,5
+19,DB Bacardi,Liquor,Alcohol,2
+19,DB Caesar,Liquor,Alcohol,1
+19,DB Dark Rum,Liquor,Alcohol,4
+19,DB Grey Goose,Liquor,Alcohol,3
+19,DB J.W. Red,Liquor,Alcohol,1
+19,DB P'lyzer Vodka,Liquor,Alcohol,5
+19,DB Rye,Liquor,Alcohol,8
+19,DB Stoli,Liquor,Alcohol,4
+19,DB Vodka,Liquor,Alcohol,6
+19,Dbl Premium Highballs,Liquor,Alcohol,3
+19,Dessert $5,Desserts,Food,16
+19,Dessert $6,Desserts,Food,6
+19,Domestic Beer,Canned Beer,Alcohol,149
+19,Drambuie,Liquor,Alcohol,1
+19,Eaglehawk Shiraz,Wine,Alcohol,16
+19,Espresso,Non Alc Beverage,Food,3
+19,Express Sandwich,Sandwiches,Food,118
+19,Extra Cheese,Breakfast,Food,1
+19,Famous Grouse,Liquor,Alcohol,2
+19,Feature Pitcher,Draft Beer,Alcohol,1
+19,Fruit Juices,Non Alc Beverage,Food,37
+19,G2,Non Alc Beverage,Food,84
+19,Gabbiano Chianti,Wine,Alcohol,4
+19,Garlic Bread,Soups/Salads,Food,17
+19,Garlic Herb Ribs,Appetizers,Food,35
+19,Gatorade,Non Alc Beverage,Food,15
+19,Gin,Liquor,Alcohol,12
+19,Gl Beringer Zinfandel,Wine,Alcohol,1
+19,Gl Lindemans Bin 45 Cabernet,Wine,Alcohol,33
+19,Gl Lindemans Bin 65 Chard,Wine,Alcohol,18
+19,Gl Linden Bay Merlot,Wine,Alcohol,82
+19,GL Mezzamondo Negroamaro,Wine,Alcohol,4
+19,Gl Naked Grape Pinot Grigio,Wine,Alcohol,75
+19,GL Rosemnt Road R,Wine,Alcohol,22
+19,Gl Rosemnt Road W,Wine,Alcohol,23
+19,Gl Shandy,Draft Beer,Alcohol,2
+19,GlaBeringer White Zinfandel,Wine,Alcohol,1
+19,GlaEaglehawk Shiraz,Wine,Alcohol,17
+19,GlaLager,Draft Beer,Alcohol,59
+19,GlaRed Label Unwooded Chardonnay,Wine,Alcohol,8
+19,GlaSumac Ridge Gewurztraminer,Wine,Alcohol,1
+19,GlaWater,Non Alc Beverage,Food,18
+19,Glawine,Wine,Alcohol,11
+19,GlaWinter Ale,Draft Beer,Alcohol,29
+19,GlaWolfblaRed Label CabMerlot,Wine,Alcohol,10
+19,Glenfiddich,Liquor,Alcohol,2
+19,Glenlivet,Liquor,Alcohol,2
+19,Gls. Eaglehawk Chardonay,Wine,Alcohol,16
+19,Grand Marnier,Liquor,Alcohol,1
+19,Greek Pizza,Entrees,Food,5
+19,Greyhound,Liquor,Alcohol,2
+19,Grilled Chicken Clubhouse,Sandwiches,Food,153
+19,Growers Apple,Coolers/Ciders,Alcohol,10
+19,Growers Pear,Coolers/Ciders,Alcohol,10
+19,Growers Pomegranate,Coolers/Ciders,Alcohol,4
+19,Guinness,Draft Beer,Alcohol,26
+19,Half Pound Wings,Appetizers,Food,16
+19,Half Sandwich,Sandwiches,Food,33
+19,Halibut & Chips,Entrees,Food,50
+19,Heineken,Bottled Beer,Alcohol,26
+19,Herman's Dark Lager,Bottled Beer,Alcohol,4
+19,Host Beer,Bottled Beer,Alcohol,5
+19,Host Cooler/Cider,Coolers/Ciders,Alcohol,1
+19,Host draft Beer,Draft Beer,Alcohol,3
+19,Host Hiball,Bottled Beer,Alcohol,30
+19,Host Import Btl,Wine,Alcohol,6
+19,Host Pop,Non Alc Beverage,Food,14
+19,Host Premium,Bottled Beer,Alcohol,4
+19,Hot Chocolate,Non Alc Beverage,Food,22
+19,Hot Dog,Sandwiches,Food,209
+19,Hummus & Flat Bread,Appetizers,Food,16
+19,Ice Tea,Non Alc Beverage,Food,52
+19,Inniskillan Pinot Noir,Wine,Alcohol,3
+19,J.W. Red,Liquor,Alcohol,2
+19,Jack Daniels,Liquor,Alcohol,2
+19,Jackson Triggs Esprit Cab Sauv,Wine,Alcohol,2
+19,Jackson Triggs Viogner,Wine,Alcohol,1
+19,Jambalaya,Entrees,Food,13
+19,Jameson,Liquor,Alcohol,1
+19,Jug Lager,Draft Beer,Alcohol,27
+19,Jug Winter Ale,Draft Beer,Alcohol,18
+19,Juice,Non Alc Beverage,Food,80
+19,"Kids 2 Eggs,Bacon & Tst",Breakfast,Food,1
+19,Kids Chicken Fingers,Entrees,Food,7
+19,Kids Grilled Cheese,Entrees,Food,2
+19,Kids Pasta,Entrees,Food,2
+19,Kids Trio Burger / Fries,Entrees,Food,5
+19,Kokanee,Bottled Beer,Alcohol,12
+19,Korean Beef Satays,Appetizers,Food,3
+19,Korean Beef Stirfry,Entrees,Food,7
+19,Lamb Souvlaki,Entrees,Food,27
+19,Large Pop,Non Alc Beverage,Food,746
+19,Latte,Non Alc Beverage,Food,3
+19,Lemonade,Non Alc Beverage,Food,30
+19,Litre Lindemans Bin 45 Cab Sauv,Wine,Alcohol,1
+19,Louis Latour LArdeche,Wine,Alcohol,3
+19,Ltr Lindemans Bin 65 Chard,Wine,Alcohol,1
+19,Ltr Linden Bay Merlot,Wine,Alcohol,9
+19,Ltr Naked Grape Pinot Grigio,Wine,Alcohol,6
+19,Margarita,Liquor,Alcohol,8
+19,Margarita Special,Liquor,Alcohol,7
+19,Mario's Vanilla Gelato,Desserts,Food,4
+19,Meal Size Garden Greens,Soups/Salads,Food,20
+19,Meal Size Soup,Soups/Salads,Food,12
+19,Med Coffee Thermos,Non Alc Beverage,Food,4
+19,Mediterranean Chix Wrap,Burgers,Food,91
+19,Mediterranean Pizza,Entrees,Food,7
+19,Member 1/2 Litre,Wine,Alcohol,1
+19,Member House Wine,Wine,Alcohol,6
+19,Member Jug,Draft Beer,Alcohol,7
+19,Member Sleeve,Draft Beer,Alcohol,82
+19,Milk,Non Alc Beverage,Food,8
+19,Milkshake,Desserts,Food,3
+19,Miller Genuine Draft,Canned Beer,Alcohol,11
+19,Mini Liquor,Liquor,Alcohol,33
+19,Mocha,Non Alc Beverage,Food,11
+19,Mother's Day Brunch,Entrees,Food,9
+19,Motts Caesar,Coolers/Ciders,Alcohol,45
+19,Muffin,Appetizers,Food,110
+19,Mug Shandy,Draft Beer,Alcohol,11
+19,N/A Punch,Non Alc Beverage,Food,2
+19,Non-Alcoholic Beer,Non Alc Beverage,Food,26
+19,NY Steak & Frites,Entrees,Food,12
+19,One Piece Halibut & Chips,Entrees,Food,3
+19,Paralyzer Vodka,Liquor,Alcohol,7
+19,Pasta Night $21.95,Entrees,Food,110
+19,Penfolds Bin 2 Shiraz Mourvedre,Wine,Alcohol,1
+19,Penfolds Koonunga Hill Shrz Cab,Wine,Alcohol,5
+19,Peppermint Schnapps,Liquor,Alcohol,1
+19,Petalus Dosoyoos Larose,Wine,Alcohol,1
+19,Phat Italian,Burgers,Food,28
+19,Pint 1516 Lager,Draft Beer,Alcohol,184
+19,Pint Black Lager,Draft Beer,Alcohol,39
+19,Pint Race Rocks,Draft Beer,Alcohol,5
+19,Pint Sleeman Honey,Draft Beer,Alcohol,128
+19,Pint Winter Ale,Draft Beer,Alcohol,257
+19,Pizza Feature,Entrees,Food,1
+19,Pizza Margarita,Burgers,Food,53
+19,PizzaThe Italian,Entrees,Food,40
+19,Pound Wings,Appetizers,Food,27
+19,Power Bar,Sandwiches,Food,14
+19,Premium Beer,Canned Beer,Alcohol,225
+19,Premium Highball,Liquor,Alcohol,9
+19,Prime Rib Burger,Burgers,Food,116
+19,Pulled Pork Sandwich,Burgers,Food,27
+19,Ravenswood Zinfandel,Wine,Alcohol,2
+19,Red Label Unwooded Chardonnay,Wine,Alcohol,2
+19,Rosemount Road White,Wine,Alcohol,7
+19,Rusty Nail,Liquor,Alcohol,2
+19,Rye,Liquor,Alcohol,10
+19,Salmon Benedict,Breakfast,Food,9
+19,San Pellegrino,Non Alc Beverage,Food,13
+19,Sandwich,Sandwiches,Food,223
+19,Sandwich ONLY,Sandwiches,Food,5
+19,Sandwich to go,Sandwiches,Food,16
+19,Sat Feature Wine,Wine,Alcohol,3
+19,Sat Fish & Chip,Entrees,Food,14
+19,Schooner Lager,Draft Beer,Alcohol,5
+19,Schooner Pale,Draft Beer,Alcohol,2
+19,Seafood Pappardelle,Entrees,Food,27
+19,Seaview Brut Champagne,Wine,Alcohol,1
+19,Shot in the Dark,Wine,Alcohol,2
+19,Side Bacon,Breakfast,Food,2
+19,Side Fruit,Breakfast,Food,1
+19,Side Hashbrowns,Breakfast,Food,2
+19,Side of Fries,Appetizers,Food,11
+19,Side Toast,Breakfast,Food,2
+19,Sleeman HB Glass,Draft Beer,Alcohol,14
+19,Sleeman Jugs,Draft Beer,Alcohol,11
+19,Smirnoff Ice,Coolers/Ciders,Alcohol,16
+19,Smoked Salmon Wrap,Sandwiches,Food,3
+19,Smokie,Sandwiches,Food,27
+19,Sol,Bottled Beer,Alcohol,48
+19,Special $21,Entrees,Food,2
+19,Special $22,Entrees,Food,1
+19,Special $23,Entrees,Food,1
+19,Special $9,Entrees,Food,3
+19,Special 10.00,Entrees,Food,23
+19,Special 11.00,Entrees,Food,7
+19,Special 13.00,Entrees,Food,5
+19,Special 14.00,Entrees,Food,2
+19,Special 16.00,Entrees,Food,1
+19,Special 17.00,Entrees,Food,3
+19,Special 18.00,Entrees,Food,3
+19,Special 19.00,Entrees,Food,13
+19,Special 22.00,Entrees,Food,23
+19,Special 8.00,Entrees,Food,2
+19,Spiced Apple Crumble,Burgers,Food,12
+19,Spicy Chicken Soba,Burgers,Food,32
+19,Spicy Meat Pizza,Entrees,Food,1
+19,Starter Classic Caesar,Soups/Salads,Food,7
+19,Stella Artois,Bottled Beer,Alcohol,5
+19,Sumac  Ridge Gewurztraminer,Wine,Alcohol,1
+19,Sundried Tomato Ravioli,Entrees,Food,2
+19,Tanqueray,Liquor,Alcohol,16
+19,Tapas Beef,Appetizers,Food,6
+19,Tapas Chef Choice,Appetizers,Food,2
+19,Tapas Chicken,Appetizers,Food,2
+19,Tapas Seafood,Appetizers,Food,3
+19,Tapas Vegetarian,Appetizers,Food,6
+19,Tea,Non Alc Beverage,Food,107
+19,Three Cheese Flatbread,Appetizers,Food,17
+19,Thur Dry Rib,Appetizers,Food,10
+19,Thur Import Beer,Bottled Beer,Alcohol,3
+19,Touraine Sauvignon,Wine,Alcohol,2
+19,Tue Fish Taco,Entrees,Food,6
+19,Ultimate Steak Sandwich,Sandwiches,Food,47
+19,Valentines Dinner,Entrees,Food,3
+19,Vegetable Spinach Ciabatta,Burgers,Food,63
+19,Virgin Caesar,Non Alc Beverage,Food,7
+19,Vodka,Liquor,Alcohol,46
+19,Water-Bottle,Non Alc Beverage,Food,120
+19,Wednesday Appy,Appetizers,Food,27
+19,Wednesday Gl Wine,Wine,Alcohol,19
+19,Wednesday Sleeve,Draft Beer,Alcohol,117
+19,West Coast Seafood Salad,Soups/Salads,Food,30
+19,White Rum,Liquor,Alcohol,31
+19,White Russian,Liquor,Alcohol,5
+19,Wine Spritzer,Wine,Alcohol,13
+19,Wolf Bla40 Cab/Shrz/Mer,Wine,Alcohol,4
+19,Wolf BlaDinner,Entrees,Food,5
+19,Wolf BlaWine,Wine,Alcohol,4
+19,WolfblaRed Label Cab Merlot,Wine,Alcohol,11
+19,Woody's Cooler,Coolers/Ciders,Alcohol,4
+19,Wynns Cab Shrz Merlot,Wine,Alcohol,2
+19,Yam Fries,Appetizers,Food,50
+20,$12 Express Lunch,Entrees,Food,24
+20,* Course Break,Entrees,Food,29
+20,* Don't Make,Appetizers,Food,62
+20,* Fire Order,Food Modifiers,Food,12
+20,1/2 Lindemans Bin 45 Cabernet,Wine,Alcohol,2
+20,1/2 Lindemans Bin 65 Chard,Wine,Alcohol,3
+20,1/2 Sandwich,Sandwiches,Food,75
+20,1/2L Banrock Station Unwood Chard,Wine,Alcohol,1
+20,1/2L Eaglehawk Shiraz,Wine,Alcohol,2
+20,1/2L Linden Bay Merlot,Wine,Alcohol,7
+20,1/2L Naked Grape Pinot Grigio,Wine,Alcohol,13
+20,1/2L Red Label Unwooded Chardonnay,Wine,Alcohol,3
+20,1/2L Rosemnt Road R,Wine,Alcohol,4
+20,1/2L Rosemnt Road W,Wine,Alcohol,5
+20,1/2L Sumac Ridge Gewurztraminer,Wine,Alcohol,1
+20,1/2L Toasted Head Merlot,Wine,Alcohol,2
+20,1/2L WolfblaCab Merlot,Wine,Alcohol,1
+20,2 Breakfast Sannys,Breakfast,Food,20
+20,2 eggs and toast,Breakfast,Food,16
+20,2 pc Snapper & Chips,Entrees,Food,6
+20,3 Course Dinner Appy,Appetizers,Food,5
+20,3 Course Dinner Dessert,Desserts,Food,6
+20,3 Course Dinner Entree,Entrees,Food,6
+20,4 Choice Tapas,Appetizers,Food,35
+20,4 Pack Premium,Canned Beer,Alcohol,20
+20,4oz  2 GlaWine,Wine,Alcohol,21
+20,4oz Wine Glass,Wine,Alcohol,6
+20,4pk Domestic Cans,Canned Beer,Alcohol,17
+20,5 Pack Domestic,Canned Beer,Alcohol,26
+20,5 Pack Premium,Canned Beer,Alcohol,15
+20,50% off muffin,Appetizers,Food,16
+20,50% off Sandwich,Sandwiches,Food,14
+20,Add Bacon,Entrees,Food,1
+20,Add Chicken,Entrees,Food,8
+20,Add Chicken,Soups/Salads,Food,6
+20,Add One Egg,Breakfast,Food,9
+20,Add Prawns,Entrees,Food,18
+20,Add Prawns,Soups/Salads,Food,4
+20,Appy Platter,Appetizers,Food,20
+20,Artisan Greens Starter,Soups/Salads,Food,12
+20,Auchentoshan Three Wood,Liquor,Alcohol,2
+20,B 52 Coffee,Liquor,Alcohol,3
+20,Bag - Peanuts,Appetizers,Food,19
+20,Bag of Chips,Appetizers,Food,126
+20,Baileys Coffee,Liquor,Alcohol,7
+20,Baileys Irish Cream,Liquor,Alcohol,4
+20,Barbeque Chicken Pizza,Entrees,Food,15
+20,Basket Fries,Appetizers,Food,17
+20,Bayou Bourban Choc Torte,Desserts,Food,11
+20,Beringer Small Wine,Wine,Alcohol,1
+20,Big Easy,Liquor,Alcohol,2
+20,Bin end $27,Wine,Alcohol,1
+20,Bin end $36,Wine,Alcohol,3
+20,Black Lager Glass,Draft Beer,Alcohol,3
+20,Bocconcini Salad,Burgers,Food,42
+20,Bombay Sapphire,Liquor,Alcohol,2
+20,Bottle of Pop,Non Alc Beverage,Food,205
+20,Bottle Rosemount Road Red,Wine,Alcohol,10
+20,Bowl Chowder,Soups/Salads,Food,112
+20,Bowl Soup,Soups/Salads,Food,82
+20,Bowmore,Liquor,Alcohol,2
+20,Breakfast Sandw ONLY,Breakfast,Food,38
+20,Breakfast Sandwich,Breakfast,Food,24
+20,Brown Cow,Liquor,Alcohol,1
+20,Brunch Eggs Benny,Breakfast,Food,22
+20,Brunch Golfers,Breakfast,Food,39
+20,Brunch Omelette,Breakfast,Food,20
+20,Brunch Waffles,Breakfast,Food,13
+20,Btl Banrock Station Unwood Chard,Wine,Alcohol,1
+20,Btl Beringer Zinfan,Wine,Alcohol,2
+20,BTL Jackson Triggs Pinot Noir,Wine,Alcohol,2
+20,BTL Mezzamondo Negroamaro,Wine,Alcohol,7
+20,Btl Perrin Reserve,Wine,Alcohol,3
+20,BTL Toasted Head Merlot,Wine,Alcohol,2
+20,Btl Wolf BlaChard,Wine,Alcohol,2
+20,Bucket of Sol,Bottled Beer,Alcohol,14
+20,Budweiser,Bottled Beer,Alcohol,72
+20,Butter Chicken,Entrees,Food,4
+20,Caesar,Liquor,Alcohol,67
+20,Cajun Chicken Spinach Salad,Soups/Salads,Food,21
+20,Cajun Halibut Burger,Burgers,Food,27
+20,Canadian,Bottled Beer,Alcohol,20
+20,Canned Beer $4,Canned Beer,Alcohol,3
+20,Cappuccino,Non Alc Beverage,Food,12
+20,Captain Morgan Spice,Liquor,Alcohol,2
+20,Cash Bar - Coolers,Coolers/Ciders,Alcohol,-1
+20,Cash Bar - Highball,Liquor,Alcohol,-14
+20,Cash Bar - Wine Gl,Wine,Alcohol,15
+20,CASH Dom Beer,Bottled Beer,Alcohol,-50
+20,CASH Premium,Bottled Beer,Alcohol,-17
+20,Champagne & OJ,Liquor,Alcohol,3
+20,Chateau La Couranconne,Wine,Alcohol,3
+20,Child's Brunch/year,Entrees,Food,10
+20,Chili Lime Hummus,Appetizers,Food,6
+20,Chipotle Fish Pocket,Entrees,Food,6
+20,Chix Cranberry Salad,Soups/Salads,Food,73
+20,Chocolate Bar,Appetizers,Food,94
+20,Cilantro Chix Quessadilla,Entrees,Food,5
+20,Clam & Chorizo Hot Pot,Appetizers,Food,5
+20,Classic Caesar,Soups/Salads,Food,37
+20,Classic Martini Gin,Liquor,Alcohol,4
+20,Coffee,Non Alc Beverage,Food,973
+20,Coffee muffin,Breakfast,Food,35
+20,Continental Brunch,Breakfast,Food,1
+20,Coolers,Coolers/Ciders,Alcohol,102
+20,Coors Light,Bottled Beer,Alcohol,34
+20,Corona,Bottled Beer,Alcohol,6
+20,Cosmopolitan,Liquor,Alcohol,2
+20,Cracked Frank's Member Sleeve,Draft Beer,Alcohol,54
+20,Crown Royal,Liquor,Alcohol,11
+20,Dark Rum,Liquor,Alcohol,9
+20,DB Bowmore,Liquor,Alcohol,2
+20,DB Caesar,Liquor,Alcohol,7
+20,DB Jameson,Liquor,Alcohol,1
+20,DB Long Island,Liquor,Alcohol,3
+20,DB Oban,Liquor,Alcohol,1
+20,DB Rye,Liquor,Alcohol,2
+20,DB Stoli,Liquor,Alcohol,14
+20,DB Vodka,Liquor,Alcohol,3
+20,DB WhiteRum,Liquor,Alcohol,3
+20,Dbl Dewars,Liquor,Alcohol,2
+20,Dbl Highballs,Liquor,Alcohol,6
+20,Dessert $5,Desserts,Food,23
+20,Dessert $6,Desserts,Food,32
+20,Domestic Beer,Canned Beer,Alcohol,227
+20,Drambuie,Liquor,Alcohol,1
+20,Eaglehawk Shiraz,Wine,Alcohol,14
+20,Event Buffet,Entrees,Food,6
+20,Express Sandwich,Sandwiches,Food,92
+20,Fruit Juices,Non Alc Beverage,Food,32
+20,G2,Non Alc Beverage,Food,68
+20,Garlic Bread,Soups/Salads,Food,22
+20,Garlic Herb Ribs,Appetizers,Food,24
+20,Gatorade,Non Alc Beverage,Food,17
+20,Gin,Liquor,Alcohol,9
+20,Gl Lindemans Bin 45 Cabernet,Wine,Alcohol,33
+20,Gl Lindemans Bin 65 Chard,Wine,Alcohol,32
+20,Gl Linden Bay Merlot,Wine,Alcohol,45
+20,GL Mezzamondo Negroamaro,Wine,Alcohol,1
+20,Gl Naked Grape Pinot Grigio,Wine,Alcohol,85
+20,Gl Quails Gate Pinot Blanc,Wine,Alcohol,1
+20,GL Rosemnt Road R,Wine,Alcohol,28
+20,Gl Rosemnt Road W,Wine,Alcohol,17
+20,Gl Shandy,Draft Beer,Alcohol,3
+20,GlaBeringer White Zinfandel,Wine,Alcohol,3
+20,GlaEaglehawk Shiraz,Wine,Alcohol,23
+20,GlaLager,Draft Beer,Alcohol,69
+20,GlaRed Label Unwooded Chardonnay,Wine,Alcohol,10
+20,GlaSumac Ridge Gewurztraminer,Wine,Alcohol,2
+20,GlaWater,Non Alc Beverage,Food,18
+20,Glawine,Wine,Alcohol,4
+20,GlaWinter Ale,Draft Beer,Alcohol,45
+20,GlaWolfblaRed Label CabMerlot,Wine,Alcohol,12
+20,Glenfiddich,Liquor,Alcohol,2
+20,Gls. Eaglehawk Chardonay,Wine,Alcohol,5
+20,Greek Chicken Salad,Soups/Salads,Food,4
+20,Greek Pizza,Entrees,Food,6
+20,Grey Goose,Liquor,Alcohol,5
+20,Grilled Chicken Clubhouse,Sandwiches,Food,143
+20,Growers Apple,Coolers/Ciders,Alcohol,13
+20,Growers Pear,Coolers/Ciders,Alcohol,4
+20,Growers Pomegranate,Coolers/Ciders,Alcohol,1
+20,Guinness,Draft Beer,Alcohol,14
+20,Half Pound Wings,Appetizers,Food,12
+20,Half Sandwich,Sandwiches,Food,35
+20,Halibut & Chips,Entrees,Food,35
+20,Hardy's Oomo Shiraz,Wine,Alcohol,2
+20,Harvey Walbanger,Liquor,Alcohol,1
+20,Heineken,Bottled Beer,Alcohol,41
+20,Herman's Dark Lager,Bottled Beer,Alcohol,6
+20,Host draft Beer,Draft Beer,Alcohol,41
+20,Hot Chocolate,Non Alc Beverage,Food,15
+20,Hot Dog,Sandwiches,Food,200
+20,Hummus & Flat Bread,Appetizers,Food,10
+20,Ice Tea,Non Alc Beverage,Food,49
+20,Jack Daniels,Liquor,Alcohol,1
+20,Jackson Triggs Esprit Cab Sauv,Wine,Alcohol,2
+20,Jambalaya,Entrees,Food,13
+20,Jug Black Lager,Canned Beer,Alcohol,1
+20,Jug Lager,Draft Beer,Alcohol,22
+20,Jug Winter Ale,Draft Beer,Alcohol,9
+20,Juice,Non Alc Beverage,Food,69
+20,Kids Chicken Fingers,Entrees,Food,3
+20,Kids Pasta,Entrees,Food,3
+20,Kids Trio Burger / Fries,Entrees,Food,4
+20,Kokanee,Bottled Beer,Alcohol,13
+20,Korean Beef Stirfry,Entrees,Food,3
+20,Lamb Souvlaki,Entrees,Food,36
+20,Large Pop,Non Alc Beverage,Food,717
+20,Latte,Non Alc Beverage,Food,3
+20,Lemonade,Non Alc Beverage,Food,19
+20,Litre Lindemans Bin 45 Cab Sauv,Wine,Alcohol,9
+20,Long Island,Liquor,Alcohol,4
+20,Louis Latour LArdeche,Wine,Alcohol,4
+20,Love Potion #9 Martini,Liquor,Alcohol,2
+20,Ltr Lindemans Bin 65 Chard,Wine,Alcohol,3
+20,Ltr Linden Bay Merlot,Wine,Alcohol,8
+20,Ltr Naked Grape Pinot Grigio,Wine,Alcohol,9
+20,Manhattan,Liquor,Alcohol,6
+20,Margarita,Liquor,Alcohol,8
+20,Margarita Special,Liquor,Alcohol,8
+20,Mario's Vanilla Gelato,Desserts,Food,7
+20,Meal Size Garden Greens,Soups/Salads,Food,9
+20,Meal Size Soup,Soups/Salads,Food,29
+20,Mediterranean Chix Wrap,Burgers,Food,85
+20,Mediterranean Pizza,Entrees,Food,18
+20,Member 1/2 Litre,Wine,Alcohol,2
+20,Member Jug,Draft Beer,Alcohol,6
+20,Member Sleeve,Draft Beer,Alcohol,82
+20,Milk,Non Alc Beverage,Food,13
+20,Milkshake,Desserts,Food,7
+20,Miller Genuine Draft,Canned Beer,Alcohol,16
+20,Mini Liquor,Liquor,Alcohol,20
+20,Mocha,Non Alc Beverage,Food,5
+20,Mocktails,Non Alc Beverage,Food,1
+20,Monster,Non Alc Beverage,Food,1
+20,Mother's Day Brunch,Entrees,Food,6
+20,Motts Caesar,Coolers/Ciders,Alcohol,76
+20,Muffin,Appetizers,Food,107
+20,Mug Shandy,Draft Beer,Alcohol,13
+20,N/A Punch,Non Alc Beverage,Food,2
+20,Naked Grape Spritzer,Coolers/Ciders,Alcohol,2
+20,Non-Alcoholic Beer,Non Alc Beverage,Food,8
+20,NY Steak & Frites,Entrees,Food,17
+20,Oban,Liquor,Alcohol,2
+20,One Piece Halibut & Chips,Entrees,Food,4
+20,Paralyzer Vodka,Liquor,Alcohol,3
+20,Pasta Night $21.95,Entrees,Food,123
+20,Penfolds Bin 2 Shiraz Mourvedre,Wine,Alcohol,2
+20,Penfolds Koonunga Hill Shrz Cab,Wine,Alcohol,5
+20,Perfect Manhattan,Liquor,Alcohol,1
+20,Phat Italian,Burgers,Food,41
+20,Pint 1516 Lager,Draft Beer,Alcohol,232
+20,Pint Black Lager,Draft Beer,Alcohol,50
+20,Pint Race Rocks,Draft Beer,Alcohol,10
+20,Pint Sleeman Honey,Draft Beer,Alcohol,117
+20,Pint Winter Ale,Draft Beer,Alcohol,218
+20,Pizza Margarita,Burgers,Food,43
+20,PizzaThe Italian,Entrees,Food,49
+20,Polar Bear,Liquor,Alcohol,1
+20,Pound Wings,Appetizers,Food,51
+20,Power Bar,Sandwiches,Food,8
+20,Premium Beer,Canned Beer,Alcohol,231
+20,Premium Highball,Liquor,Alcohol,-7
+20,Premium Margarita,Liquor,Alcohol,3
+20,Prime Rib Burger,Burgers,Food,135
+20,Pulled Pork Sandwich,Burgers,Food,37
+20,Ravenswood Zinfandel,Wine,Alcohol,2
+20,Regular Shooter,Liquor,Alcohol,7
+20,Robert Mondavi Merlot,Wine,Alcohol,1
+20,Rosemount Road White,Wine,Alcohol,1
+20,Rye,Liquor,Alcohol,16
+20,Salmon Benedict,Breakfast,Food,8
+20,Sambucca,Liquor,Alcohol,2
+20,San Pellegrino,Non Alc Beverage,Food,4
+20,Sandwich,Sandwiches,Food,212
+20,Sandwich ONLY,Sandwiches,Food,5
+20,Sandwich to go,Sandwiches,Food,22
+20,Sat Feature Wine,Wine,Alcohol,1
+20,Sat Fish & Chip,Entrees,Food,3
+20,Schooner Lager,Draft Beer,Alcohol,5
+20,Schooner Pale,Draft Beer,Alcohol,3
+20,Seafood Pappardelle,Entrees,Food,27
+20,Seaview Brut Champagne,Wine,Alcohol,1
+20,Shirley Temple,Non Alc Beverage,Food,2
+20,Shot in the Dark,Wine,Alcohol,1
+20,Side Bacon,Breakfast,Food,3
+20,Side Fruit,Breakfast,Food,5
+20,Side Hashbrowns,Breakfast,Food,4
+20,Side of Fries,Appetizers,Food,12
+20,Side Toast,Breakfast,Food,17
+20,Sleeman HB Glass,Draft Beer,Alcohol,17
+20,Sleeman Jugs,Draft Beer,Alcohol,9
+20,Smirnoff Ice,Coolers/Ciders,Alcohol,14
+20,Smokie,Sandwiches,Food,31
+20,Sol,Bottled Beer,Alcohol,36
+20,Sorbet,Desserts,Food,2
+20,Spanish Coffee,Liquor,Alcohol,7
+20,Special $22,Entrees,Food,4
+20,Special $24,Entrees,Food,2
+20,Special $9,Entrees,Food,5
+20,Special 10.00,Entrees,Food,23
+20,Special 11.00,Entrees,Food,4
+20,Special 13.00,Entrees,Food,7
+20,Special 17.00,Entrees,Food,6
+20,Special 18.00,Entrees,Food,6
+20,Special 19.00,Entrees,Food,10
+20,Special 22.00,Entrees,Food,18
+20,Special 8.00,Entrees,Food,2
+20,Spiced Apple Crumble,Burgers,Food,11
+20,Spicy Chicken Soba,Burgers,Food,32
+20,Spicy Meat Pizza,Entrees,Food,4
+20,Starter Classic Caesar,Soups/Salads,Food,11
+20,Stella Artois,Bottled Beer,Alcohol,19
+20,Sundried Tomato Ravioli,Entrees,Food,3
+20,Tanqueray,Liquor,Alcohol,2
+20,Tapas Chef Choice,Appetizers,Food,5
+20,Tapas Chicken,Appetizers,Food,2
+20,Tapas Vegetarian,Appetizers,Food,3
+20,Tea,Non Alc Beverage,Food,89
+20,Three Cheese Flatbread,Appetizers,Food,17
+20,Thur Dry Rib,Appetizers,Food,5
+20,Thur Import Beer,Bottled Beer,Alcohol,3
+20,Tournament Bottle Beer Feature,Bottled Beer,Alcohol,97
+20,Tue Fish Taco,Entrees,Food,1
+20,Ultimate Steak Sandwich,Sandwiches,Food,45
+20,Valentines Dinner,Entrees,Food,1
+20,Vegetable Spinach Ciabatta,Burgers,Food,62
+20,Virgin Caesar,Non Alc Beverage,Food,8
+20,Vodka,Liquor,Alcohol,27
+20,Water-Bottle,Non Alc Beverage,Food,118
+20,Wednesday Appy,Appetizers,Food,31
+20,Wednesday Gl Wine,Wine,Alcohol,57
+20,Wednesday Sleeve,Draft Beer,Alcohol,197
+20,West Coast Seafood Salad,Soups/Salads,Food,37
+20,White Rum,Liquor,Alcohol,35
+20,Wine Spritzer,Wine,Alcohol,1
+20,Wolf Bla40 Cab/Shrz/Mer,Wine,Alcohol,1
+20,WolfblaRed Label Cab Merlot,Wine,Alcohol,11
+20,Woody's Cooler,Coolers/Ciders,Alcohol,8
+20,Wynns Riesling,Wine,Alcohol,3
+20,Yam Fries,Appetizers,Food,46
+20,Zed Sauvignon Blanc,Wine,Alcohol,2
+21,$12 Express Lunch,Entrees,Food,24
+21,$7 Martini Special,Liquor,Alcohol,3
+21,* Course Break,Entrees,Food,57
+21,* Don't Make,Appetizers,Food,39
+21,* Fire Order,Food Modifiers,Food,39
+21,1/2 Lindemans Bin 45 Cabernet,Wine,Alcohol,2
+21,1/2 Sandwich,Sandwiches,Food,77
+21,1/2L Beringer White Zinfandel,Wine,Alcohol,1
+21,1/2L Beringer Zinfandel,Wine,Alcohol,2
+21,1/2L Eaglehawk Chard,Wine,Alcohol,4
+21,1/2L Eaglehawk Shiraz,Wine,Alcohol,3
+21,1/2L Inniskillan Cab Sav,Wine,Alcohol,1
+21,1/2L Linden Bay Merlot,Wine,Alcohol,4
+21,1/2L Mezzamondo Negroamaro,Wine,Alcohol,2
+21,1/2L Naked Grape Pinot Grigio,Wine,Alcohol,9
+21,1/2L Red Label Unwooded Chardonnay,Wine,Alcohol,3
+21,1/2L Rosemnt Road R,Wine,Alcohol,6
+21,1/2L Rosemnt Road W,Wine,Alcohol,1
+21,1/2L Sumac Ridge Gewurztraminer,Wine,Alcohol,3
+21,2 Breakfast Sannys,Breakfast,Food,22
+21,2 eggs and toast,Breakfast,Food,13
+21,2 pc Snapper & Chips,Entrees,Food,8
+21,3 Course Dinner Appy,Appetizers,Food,17
+21,3 Course Dinner Dessert,Desserts,Food,17
+21,3 Course Dinner Entree,Entrees,Food,16
+21,4 Choice Tapas,Appetizers,Food,11
+21,4 Pack Premium,Canned Beer,Alcohol,38
+21,4oz  2 GlaWine,Wine,Alcohol,11
+21,4oz Wine Glass,Wine,Alcohol,1
+21,4pk Domestic Cans,Canned Beer,Alcohol,28
+21,5 Pack Domestic,Canned Beer,Alcohol,10
+21,5 Pack Premium,Canned Beer,Alcohol,18
+21,50% off muffin,Appetizers,Food,20
+21,50% off Sandwich,Sandwiches,Food,15
+21,Add Cheese,Appetizers,Food,1
+21,Add Chicken,Entrees,Food,1
+21,Add Chicken,Soups/Salads,Food,6
+21,Add One Egg,Breakfast,Food,9
+21,Add Prawns,Entrees,Food,15
+21,Add Prawns,Soups/Salads,Food,3
+21,Add Sauteed Mushrooms,Entrees,Food,2
+21,Appy Platter,Appetizers,Food,30
+21,Artisan Greens Starter,Soups/Salads,Food,4
+21,Auchentoshan Three Wood,Liquor,Alcohol,2
+21,B 52 Coffee,Liquor,Alcohol,2
+21,Bac. Orange,Coolers/Ciders,Alcohol,6
+21,Bacardi,Liquor,Alcohol,1
+21,Bag - Peanuts,Appetizers,Food,29
+21,Bag of Chips,Appetizers,Food,95
+21,Baileys Coffee,Liquor,Alcohol,4
+21,Baileys Irish Cream,Liquor,Alcohol,1
+21,Barbeque Chicken Pizza,Entrees,Food,16
+21,Basket Fries,Appetizers,Food,16
+21,Bayou Bourban Choc Torte,Desserts,Food,7
+21,Bin End $ 19.00,Wine,Alcohol,2
+21,Bin end $17.95,Wine,Alcohol,1
+21,Bin end $19.95,Wine,Alcohol,3
+21,Bin end $21,Wine,Alcohol,6
+21,Bin end $26,Wine,Alcohol,4
+21,Bin end $36,Wine,Alcohol,1
+21,Bin end $70,Wine,Alcohol,2
+21,Bin End 39.95,Wine,Alcohol,1
+21,Black Door Sp,Draft Beer,Alcohol,1
+21,Black Lager Glass,Draft Beer,Alcohol,3
+21,Blueberry Tea,Liquor,Alcohol,2
+21,Bocconcini Salad,Burgers,Food,31
+21,Bottle of Pop,Non Alc Beverage,Food,232
+21,Bottle Rosemount Road Red,Wine,Alcohol,8
+21,Bowl Chowder,Soups/Salads,Food,117
+21,Bowl Soup,Soups/Salads,Food,101
+21,Breakfast Sandw ONLY,Breakfast,Food,30
+21,Breakfast Sandwich,Breakfast,Food,25
+21,Brown Cow,Liquor,Alcohol,2
+21,Brunch Eggs Benny,Breakfast,Food,18
+21,Brunch Golfers,Breakfast,Food,37
+21,Brunch Omelette,Breakfast,Food,17
+21,Brunch Waffles,Breakfast,Food,16
+21,BTL Jackson Triggs Pinot Noir,Wine,Alcohol,2
+21,BTL Mezzamondo Negroamaro,Wine,Alcohol,5
+21,Btl Perrin Reserve,Wine,Alcohol,2
+21,Btl Wolf BlaChard,Wine,Alcohol,2
+21,Budweiser,Bottled Beer,Alcohol,37
+21,Butter Chicken,Entrees,Food,6
+21,Caesar,Liquor,Alcohol,67
+21,Cajun Chicken Spinach Salad,Soups/Salads,Food,23
+21,Cajun Halibut Burger,Burgers,Food,30
+21,Canadian,Bottled Beer,Alcohol,13
+21,Canned Beer $4,Canned Beer,Alcohol,4
+21,Cappuccino,Non Alc Beverage,Food,4
+21,Captain Morgan Spice,Liquor,Alcohol,10
+21,Cash Bar - Coolers,Coolers/Ciders,Alcohol,6
+21,Cash Bar - Highball,Liquor,Alcohol,45
+21,Cash Bar - Juice,Non Alc Beverage,Food,1
+21,Cash Bar - Martini,Liquor,Alcohol,4
+21,Cash Bar - Pop,Non Alc Beverage,Food,6
+21,Cash Bar - Wine Gl,Wine,Alcohol,25
+21,CASH Dom Beer,Bottled Beer,Alcohol,12
+21,CASH Premium,Bottled Beer,Alcohol,2
+21,Cedar Plank Salmon,Entrees,Food,3
+21,Champagne & OJ,Liquor,Alcohol,8
+21,Child's Brunch/year,Entrees,Food,18
+21,Chili Lime Hummus,Appetizers,Food,4
+21,Chipotle Fish Pocket,Entrees,Food,8
+21,Chivas Regal,Liquor,Alcohol,5
+21,Chix Cranberry Salad,Soups/Salads,Food,63
+21,Chocolate Bar,Appetizers,Food,109
+21,Cilantro Chix Quessadilla,Entrees,Food,11
+21,Clam & Chorizo Hot Pot,Appetizers,Food,10
+21,Classic Caesar,Soups/Salads,Food,31
+21,Classic Martini Gin,Liquor,Alcohol,1
+21,Classic Martini Vodka,Liquor,Alcohol,2
+21,Coffee,Non Alc Beverage,Food,1151
+21,Coffee and Doughnuts,Desserts,Food,7
+21,Coffee muffin,Breakfast,Food,50
+21,Collins Gin,Liquor,Alcohol,2
+21,Coolers,Coolers/Ciders,Alcohol,57
+21,Coors Light,Bottled Beer,Alcohol,23
+21,Corona,Bottled Beer,Alcohol,3
+21,Cosmopolitan,Liquor,Alcohol,2
+21,Crab & Artichoke,Appetizers,Food,-3
+21,Cracked Frank's Member Sleeve,Draft Beer,Alcohol,62
+21,Crown Royal,Liquor,Alcohol,4
+21,Daquiri,Liquor,Alcohol,1
+21,Dark Rum,Liquor,Alcohol,8
+21,DB  Gin,Liquor,Alcohol,1
+21,DB Caesar,Liquor,Alcohol,15
+21,DB Dark Rum,Liquor,Alcohol,2
+21,DB Glenfiddich,Liquor,Alcohol,3
+21,DB Rye,Liquor,Alcohol,3
+21,DB Vodka,Liquor,Alcohol,1
+21,DB WhiteRum,Liquor,Alcohol,2
+21,Dbl Highballs,Liquor,Alcohol,3
+21,Dbl Premium Highballs,Liquor,Alcohol,10
+21,Dessert $5,Desserts,Food,15
+21,Dessert $6,Desserts,Food,19
+21,Domestic Beer,Canned Beer,Alcohol,215
+21,Eaglehawk Shiraz,Wine,Alcohol,17
+21,Espresso,Non Alc Beverage,Food,1
+21,Event Buffet,Entrees,Food,17
+21,Express Sandwich,Sandwiches,Food,118
+21,Feature Pitcher,Draft Beer,Alcohol,2
+21,First Time Golfer,Liquor,Alcohol,2
+21,Fri Cheese Plate,Entrees,Food,1
+21,Fruit Juices,Non Alc Beverage,Food,21
+21,G2,Non Alc Beverage,Food,99
+21,Garlic Bread,Soups/Salads,Food,16
+21,Garlic Herb Ribs,Appetizers,Food,21
+21,Gatorade,Non Alc Beverage,Food,15
+21,Gin,Liquor,Alcohol,26
+21,Gl Beringer Zinfandel,Wine,Alcohol,1
+21,Gl Guinness,Draft Beer,Alcohol,1
+21,Gl Lindemans Bin 45 Cabernet,Wine,Alcohol,36
+21,Gl Lindemans Bin 65 Chard,Wine,Alcohol,14
+21,Gl Linden Bay Merlot,Wine,Alcohol,42
+21,GL Mezzamondo Negroamaro,Wine,Alcohol,4
+21,Gl Naked Grape Pinot Grigio,Wine,Alcohol,88
+21,GL Rosemnt Road R,Wine,Alcohol,24
+21,Gl Rosemnt Road W,Wine,Alcohol,19
+21,Gl Shandy,Draft Beer,Alcohol,2
+21,GlaBeringer White Zinfandel,Wine,Alcohol,2
+21,GlaEaglehawk Shiraz,Wine,Alcohol,11
+21,GlaLager,Draft Beer,Alcohol,44
+21,GlaRace Rocks,Draft Beer,Alcohol,2
+21,GlaSumac Ridge Gewurztraminer,Wine,Alcohol,5
+21,GlaWater,Non Alc Beverage,Food,9
+21,Glawine,Wine,Alcohol,3
+21,GlaWinter Ale,Draft Beer,Alcohol,31
+21,GlaWolfblaRed Label CabMerlot,Wine,Alcohol,6
+21,Glenfiddich,Liquor,Alcohol,1
+21,Glenlivet,Liquor,Alcohol,2
+21,Gls. Eaglehawk Chardonay,Wine,Alcohol,14
+21,Grand Marnier,Liquor,Alcohol,3
+21,Greek Chicken Salad,Soups/Salads,Food,3
+21,Greek Pizza,Entrees,Food,6
+21,Grey Goose,Liquor,Alcohol,2
+21,Grilled Chicken Clubhouse,Sandwiches,Food,108
+21,Growers Apple,Coolers/Ciders,Alcohol,13
+21,Growers Pear,Coolers/Ciders,Alcohol,14
+21,Growers Pomegranate,Coolers/Ciders,Alcohol,9
+21,Guinness,Draft Beer,Alcohol,18
+21,Half Pound Wings,Appetizers,Food,19
+21,Half Sandwich,Sandwiches,Food,22
+21,Halibut & Chips,Entrees,Food,47
+21,Heineken,Bottled Beer,Alcohol,16
+21,Herman's Dark Lager,Bottled Beer,Alcohol,3
+21,Host Beer,Bottled Beer,Alcohol,-3
+21,Host Cooler/Cider,Coolers/Ciders,Alcohol,-1
+21,Host Domestic Btl,Wine,Alcohol,8
+21,Host draft Beer,Draft Beer,Alcohol,-2
+21,Host Hiball,Bottled Beer,Alcohol,-28
+21,Host Import Btl,Wine,Alcohol,-10
+21,Host Pop,Non Alc Beverage,Food,-13
+21,Host Premium,Bottled Beer,Alcohol,-3
+21,Hot Chocolate,Non Alc Beverage,Food,17
+21,Hot Dog,Sandwiches,Food,266
+21,Hummus & Flat Bread,Appetizers,Food,26
+21,Ice Tea,Non Alc Beverage,Food,53
+21,Inniskillan Pinot Noir,Wine,Alcohol,3
+21,J.W. Red,Liquor,Alcohol,3
+21,Jambalaya,Entrees,Food,8
+21,Jug Black Lager,Canned Beer,Alcohol,2
+21,Jug Lager,Draft Beer,Alcohol,16
+21,Jug Winter Ale,Draft Beer,Alcohol,4
+21,Juice,Non Alc Beverage,Food,137
+21,Kids Chicken Fingers,Entrees,Food,4
+21,Kids Pasta,Entrees,Food,1
+21,Kids Trio Burger / Fries,Entrees,Food,2
+21,Kim Crawford Sauvignon Blanc,Wine,Alcohol,2
+21,Kokanee,Bottled Beer,Alcohol,13
+21,Korean Beef Satays,Appetizers,Food,-3
+21,Korean Beef Stirfry,Entrees,Food,11
+21,Kumala Chenin Chard,Wine,Alcohol,1
+21,Lamb Souvlaki,Entrees,Food,38
+21,Large Pop,Non Alc Beverage,Food,1186
+21,Lemonade,Non Alc Beverage,Food,8
+21,Long Island,Liquor,Alcohol,4
+21,Louis Latour LArdeche,Wine,Alcohol,2
+21,Ltr Linden Bay Merlot,Wine,Alcohol,5
+21,Ltr Naked Grape Pinot Grigio,Wine,Alcohol,10
+21,Manhattan,Liquor,Alcohol,3
+21,Margarita,Liquor,Alcohol,8
+21,Margarita Special,Liquor,Alcohol,17
+21,Meal Size Garden Greens,Soups/Salads,Food,27
+21,Meal Size Soup,Soups/Salads,Food,10
+21,Med Coffee Thermos,Non Alc Beverage,Food,-2
+21,Mediterranean Chix Wrap,Burgers,Food,77
+21,Mediterranean Pizza,Entrees,Food,17
+21,Member 1/2 Litre,Wine,Alcohol,1
+21,Member House Wine,Wine,Alcohol,12
+21,Member Jug,Draft Beer,Alcohol,9
+21,Member Sleeve,Draft Beer,Alcohol,156
+21,Milk,Non Alc Beverage,Food,9
+21,Milkshake,Desserts,Food,13
+21,Miller Genuine Draft,Canned Beer,Alcohol,10
+21,Mini Liquor,Liquor,Alcohol,44
+21,Mocha,Non Alc Beverage,Food,9
+21,Monster,Non Alc Beverage,Food,1
+21,Mother's Day Brunch,Entrees,Food,10
+21,Motts Caesar,Coolers/Ciders,Alcohol,31
+21,Muffin,Appetizers,Food,93
+21,Mug Shandy,Draft Beer,Alcohol,13
+21,N/A Punch,Non Alc Beverage,Food,0
+21,Naked Grape Spritzer,Coolers/Ciders,Alcohol,4
+21,Non-Alcoholic Beer,Non Alc Beverage,Food,10
+21,NY Steak & Frites,Entrees,Food,17
+21,Oban,Liquor,Alcohol,2
+21,One Piece Halibut & Chips,Entrees,Food,5
+21,Paralyzer Vodka,Liquor,Alcohol,7
+21,Pasta Night $21.95,Entrees,Food,100
+21,Penfolds Bin 2 Shiraz Mourvedre,Wine,Alcohol,4
+21,Penfolds Koonunga Hill Shrz Cab,Wine,Alcohol,4
+21,Petalus Dosoyoos Larose,Wine,Alcohol,3
+21,Phat Italian,Burgers,Food,25
+21,Pint 1516 Lager,Draft Beer,Alcohol,232
+21,Pint Black Lager,Draft Beer,Alcohol,70
+21,Pint Race Rocks,Draft Beer,Alcohol,4
+21,Pint Sleeman Honey,Draft Beer,Alcohol,123
+21,Pint Winter Ale,Draft Beer,Alcohol,216
+21,Pizza Margarita,Burgers,Food,38
+21,PizzaThe Italian,Entrees,Food,35
+21,Pound Wings,Appetizers,Food,37
+21,Power Bar,Sandwiches,Food,9
+21,Premium Beer,Canned Beer,Alcohol,197
+21,Premium Gin Martini,Liquor,Alcohol,5
+21,Premium Highball,Liquor,Alcohol,18
+21,Prime Rib Burger,Burgers,Food,143
+21,Pulled Pork Sandwich,Burgers,Food,35
+21,Quails Gate Pinot Blanc,Wine,Alcohol,3
+21,Remy Martin VSOP,Liquor,Alcohol,2
+21,Rusty Nail,Liquor,Alcohol,3
+21,Rye,Liquor,Alcohol,9
+21,Salmon Benedict,Breakfast,Food,13
+21,San Pellegrino,Non Alc Beverage,Food,10
+21,Sandwich,Sandwiches,Food,203
+21,Sandwich ONLY,Sandwiches,Food,10
+21,Sandwich to go,Sandwiches,Food,13
+21,Sat Feature Wine,Wine,Alcohol,2
+21,Sat Fish & Chip,Entrees,Food,6
+21,Schooner Lager,Draft Beer,Alcohol,7
+21,Schooner Pale,Draft Beer,Alcohol,3
+21,ScrewDriver,Liquor,Alcohol,2
+21,Seafood Pappardelle,Entrees,Food,36
+21,Shooters,Liquor,Alcohol,20
+21,Shot in the Dark,Wine,Alcohol,1
+21,Side Bacon,Breakfast,Food,5
+21,Side Fruit,Breakfast,Food,8
+21,Side Hashbrowns,Breakfast,Food,2
+21,Side Maple Sausage,Breakfast,Food,1
+21,Side of Fries,Appetizers,Food,11
+21,Side Toast,Breakfast,Food,5
+21,Sleeman HB Glass,Draft Beer,Alcohol,15
+21,Sleeman Jugs,Draft Beer,Alcohol,8
+21,Smirnoff Ice,Coolers/Ciders,Alcohol,13
+21,Smoked Salmon Wrap,Sandwiches,Food,-2
+21,Smokie,Sandwiches,Food,38
+21,Sol,Bottled Beer,Alcohol,36
+21,Sorbet,Desserts,Food,3
+21,Spanish Coffee,Liquor,Alcohol,4
+21,Special $23,Entrees,Food,1
+21,Special $9,Entrees,Food,5
+21,Special 10.00,Entrees,Food,9
+21,Special 11.00,Entrees,Food,9
+21,Special 12.00,Entrees,Food,2
+21,Special 17.00,Entrees,Food,2
+21,Special 18.00,Entrees,Food,8
+21,Special 19.00,Entrees,Food,15
+21,Special 22.00,Entrees,Food,18
+21,Special 8.00,Entrees,Food,13
+21,Spiced Apple Crumble,Burgers,Food,2
+21,Spicy Chicken Soba,Burgers,Food,35
+21,Spicy Meat Pizza,Entrees,Food,7
+21,Springbank 10yr,Liquor,Alcohol,1
+21,Starter Classic Caesar,Soups/Salads,Food,22
+21,Stella Artois,Bottled Beer,Alcohol,19
+21,Sunday Caesar Feature,Liquor,Alcohol,2
+21,Sundried Tomato Ravioli,Entrees,Food,14
+21,Tapas Beef,Appetizers,Food,3
+21,Tapas Chef Choice,Appetizers,Food,13
+21,Tapas Chicken,Appetizers,Food,12
+21,Tapas Vegetarian,Appetizers,Food,3
+21,Tea,Non Alc Beverage,Food,106
+21,Three Cheese Flatbread,Appetizers,Food,11
+21,Three Piece Halibut & Chips,Entrees,Food,2
+21,Thur Dry Rib,Appetizers,Food,3
+21,Thur Import Beer,Bottled Beer,Alcohol,5
+21,Tue Fish Taco,Entrees,Food,5
+21,Ultimate Steak Sandwich,Sandwiches,Food,54
+21,Valentines Dinner,Entrees,Food,4
+21,Vegetable Spinach Ciabatta,Burgers,Food,53
+21,Virgin Caesar,Non Alc Beverage,Food,3
+21,Vodka,Liquor,Alcohol,38
+21,Water-Bottle,Non Alc Beverage,Food,141
+21,Wednesday Appy,Appetizers,Food,37
+21,Wednesday Gl Wine,Wine,Alcohol,18
+21,Wednesday Sleeve,Draft Beer,Alcohol,91
+21,West Coast Seafood Salad,Soups/Salads,Food,19
+21,White Rum,Liquor,Alcohol,28
+21,Wine Spritzer,Wine,Alcohol,5
+21,Wolf Bla40 Cab/Shrz/Mer,Wine,Alcohol,3
+21,Wolf BlaDinner,Entrees,Food,6
+21,Wolf BlaWine,Wine,Alcohol,7
+21,WolfblaRed Label Cab Merlot,Wine,Alcohol,11
+21,Woody's Cooler,Coolers/Ciders,Alcohol,2
+21,Wynns Riesling,Wine,Alcohol,1
+21,Yam Fries,Appetizers,Food,37
+22,$12 Express Lunch,Entrees,Food,42
+22,$7 Martini Special,Liquor,Alcohol,3
+22,* Course Break,Entrees,Food,40
+22,* Don't Make,Appetizers,Food,49
+22,* Fire Order,Food Modifiers,Food,27
+22,1/2 Lindemans Bin 45 Cabernet,Wine,Alcohol,3
+22,1/2 Lindemans Bin 65 Chard,Wine,Alcohol,2
+22,1/2 Sandwich,Sandwiches,Food,77
+22,1/2L Eaglehawk Chard,Wine,Alcohol,1
+22,1/2L Eaglehawk Shiraz,Wine,Alcohol,2
+22,1/2L Linden Bay Merlot,Wine,Alcohol,7
+22,1/2L Naked Grape Pinot Grigio,Wine,Alcohol,15
+22,1/2L Rosemnt Road R,Wine,Alcohol,11
+22,1/2L Rosemnt Road W,Wine,Alcohol,1
+22,1/2L WolfblaCab Merlot,Wine,Alcohol,2
+22,2 Breakfast Sannys,Breakfast,Food,26
+22,2 eggs and toast,Breakfast,Food,8
+22,2 pc Snapper & Chips,Entrees,Food,5
+22,3 Course Dinner Appy,Appetizers,Food,7
+22,3 Course Dinner Dessert,Desserts,Food,4
+22,3 Course Dinner Entree,Entrees,Food,10
+22,4 Choice Tapas,Appetizers,Food,33
+22,4 Pack Premium,Canned Beer,Alcohol,35
+22,4oz  2 GlaWine,Wine,Alcohol,16
+22,4oz Wine Glass,Wine,Alcohol,1
+22,4pk Domestic Cans,Canned Beer,Alcohol,54
+22,5 Pack Domestic,Canned Beer,Alcohol,19
+22,5 Pack Premium,Canned Beer,Alcohol,18
+22,50% off muffin,Appetizers,Food,7
+22,50% off Sandwich,Sandwiches,Food,26
+22,Add Chicken,Entrees,Food,10
+22,Add Chicken,Soups/Salads,Food,11
+22,Add Prawns,Entrees,Food,5
+22,Add Sauteed Mushrooms,Entrees,Food,1
+22,Appy Platter,Appetizers,Food,28
+22,Artisan Greens Starter,Soups/Salads,Food,7
+22,B 52 Coffee,Liquor,Alcohol,3
+22,Bac. Pineapple,Coolers/Ciders,Alcohol,1
+22,Bacardi,Liquor,Alcohol,5
+22,Bag - Peanuts,Appetizers,Food,40
+22,Bag of Chips,Appetizers,Food,144
+22,Baileys Coffee,Liquor,Alcohol,13
+22,Baileys Irish Cream,Liquor,Alcohol,5
+22,Barbeque Chicken Pizza,Entrees,Food,12
+22,Basket Fries,Appetizers,Food,12
+22,Bayou Bourban Choc Torte,Desserts,Food,13
+22,Beringer White Zinfandel,Wine,Alcohol,1
+22,Bin end $17.95,Wine,Alcohol,5
+22,Bin end $19.95,Wine,Alcohol,3
+22,Bin end $21,Wine,Alcohol,7
+22,Bin end $26,Wine,Alcohol,2
+22,Bin end $27,Wine,Alcohol,1
+22,Bin end $36,Wine,Alcohol,1
+22,Bin end $70,Wine,Alcohol,2
+22,Bin End 39.95,Wine,Alcohol,1
+22,Black Lager Glass,Draft Beer,Alcohol,8
+22,Bocconcini Salad,Burgers,Food,33
+22,Bombay Sapphire,Liquor,Alcohol,3
+22,Bottle La Veille Ferme,Wine,Alcohol,1
+22,Bottle of Pop,Non Alc Beverage,Food,257
+22,Bottle Rosemount Road Red,Wine,Alcohol,6
+22,Bowl Chowder,Soups/Salads,Food,122
+22,Bowl Soup,Soups/Salads,Food,122
+22,Breakfast Sandw ONLY,Breakfast,Food,25
+22,Breakfast Sandwich,Breakfast,Food,47
+22,Brown Cow,Liquor,Alcohol,2
+22,Brunch Eggs Benny,Breakfast,Food,24
+22,Brunch Golfers,Breakfast,Food,38
+22,Brunch Omelette,Breakfast,Food,17
+22,Brunch Waffles,Breakfast,Food,5
+22,Btl Banrock Station Unwood Chard,Wine,Alcohol,2
+22,Btl Beringer Zinfan,Wine,Alcohol,1
+22,BTL Jackson Triggs Pinot Noir,Wine,Alcohol,2
+22,BTL Jackson Triggs Sav Blanc,Wine,Alcohol,2
+22,BTL Mezzamondo Negroamaro,Wine,Alcohol,3
+22,BTL Toasted Head Merlot,Wine,Alcohol,4
+22,Btl Wolf BlaChard,Wine,Alcohol,2
+22,Bucket of Sol,Bottled Beer,Alcohol,23
+22,Budweiser,Bottled Beer,Alcohol,82
+22,Butter Chicken,Entrees,Food,3
+22,Caesar,Liquor,Alcohol,54
+22,Cajun Chicken Spinach Salad,Soups/Salads,Food,11
+22,Cajun Halibut Burger,Burgers,Food,35
+22,Canadian,Bottled Beer,Alcohol,18
+22,Cappuccino,Non Alc Beverage,Food,8
+22,Captain Morgan Spice,Liquor,Alcohol,5
+22,Cash Bar - Coolers,Coolers/Ciders,Alcohol,2
+22,Cash Bar - Highball,Liquor,Alcohol,18
+22,Cash Bar - Pop,Non Alc Beverage,Food,16
+22,Cash Bar - Wine Gl,Wine,Alcohol,56
+22,CASH Dom Beer,Bottled Beer,Alcohol,14
+22,CASH Premium,Bottled Beer,Alcohol,3
+22,Cassis,Liquor,Alcohol,2
+22,Cedar Plank Salmon,Entrees,Food,2
+22,Champagne & OJ,Liquor,Alcohol,5
+22,Chili Lime Hummus,Appetizers,Food,11
+22,Chipotle Fish Pocket,Entrees,Food,9
+22,Chix Cranberry Salad,Soups/Salads,Food,84
+22,Chocolate Bar,Appetizers,Food,123
+22,Cilantro Chix Quessadilla,Entrees,Food,3
+22,Clam & Chorizo Hot Pot,Appetizers,Food,12
+22,Classic Caesar,Soups/Salads,Food,42
+22,Classic Martini Gin,Liquor,Alcohol,7
+22,Classic Martini Vodka,Liquor,Alcohol,3
+22,Coffee,Non Alc Beverage,Food,1046
+22,Coffee and Doughnuts,Desserts,Food,5
+22,Coffee muffin,Breakfast,Food,26
+22,Continental Brunch,Breakfast,Food,1
+22,Coolers,Coolers/Ciders,Alcohol,99
+22,Coors Light,Bottled Beer,Alcohol,52
+22,Corona,Bottled Beer,Alcohol,5
+22,Cracked Frank's Member Sleeve,Draft Beer,Alcohol,66
+22,Crantini,Liquor,Alcohol,2
+22,Crown Royal,Liquor,Alcohol,5
+22,Dark Rum,Liquor,Alcohol,1
+22,DB Bombay Sapphire,Liquor,Alcohol,1
+22,DB Caesar,Liquor,Alcohol,13
+22,DB Crown Royal,Liquor,Alcohol,2
+22,DB Dark Rum,Liquor,Alcohol,5
+22,DB Drambuie,Liquor,Alcohol,1
+22,DB Glenfiddich,Liquor,Alcohol,2
+22,DB Glenlivet,Liquor,Alcohol,2
+22,DB Grey Goose,Liquor,Alcohol,1
+22,DB P'lyzer Vodka,Liquor,Alcohol,6
+22,DB Rye,Liquor,Alcohol,2
+22,DB Stoli,Liquor,Alcohol,3
+22,DB Vodka,Liquor,Alcohol,2
+22,DB WhiteRum,Liquor,Alcohol,2
+22,Dbl Dewars,Liquor,Alcohol,2
+22,Dbl Highballs,Liquor,Alcohol,7
+22,Dessert $5,Desserts,Food,16
+22,Dessert $6,Desserts,Food,11
+22,Dewars,Liquor,Alcohol,2
+22,Domestic Beer,Canned Beer,Alcohol,310
+22,Drambuie,Liquor,Alcohol,3
+22,Eaglehawk Shiraz,Wine,Alcohol,19
+22,Espresso,Non Alc Beverage,Food,3
+22,Event Buffet,Entrees,Food,7
+22,Express Sandwich,Sandwiches,Food,100
+22,Extra Cheese,Breakfast,Food,1
+22,Feature Pitcher,Draft Beer,Alcohol,6
+22,Fri Cheese Plate,Entrees,Food,1
+22,Fruit Juices,Non Alc Beverage,Food,40
+22,G2,Non Alc Beverage,Food,67
+22,Gabbiano Pinot Grigio,Wine,Alcohol,3
+22,Garlic Bread,Soups/Salads,Food,13
+22,Garlic Herb Ribs,Appetizers,Food,31
+22,Gatorade,Non Alc Beverage,Food,50
+22,Gin,Liquor,Alcohol,22
+22,Gl Beringer Zinfandel,Wine,Alcohol,3
+22,Gl Lindemans Bin 45 Cabernet,Wine,Alcohol,33
+22,Gl Lindemans Bin 65 Chard,Wine,Alcohol,16
+22,Gl Linden Bay Merlot,Wine,Alcohol,44
+22,GL Mezzamondo Negroamaro,Wine,Alcohol,3
+22,Gl Naked Grape Pinot Grigio,Wine,Alcohol,76
+22,GL Rosemnt Road R,Wine,Alcohol,14
+22,Gl Rosemnt Road W,Wine,Alcohol,13
+22,GlaEaglehawk Shiraz,Wine,Alcohol,8
+22,GlaLager,Draft Beer,Alcohol,39
+22,GlaLatour Ardeche,Wine,Alcohol,1
+22,GlaPerrin Reserve,Wine,Alcohol,3
+22,GlaRed Label Unwooded Chardonnay,Wine,Alcohol,2
+22,GlaSumac Ridge Gewurztraminer,Wine,Alcohol,3
+22,GlaWater,Non Alc Beverage,Food,14
+22,Glawine,Wine,Alcohol,4
+22,GlaWinter Ale,Draft Beer,Alcohol,42
+22,GlaWolfblaRed Label CabMerlot,Wine,Alcohol,9
+22,Glenfiddich,Liquor,Alcohol,1
+22,Glenlivet,Liquor,Alcohol,1
+22,Gls. Eaglehawk Chardonay,Wine,Alcohol,12
+22,Grand Marnier,Liquor,Alcohol,5
+22,Greek Chicken Salad,Soups/Salads,Food,5
+22,Greek Pizza,Entrees,Food,12
+22,Grilled Chicken Clubhouse,Sandwiches,Food,163
+22,Growers Apple,Coolers/Ciders,Alcohol,13
+22,Growers Pear,Coolers/Ciders,Alcohol,10
+22,Growers Pomegranate,Coolers/Ciders,Alcohol,5
+22,Guinness,Draft Beer,Alcohol,25
+22,Half Pound Wings,Appetizers,Food,25
+22,Half Sandwich,Sandwiches,Food,37
+22,Halibut & Chips,Entrees,Food,43
+22,Hardy's Oomo Shiraz,Wine,Alcohol,1
+22,Heineken,Bottled Beer,Alcohol,43
+22,Herman's Dark Lager,Bottled Beer,Alcohol,5
+22,Host Beer,Bottled Beer,Alcohol,22
+22,Host Gl Wine,Wine,Alcohol,95
+22,Host Import Gl,Wine,Alcohol,2
+22,Host Premium,Bottled Beer,Alcohol,4
+22,Host Premium Liq,Liquor,Alcohol,4
+22,Hot Chocolate,Non Alc Beverage,Food,18
+22,Hot Dog,Sandwiches,Food,237
+22,Hummus & Flat Bread,Appetizers,Food,7
+22,Ice Tea,Non Alc Beverage,Food,42
+22,Inniskillan Pinot Noir,Wine,Alcohol,2
+22,Jack Daniels,Liquor,Alcohol,1
+22,Jackson Triggs Esprit Chard,Wine,Alcohol,2
+22,Jackson Triggs Viogner,Wine,Alcohol,1
+22,Jambalaya,Entrees,Food,20
+22,Jameson,Liquor,Alcohol,2
+22,Jug Lager,Draft Beer,Alcohol,28
+22,Jug Winter Ale,Draft Beer,Alcohol,31
+22,Juice,Non Alc Beverage,Food,89
+22,Kids Chicken Fingers,Entrees,Food,5
+22,Kids Grilled Cheese,Entrees,Food,2
+22,Kids Pasta,Entrees,Food,3
+22,Kim Crawford Sauvignon Blanc,Wine,Alcohol,2
+22,Kokanee,Bottled Beer,Alcohol,32
+22,Korean Beef Stirfry,Entrees,Food,7
+22,Lamb Souvlaki,Entrees,Food,45
+22,Large Pop,Non Alc Beverage,Food,814
+22,Latour Bourgogne P Noir,Wine,Alcohol,1
+22,Latte,Non Alc Beverage,Food,18
+22,Lemonade,Non Alc Beverage,Food,15
+22,Litre Lindemans Bin 45 Cab Sauv,Wine,Alcohol,3
+22,Louis Latour LArdeche,Wine,Alcohol,4
+22,Ltr Linden Bay Merlot,Wine,Alcohol,7
+22,Ltr Naked Grape Pinot Grigio,Wine,Alcohol,9
+22,Margarita,Liquor,Alcohol,3
+22,Margarita Night Sol,Bottled Beer,Alcohol,2
+22,Margarita Special,Liquor,Alcohol,14
+22,Mario's Vanilla Gelato,Desserts,Food,6
+22,Matua Sav Blanc,Wine,Alcohol,3
+22,Meal Size Garden Greens,Soups/Salads,Food,20
+22,Meal Size Soup,Soups/Salads,Food,13
+22,Mediterranean Chix Wrap,Burgers,Food,82
+22,Mediterranean Pizza,Entrees,Food,14
+22,Member House Wine,Wine,Alcohol,10
+22,Member Jug,Draft Beer,Alcohol,10
+22,Member Sleeve,Draft Beer,Alcohol,67
+22,Milk,Non Alc Beverage,Food,6
+22,Milkshake,Desserts,Food,3
+22,Miller Genuine Draft,Canned Beer,Alcohol,18
+22,Mini Liquor,Liquor,Alcohol,34
+22,Mocha,Non Alc Beverage,Food,3
+22,Mocktails,Non Alc Beverage,Food,6
+22,Mother's Day Brunch,Entrees,Food,2
+22,Motts Caesar,Coolers/Ciders,Alcohol,76
+22,Muffin,Appetizers,Food,85
+22,Mug Shandy,Draft Beer,Alcohol,6
+22,N/A Punch,Non Alc Beverage,Food,1
+22,Naked Grape Spritzer,Coolers/Ciders,Alcohol,5
+22,Non-Alcoholic Beer,Non Alc Beverage,Food,9
+22,NY Steak & Frites,Entrees,Food,29
+22,Oban,Liquor,Alcohol,3
+22,One Piece Halibut & Chips,Entrees,Food,11
+22,Paralyzer Vodka,Liquor,Alcohol,3
+22,Pasta Night $21.95,Entrees,Food,101
+22,Penfolds Bin 2 Shiraz Mourvedre,Wine,Alcohol,2
+22,Penfolds Koonunga Hill Shrz Cab,Wine,Alcohol,6
+22,Petalus Dosoyoos Larose,Wine,Alcohol,3
+22,Phat Italian,Burgers,Food,17
+22,Pint 1516 Lager,Draft Beer,Alcohol,186
+22,Pint Black Lager,Draft Beer,Alcohol,44
+22,Pint Race Rocks,Draft Beer,Alcohol,6
+22,Pint Sleeman Honey,Draft Beer,Alcohol,117
+22,Pint Winter Ale,Draft Beer,Alcohol,216
+22,Pizza Margarita,Burgers,Food,48
+22,PizzaThe Italian,Entrees,Food,79
+22,Polar Bear,Liquor,Alcohol,2
+22,Pound Wings,Appetizers,Food,30
+22,Power Bar,Sandwiches,Food,15
+22,Prawn Saganaki,Appetizers,Food,1
+22,Premium Beer,Canned Beer,Alcohol,290
+22,Premium Highball,Liquor,Alcohol,12
+22,Premium Vodka Martini,Liquor,Alcohol,1
+22,Prime Rib Burger,Burgers,Food,155
+22,Pulled Pork Sandwich,Burgers,Food,26
+22,Quails Gate Pinot Blanc,Wine,Alcohol,3
+22,Ravenswood Zinfandel,Wine,Alcohol,4
+22,Robert Mondavi Merlot,Wine,Alcohol,1
+22,Rye,Liquor,Alcohol,6
+22,Salmon Benedict,Breakfast,Food,5
+22,San Pellegrino,Non Alc Beverage,Food,16
+22,Sandwich,Sandwiches,Food,182
+22,Sandwich ONLY,Sandwiches,Food,8
+22,Sandwich to go,Sandwiches,Food,16
+22,Sat Fish & Chip,Entrees,Food,4
+22,Schooner Lager,Draft Beer,Alcohol,5
+22,Schooner Pale,Draft Beer,Alcohol,3
+22,Schooner Shaft Cream Ale,Draft Beer,Alcohol,2
+22,Seafood Pappardelle,Entrees,Food,17
+22,Seaview Brut Champagne,Wine,Alcohol,2
+22,Shirley Temple,Non Alc Beverage,Food,2
+22,Side Bacon,Breakfast,Food,2
+22,Side Fruit,Breakfast,Food,3
+22,Side of Fries,Appetizers,Food,16
+22,Side Toast,Breakfast,Food,7
+22,Sleeman HB Glass,Draft Beer,Alcohol,12
+22,Sleeman Jugs,Draft Beer,Alcohol,8
+22,Sleeman Schooner,Draft Beer,Alcohol,4
+22,Smirnoff Ice,Coolers/Ciders,Alcohol,14
+22,Smokie,Sandwiches,Food,27
+22,Sol,Bottled Beer,Alcohol,38
+22,Sorbet,Desserts,Food,4
+22,Sour Apple Martini,Liquor,Alcohol,2
+22,Spanish Coffee,Liquor,Alcohol,1
+22,Sparkling Juice @ $ 12.00,Non Alc Beverage,Food,6
+22,Special $21,Entrees,Food,2
+22,Special $22,Entrees,Food,2
+22,Special $9,Entrees,Food,3
+22,Special 10.00,Entrees,Food,21
+22,Special 11.00,Entrees,Food,7
+22,Special 12.00,Entrees,Food,2
+22,Special 17.00,Entrees,Food,2
+22,Special 18.00,Entrees,Food,4
+22,Special 19.00,Entrees,Food,2
+22,Special 22.00,Entrees,Food,9
+22,Special 8.00,Entrees,Food,6
+22,Spiced Apple Crumble,Burgers,Food,2
+22,Spicy Chicken Soba,Burgers,Food,35
+22,Spicy Meat Pizza,Entrees,Food,6
+22,Starter Classic Caesar,Soups/Salads,Food,14
+22,Stella Artois,Bottled Beer,Alcohol,4
+22,Sumac Ridge Sauvignon Blanc,Wine,Alcohol,2
+22,Sumac Ridge Stellar Jay Brut,Wine,Alcohol,1
+22,Sunday Caesar Feature,Liquor,Alcohol,5
+22,Sundried Tomato Ravioli,Entrees,Food,4
+22,Tapas Beef,Appetizers,Food,2
+22,Tapas Chef Choice,Appetizers,Food,4
+22,Tapas Chicken,Appetizers,Food,1
+22,Tapas Seafood,Appetizers,Food,1
+22,Tapas Vegetarian,Appetizers,Food,1
+22,Tea,Non Alc Beverage,Food,101
+22,Three Cheese Flatbread,Appetizers,Food,15
+22,Thur Dry Rib,Appetizers,Food,9
+22,Touraine Sauvignon,Wine,Alcohol,1
+22,Tue Fish Taco,Entrees,Food,3
+22,Ultimate Steak Sandwich,Sandwiches,Food,46
+22,Valentines Dinner,Entrees,Food,3
+22,Vegetable Spinach Ciabatta,Burgers,Food,66
+22,Virgin Caesar,Non Alc Beverage,Food,8
+22,Vodka,Liquor,Alcohol,36
+22,Water-Bottle,Non Alc Beverage,Food,153
+22,Wednesday Appy,Appetizers,Food,37
+22,Wednesday Gl Wine,Wine,Alcohol,41
+22,Wednesday Sleeve,Draft Beer,Alcohol,112
+22,West Coast Seafood Salad,Soups/Salads,Food,25
+22,White Rum,Liquor,Alcohol,20
+22,Wine Spritzer,Wine,Alcohol,3
+22,Wolf BlaDinner,Entrees,Food,2
+22,Wolf BlaGold Cab Franc,Wine,Alcohol,2
+22,Wolf BlaWine,Wine,Alcohol,2
+22,WolfblaRed Label Cab Merlot,Wine,Alcohol,19
+22,Yam Fries,Appetizers,Food,51
+22,Yellowglen Pink for 2,Wine,Alcohol,3
+22,Zed Sauvignon Blanc,Wine,Alcohol,2
+23,$12 Express Lunch,Entrees,Food,42
+23,$7 Martini Special,Liquor,Alcohol,3
+23,* Course Break,Entrees,Food,40
+23,* Don't Make,Appetizers,Food,49
+23,* Fire Order,Food Modifiers,Food,27
+23,1/2 Lindemans Bin 45 Cabernet,Wine,Alcohol,3
+23,1/2 Lindemans Bin 65 Chard,Wine,Alcohol,2
+23,1/2 Sandwich,Sandwiches,Food,77
+23,1/2L Eaglehawk Chard,Wine,Alcohol,1
+23,1/2L Eaglehawk Shiraz,Wine,Alcohol,2
+23,1/2L Linden Bay Merlot,Wine,Alcohol,7
+23,1/2L Naked Grape Pinot Grigio,Wine,Alcohol,15
+23,1/2L Rosemnt Road R,Wine,Alcohol,11
+23,1/2L Rosemnt Road W,Wine,Alcohol,1
+23,1/2L WolfblaCab Merlot,Wine,Alcohol,2
+23,2 Breakfast Sannys,Breakfast,Food,26
+23,2 eggs and toast,Breakfast,Food,8
+23,2 pc Snapper & Chips,Entrees,Food,5
+23,3 Course Dinner Appy,Appetizers,Food,7
+23,3 Course Dinner Dessert,Desserts,Food,4
+23,3 Course Dinner Entree,Entrees,Food,10
+23,4 Choice Tapas,Appetizers,Food,33
+23,4 Pack Premium,Canned Beer,Alcohol,35
+23,4oz  2 GlaWine,Wine,Alcohol,16
+23,4oz Wine Glass,Wine,Alcohol,1
+23,4pk Domestic Cans,Canned Beer,Alcohol,54
+23,5 Pack Domestic,Canned Beer,Alcohol,19
+23,5 Pack Premium,Canned Beer,Alcohol,18
+23,50% off muffin,Appetizers,Food,7
+23,50% off Sandwich,Sandwiches,Food,26
+23,Add Chicken,Entrees,Food,10
+23,Add Chicken,Soups/Salads,Food,11
+23,Add Prawns,Entrees,Food,5
+23,Add Sauteed Mushrooms,Entrees,Food,1
+23,Appy Platter,Appetizers,Food,28
+23,Artisan Greens Starter,Soups/Salads,Food,7
+23,B 52 Coffee,Liquor,Alcohol,3
+23,Bac. Pineapple,Coolers/Ciders,Alcohol,1
+23,Bacardi,Liquor,Alcohol,5
+23,Bag - Peanuts,Appetizers,Food,40
+23,Bag of Chips,Appetizers,Food,144
+23,Baileys Coffee,Liquor,Alcohol,13
+23,Baileys Irish Cream,Liquor,Alcohol,5
+23,Barbeque Chicken Pizza,Entrees,Food,12
+23,Basket Fries,Appetizers,Food,12
+23,Bayou Bourban Choc Torte,Desserts,Food,13
+23,Beringer White Zinfandel,Wine,Alcohol,1
+23,Bin end $17.95,Wine,Alcohol,5
+23,Bin end $19.95,Wine,Alcohol,3
+23,Bin end $21,Wine,Alcohol,7
+23,Bin end $26,Wine,Alcohol,2
+23,Bin end $27,Wine,Alcohol,1
+23,Bin end $36,Wine,Alcohol,1
+23,Bin end $70,Wine,Alcohol,2
+23,Bin End 39.95,Wine,Alcohol,1
+23,Black Lager Glass,Draft Beer,Alcohol,8
+23,Bocconcini Salad,Burgers,Food,33
+23,Bombay Sapphire,Liquor,Alcohol,3
+23,Bottle La Veille Ferme,Wine,Alcohol,1
+23,Bottle of Pop,Non Alc Beverage,Food,257
+23,Bottle Rosemount Road Red,Wine,Alcohol,6
+23,Bowl Chowder,Soups/Salads,Food,122
+23,Bowl Soup,Soups/Salads,Food,122
+23,Breakfast Sandw ONLY,Breakfast,Food,25
+23,Breakfast Sandwich,Breakfast,Food,47
+23,Brown Cow,Liquor,Alcohol,2
+23,Brunch Eggs Benny,Breakfast,Food,24
+23,Brunch Golfers,Breakfast,Food,38
+23,Brunch Omelette,Breakfast,Food,17
+23,Brunch Waffles,Breakfast,Food,5
+23,Btl Banrock Station Unwood Chard,Wine,Alcohol,2
+23,Btl Beringer Zinfan,Wine,Alcohol,1
+23,BTL Jackson Triggs Pinot Noir,Wine,Alcohol,2
+23,BTL Jackson Triggs Sav Blanc,Wine,Alcohol,2
+23,BTL Mezzamondo Negroamaro,Wine,Alcohol,3
+23,BTL Toasted Head Merlot,Wine,Alcohol,4
+23,Btl Wolf BlaChard,Wine,Alcohol,2
+23,Bucket of Sol,Bottled Beer,Alcohol,23
+23,Budweiser,Bottled Beer,Alcohol,82
+23,Butter Chicken,Entrees,Food,3
+23,Caesar,Liquor,Alcohol,54
+23,Cajun Chicken Spinach Salad,Soups/Salads,Food,11
+23,Cajun Halibut Burger,Burgers,Food,35
+23,Canadian,Bottled Beer,Alcohol,18
+23,Cappuccino,Non Alc Beverage,Food,8
+23,Captain Morgan Spice,Liquor,Alcohol,5
+23,Cash Bar - Coolers,Coolers/Ciders,Alcohol,2
+23,Cash Bar - Highball,Liquor,Alcohol,18
+23,Cash Bar - Pop,Non Alc Beverage,Food,16
+23,Cash Bar - Wine Gl,Wine,Alcohol,56
+23,CASH Dom Beer,Bottled Beer,Alcohol,14
+23,CASH Premium,Bottled Beer,Alcohol,3
+23,Cassis,Liquor,Alcohol,2
+23,Cedar Plank Salmon,Entrees,Food,2
+23,Champagne & OJ,Liquor,Alcohol,5
+23,Chili Lime Hummus,Appetizers,Food,11
+23,Chipotle Fish Pocket,Entrees,Food,9
+23,Chix Cranberry Salad,Soups/Salads,Food,84
+23,Chocolate Bar,Appetizers,Food,123
+23,Cilantro Chix Quessadilla,Entrees,Food,3
+23,Clam & Chorizo Hot Pot,Appetizers,Food,12
+23,Classic Caesar,Soups/Salads,Food,42
+23,Classic Martini Gin,Liquor,Alcohol,7
+23,Classic Martini Vodka,Liquor,Alcohol,3
+23,Coffee,Non Alc Beverage,Food,1046
+23,Coffee and Doughnuts,Desserts,Food,5
+23,Coffee muffin,Breakfast,Food,26
+23,Continental Brunch,Breakfast,Food,1
+23,Coolers,Coolers/Ciders,Alcohol,99
+23,Coors Light,Bottled Beer,Alcohol,52
+23,Corona,Bottled Beer,Alcohol,5
+23,Cracked Frank's Member Sleeve,Draft Beer,Alcohol,66
+23,Crantini,Liquor,Alcohol,2
+23,Crown Royal,Liquor,Alcohol,5
+23,Dark Rum,Liquor,Alcohol,1
+23,DB Bombay Sapphire,Liquor,Alcohol,1
+23,DB Caesar,Liquor,Alcohol,13
+23,DB Crown Royal,Liquor,Alcohol,2
+23,DB Dark Rum,Liquor,Alcohol,5
+23,DB Drambuie,Liquor,Alcohol,1
+23,DB Glenfiddich,Liquor,Alcohol,2
+23,DB Glenlivet,Liquor,Alcohol,2
+23,DB Grey Goose,Liquor,Alcohol,1
+23,DB P'lyzer Vodka,Liquor,Alcohol,6
+23,DB Rye,Liquor,Alcohol,2
+23,DB Stoli,Liquor,Alcohol,3
+23,DB Vodka,Liquor,Alcohol,2
+23,DB WhiteRum,Liquor,Alcohol,2
+23,Dbl Dewars,Liquor,Alcohol,2
+23,Dbl Highballs,Liquor,Alcohol,7
+23,Dessert $5,Desserts,Food,16
+23,Dessert $6,Desserts,Food,11
+23,Dewars,Liquor,Alcohol,2
+23,Domestic Beer,Canned Beer,Alcohol,310
+23,Drambuie,Liquor,Alcohol,3
+23,Eaglehawk Shiraz,Wine,Alcohol,19
+23,Espresso,Non Alc Beverage,Food,3
+23,Event Buffet,Entrees,Food,7
+23,Express Sandwich,Sandwiches,Food,100
+23,Extra Cheese,Breakfast,Food,1
+23,Feature Pitcher,Draft Beer,Alcohol,6
+23,Fri Cheese Plate,Entrees,Food,1
+23,Fruit Juices,Non Alc Beverage,Food,40
+23,G2,Non Alc Beverage,Food,67
+23,Gabbiano Pinot Grigio,Wine,Alcohol,3
+23,Garlic Bread,Soups/Salads,Food,13
+23,Garlic Herb Ribs,Appetizers,Food,31
+23,Gatorade,Non Alc Beverage,Food,50
+23,Gin,Liquor,Alcohol,22
+23,Gl Beringer Zinfandel,Wine,Alcohol,3
+23,Gl Lindemans Bin 45 Cabernet,Wine,Alcohol,33
+23,Gl Lindemans Bin 65 Chard,Wine,Alcohol,16
+23,Gl Linden Bay Merlot,Wine,Alcohol,44
+23,GL Mezzamondo Negroamaro,Wine,Alcohol,3
+23,Gl Naked Grape Pinot Grigio,Wine,Alcohol,76
+23,GL Rosemnt Road R,Wine,Alcohol,14
+23,Gl Rosemnt Road W,Wine,Alcohol,13
+23,GlaEaglehawk Shiraz,Wine,Alcohol,8
+23,GlaLager,Draft Beer,Alcohol,39
+23,GlaLatour Ardeche,Wine,Alcohol,1
+23,GlaPerrin Reserve,Wine,Alcohol,3
+23,GlaRed Label Unwooded Chardonnay,Wine,Alcohol,2
+23,GlaSumac Ridge Gewurztraminer,Wine,Alcohol,3
+23,GlaWater,Non Alc Beverage,Food,14
+23,Glawine,Wine,Alcohol,4
+23,GlaWinter Ale,Draft Beer,Alcohol,42
+23,GlaWolfblaRed Label CabMerlot,Wine,Alcohol,9
+23,Glenfiddich,Liquor,Alcohol,1
+23,Glenlivet,Liquor,Alcohol,1
+23,Gls. Eaglehawk Chardonay,Wine,Alcohol,12
+23,Grand Marnier,Liquor,Alcohol,5
+23,Greek Chicken Salad,Soups/Salads,Food,5
+23,Greek Pizza,Entrees,Food,12
+23,Grilled Chicken Clubhouse,Sandwiches,Food,163
+23,Growers Apple,Coolers/Ciders,Alcohol,13
+23,Growers Pear,Coolers/Ciders,Alcohol,10
+23,Growers Pomegranate,Coolers/Ciders,Alcohol,5
+23,Guinness,Draft Beer,Alcohol,25
+23,Half Pound Wings,Appetizers,Food,25
+23,Half Sandwich,Sandwiches,Food,37
+23,Halibut & Chips,Entrees,Food,43
+23,Hardy's Oomo Shiraz,Wine,Alcohol,1
+23,Heineken,Bottled Beer,Alcohol,43
+23,Herman's Dark Lager,Bottled Beer,Alcohol,5
+23,Host Beer,Bottled Beer,Alcohol,22
+23,Host Gl Wine,Wine,Alcohol,95
+23,Host Import Gl,Wine,Alcohol,2
+23,Host Premium,Bottled Beer,Alcohol,4
+23,Host Premium Liq,Liquor,Alcohol,4
+23,Hot Chocolate,Non Alc Beverage,Food,18
+23,Hot Dog,Sandwiches,Food,237
+23,Hummus & Flat Bread,Appetizers,Food,7
+23,Ice Tea,Non Alc Beverage,Food,42
+23,Inniskillan Pinot Noir,Wine,Alcohol,2
+23,Jack Daniels,Liquor,Alcohol,1
+23,Jackson Triggs Esprit Chard,Wine,Alcohol,2
+23,Jackson Triggs Viogner,Wine,Alcohol,1
+23,Jambalaya,Entrees,Food,20
+23,Jameson,Liquor,Alcohol,2
+23,Jug Lager,Draft Beer,Alcohol,28
+23,Jug Winter Ale,Draft Beer,Alcohol,31
+23,Juice,Non Alc Beverage,Food,89
+23,Kids Chicken Fingers,Entrees,Food,5
+23,Kids Grilled Cheese,Entrees,Food,2
+23,Kids Pasta,Entrees,Food,3
+23,Kim Crawford Sauvignon Blanc,Wine,Alcohol,2
+23,Kokanee,Bottled Beer,Alcohol,32
+23,Korean Beef Stirfry,Entrees,Food,7
+23,Lamb Souvlaki,Entrees,Food,45
+23,Large Pop,Non Alc Beverage,Food,814
+23,Latour Bourgogne P Noir,Wine,Alcohol,1
+23,Latte,Non Alc Beverage,Food,18
+23,Lemonade,Non Alc Beverage,Food,15
+23,Litre Lindemans Bin 45 Cab Sauv,Wine,Alcohol,3
+23,Louis Latour LArdeche,Wine,Alcohol,4
+23,Ltr Linden Bay Merlot,Wine,Alcohol,7
+23,Ltr Naked Grape Pinot Grigio,Wine,Alcohol,9
+23,Margarita,Liquor,Alcohol,3
+23,Margarita Night Sol,Bottled Beer,Alcohol,2
+23,Margarita Special,Liquor,Alcohol,14
+23,Mario's Vanilla Gelato,Desserts,Food,6
+23,Matua Sav Blanc,Wine,Alcohol,3
+23,Meal Size Garden Greens,Soups/Salads,Food,20
+23,Meal Size Soup,Soups/Salads,Food,13
+23,Mediterranean Chix Wrap,Burgers,Food,82
+23,Mediterranean Pizza,Entrees,Food,14
+23,Member House Wine,Wine,Alcohol,10
+23,Member Jug,Draft Beer,Alcohol,10
+23,Member Sleeve,Draft Beer,Alcohol,67
+23,Milk,Non Alc Beverage,Food,6
+23,Milkshake,Desserts,Food,3
+23,Miller Genuine Draft,Canned Beer,Alcohol,18
+23,Mini Liquor,Liquor,Alcohol,34
+23,Mocha,Non Alc Beverage,Food,3
+23,Mocktails,Non Alc Beverage,Food,6
+23,Mother's Day Brunch,Entrees,Food,2
+23,Motts Caesar,Coolers/Ciders,Alcohol,76
+23,Muffin,Appetizers,Food,85
+23,Mug Shandy,Draft Beer,Alcohol,6
+23,N/A Punch,Non Alc Beverage,Food,1
+23,Naked Grape Spritzer,Coolers/Ciders,Alcohol,5
+23,Non-Alcoholic Beer,Non Alc Beverage,Food,9
+23,NY Steak & Frites,Entrees,Food,29
+23,Oban,Liquor,Alcohol,3
+23,One Piece Halibut & Chips,Entrees,Food,11
+23,Paralyzer Vodka,Liquor,Alcohol,3
+23,Pasta Night $21.95,Entrees,Food,101
+23,Penfolds Bin 2 Shiraz Mourvedre,Wine,Alcohol,2
+23,Penfolds Koonunga Hill Shrz Cab,Wine,Alcohol,6
+23,Petalus Dosoyoos Larose,Wine,Alcohol,3
+23,Phat Italian,Burgers,Food,17
+23,Pint 1516 Lager,Draft Beer,Alcohol,186
+23,Pint Black Lager,Draft Beer,Alcohol,44
+23,Pint Race Rocks,Draft Beer,Alcohol,6
+23,Pint Sleeman Honey,Draft Beer,Alcohol,117
+23,Pint Winter Ale,Draft Beer,Alcohol,216
+23,Pizza Margarita,Burgers,Food,48
+23,PizzaThe Italian,Entrees,Food,79
+23,Polar Bear,Liquor,Alcohol,2
+23,Pound Wings,Appetizers,Food,30
+23,Power Bar,Sandwiches,Food,15
+23,Prawn Saganaki,Appetizers,Food,1
+23,Premium Beer,Canned Beer,Alcohol,290
+23,Premium Highball,Liquor,Alcohol,12
+23,Premium Vodka Martini,Liquor,Alcohol,1
+23,Prime Rib Burger,Burgers,Food,155
+23,Pulled Pork Sandwich,Burgers,Food,26
+23,Quails Gate Pinot Blanc,Wine,Alcohol,3
+23,Ravenswood Zinfandel,Wine,Alcohol,4
+23,Robert Mondavi Merlot,Wine,Alcohol,1
+23,Rye,Liquor,Alcohol,6
+23,Salmon Benedict,Breakfast,Food,5
+23,San Pellegrino,Non Alc Beverage,Food,16
+23,Sandwich,Sandwiches,Food,182
+23,Sandwich ONLY,Sandwiches,Food,8
+23,Sandwich to go,Sandwiches,Food,16
+23,Sat Fish & Chip,Entrees,Food,4
+23,Schooner Lager,Draft Beer,Alcohol,5
+23,Schooner Pale,Draft Beer,Alcohol,3
+23,Schooner Shaft Cream Ale,Draft Beer,Alcohol,2
+23,Seafood Pappardelle,Entrees,Food,17
+23,Seaview Brut Champagne,Wine,Alcohol,2
+23,Shirley Temple,Non Alc Beverage,Food,2
+23,Side Bacon,Breakfast,Food,2
+23,Side Fruit,Breakfast,Food,3
+23,Side of Fries,Appetizers,Food,16
+23,Side Toast,Breakfast,Food,7
+23,Sleeman HB Glass,Draft Beer,Alcohol,12
+23,Sleeman Jugs,Draft Beer,Alcohol,8
+23,Sleeman Schooner,Draft Beer,Alcohol,4
+23,Smirnoff Ice,Coolers/Ciders,Alcohol,14
+23,Smokie,Sandwiches,Food,27
+23,Sol,Bottled Beer,Alcohol,38
+23,Sorbet,Desserts,Food,4
+23,Sour Apple Martini,Liquor,Alcohol,2
+23,Spanish Coffee,Liquor,Alcohol,1
+23,Sparkling Juice @ $ 12.00,Non Alc Beverage,Food,6
+23,Special $21,Entrees,Food,2
+23,Special $22,Entrees,Food,2
+23,Special $9,Entrees,Food,3
+23,Special 10.00,Entrees,Food,21
+23,Special 11.00,Entrees,Food,7
+23,Special 12.00,Entrees,Food,2
+23,Special 17.00,Entrees,Food,2
+23,Special 18.00,Entrees,Food,4
+23,Special 19.00,Entrees,Food,2
+23,Special 22.00,Entrees,Food,9
+23,Special 8.00,Entrees,Food,6
+23,Spiced Apple Crumble,Burgers,Food,2
+23,Spicy Chicken Soba,Burgers,Food,35
+23,Spicy Meat Pizza,Entrees,Food,6
+23,Starter Classic Caesar,Soups/Salads,Food,14
+23,Stella Artois,Bottled Beer,Alcohol,4
+23,Sumac Ridge Sauvignon Blanc,Wine,Alcohol,2
+23,Sumac Ridge Stellar Jay Brut,Wine,Alcohol,1
+23,Sunday Caesar Feature,Liquor,Alcohol,5
+23,Sundried Tomato Ravioli,Entrees,Food,4
+23,Tapas Beef,Appetizers,Food,2
+23,Tapas Chef Choice,Appetizers,Food,4
+23,Tapas Chicken,Appetizers,Food,1
+23,Tapas Seafood,Appetizers,Food,1
+23,Tapas Vegetarian,Appetizers,Food,1
+23,Tea,Non Alc Beverage,Food,101
+23,Three Cheese Flatbread,Appetizers,Food,15
+23,Thur Dry Rib,Appetizers,Food,9
+23,Touraine Sauvignon,Wine,Alcohol,1
+23,Tue Fish Taco,Entrees,Food,3
+23,Ultimate Steak Sandwich,Sandwiches,Food,46
+23,Valentines Dinner,Entrees,Food,3
+23,Vegetable Spinach Ciabatta,Burgers,Food,66
+23,Virgin Caesar,Non Alc Beverage,Food,8
+23,Vodka,Liquor,Alcohol,36
+23,Water-Bottle,Non Alc Beverage,Food,153
+23,Wednesday Appy,Appetizers,Food,37
+23,Wednesday Gl Wine,Wine,Alcohol,41
+23,Wednesday Sleeve,Draft Beer,Alcohol,112
+23,West Coast Seafood Salad,Soups/Salads,Food,25
+23,White Rum,Liquor,Alcohol,20
+23,Wine Spritzer,Wine,Alcohol,3
+23,Wolf BlaDinner,Entrees,Food,2
+23,Wolf BlaGold Cab Franc,Wine,Alcohol,2
+23,Wolf BlaWine,Wine,Alcohol,2
+23,WolfblaRed Label Cab Merlot,Wine,Alcohol,19
+23,Yam Fries,Appetizers,Food,51
+23,Yellowglen Pink for 2,Wine,Alcohol,3
+23,Zed Sauvignon Blanc,Wine,Alcohol,2
